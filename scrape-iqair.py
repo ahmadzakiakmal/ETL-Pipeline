@@ -62,7 +62,7 @@ def scrape(endpoint, time=datetime.now().strftime("%Y-%m-%d %H:%M:%S")):
             # append to buffer
             dataBuffer.append({
                 'id': format_id(city, time),
-                'city': city,
+                'kota': city,
                 'iqa': index,
                 'wind_dir(deg)': wind_dir,
                 'wind_spd(km/h)': wind,
@@ -82,7 +82,7 @@ for endpoint in endpoints:
 # Write the extracted data to a CSV file
 iter = 0
 with open('csv/raw-iqair.csv', mode='w') as csv_file:
-    fieldnames = ['id', 'city', 'iqa', 'wind_dir(deg)', 'wind_spd(km/h)', 'pressure(mbar)', 'last_update']
+    fieldnames = ['id', 'kota', 'iqa', 'wind_dir(deg)', 'wind_spd(km/h)', 'pressure(mbar)', 'last_update']
     writer = csv.DictWriter(csv_file, fieldnames=fieldnames)
     try:
         writer.writeheader()
