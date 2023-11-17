@@ -1,0 +1,41 @@
+id,kota,jamCuaca,kodeCuaca,cuaca,humidity,tempC,tempF
+Banda Aceh_2023-11-17T00:00:00,Banda Aceh,2023-11-17 00:00:00,1,Cerah Berawan,95,23,73
+Banda Aceh_2023-11-17T06:00:00,Banda Aceh,2023-11-17 06:00:00,95,Hujan Petir,70,30,86
+Banda Aceh_2023-11-17T12:00:00,Banda Aceh,2023-11-17 12:00:00,3,Berawan,85,25,77
+Banda Aceh_2023-11-17T18:00:00,Banda Aceh,2023-11-17 18:00:00,1,Cerah Berawan,95,23,73
+Bireuen_2023-11-17T00:00:00,Bireuen,2023-11-17 00:00:00,1,Cerah Berawan,95,23,73
+Bireuen_2023-11-17T06:00:00,Bireuen,2023-11-17 06:00:00,63,Hujan Lebat,65,31,88
+Bireuen_2023-11-17T12:00:00,Bireuen,2023-11-17 12:00:00,3,Berawan,85,25,77
+Bireuen_2023-11-17T18:00:00,Bireuen,2023-11-17 18:00:00,60,Hujan Ringan,95,23,73
+Gayo Lues_2023-11-17T00:00:00,Gayo Lues,2023-11-17 00:00:00,1,Cerah Berawan,100,17,63
+Gayo Lues_2023-11-17T06:00:00,Gayo Lues,2023-11-17 06:00:00,60,Hujan Ringan,75,25,77
+Gayo Lues_2023-11-17T12:00:00,Gayo Lues,2023-11-17 12:00:00,60,Hujan Ringan,95,20,68
+Gayo Lues_2023-11-17T18:00:00,Gayo Lues,2023-11-17 18:00:00,1,Cerah Berawan,100,17,63
+Aceh Barat Daya_2023-11-17T00:00:00,Aceh Barat Daya,2023-11-17 00:00:00,3,Berawan,95,23,73
+Aceh Barat Daya_2023-11-17T06:00:00,Aceh Barat Daya,2023-11-17 06:00:00,3,Berawan,65,31,88
+Aceh Barat Daya_2023-11-17T12:00:00,Aceh Barat Daya,2023-11-17 12:00:00,3,Berawan,85,25,77
+Aceh Barat Daya_2023-11-17T18:00:00,Aceh Barat Daya,2023-11-17 18:00:00,1,Cerah Berawan,95,23,73
+Aceh Jaya_2023-11-17T00:00:00,Aceh Jaya,2023-11-17 00:00:00,3,Berawan,95,23,73
+Aceh Jaya_2023-11-17T06:00:00,Aceh Jaya,2023-11-17 06:00:00,95,Hujan Petir,70,30,86
+Aceh Jaya_2023-11-17T12:00:00,Aceh Jaya,2023-11-17 12:00:00,3,Berawan,85,25,77
+Aceh Jaya_2023-11-17T18:00:00,Aceh Jaya,2023-11-17 18:00:00,3,Berawan,95,23,73
+Aceh Timur_2023-11-17T00:00:00,Aceh Timur,2023-11-17 00:00:00,1,Cerah Berawan,95,23,73
+Aceh Timur_2023-11-17T06:00:00,Aceh Timur,2023-11-17 06:00:00,3,Berawan,65,31,88
+Aceh Timur_2023-11-17T12:00:00,Aceh Timur,2023-11-17 12:00:00,3,Berawan,85,25,77
+Aceh Timur_2023-11-17T18:00:00,Aceh Timur,2023-11-17 18:00:00,1,Cerah Berawan,95,23,73
+Aceh Tamiang_2023-11-17T00:00:00,Aceh Tamiang,2023-11-17 00:00:00,1,Cerah Berawan,95,23,73
+Aceh Tamiang_2023-11-17T06:00:00,Aceh Tamiang,2023-11-17 06:00:00,60,Hujan Ringan,65,31,88
+Aceh Tamiang_2023-11-17T12:00:00,Aceh Tamiang,2023-11-17 12:00:00,3,Berawan,85,25,77
+Aceh Tamiang_2023-11-17T18:00:00,Aceh Tamiang,2023-11-17 18:00:00,1,Cerah Berawan,95,23,73
+Aceh Besar_2023-11-17T00:00:00,Aceh Besar,2023-11-17 00:00:00,3,Berawan,95,23,73
+Aceh Besar_2023-11-17T06:00:00,Aceh Besar,2023-11-17 06:00:00,95,Hujan Petir,70,30,86
+Aceh Besar_2023-11-17T12:00:00,Aceh Besar,2023-11-17 12:00:00,3,Berawan,85,25,77
+Aceh Besar_2023-11-17T18:00:00,Aceh Besar,2023-11-17 18:00:00,3,Berawan,95,23,73
+Aceh Tenggara_2023-11-17T00:00:00,Aceh Tenggara,2023-11-17 00:00:00,3,Berawan,100,17,63
+Aceh Tenggara_2023-11-17T06:00:00,Aceh Tenggara,2023-11-17 06:00:00,60,Hujan Ringan,75,25,77
+Aceh Tenggara_2023-11-17T12:00:00,Aceh Tenggara,2023-11-17 12:00:00,60,Hujan Ringan,95,20,68
+Aceh Tenggara_2023-11-17T18:00:00,Aceh Tenggara,2023-11-17 18:00:00,1,Cerah Berawan,100,17,63
+Langsa_2023-11-17T00:00:00,Langsa,2023-11-17 00:00:00,1,Cerah Berawan,95,23,73
+Langsa_2023-11-17T06:00:00,Langsa,2023-11-17 06:00:00,63,Hujan Lebat,65,31,88
+Langsa_2023-11-17T12:00:00,Langsa,2023-11-17 12:00:00,3,Berawan,85,25,77
+Langsa_2023-11-17T18:00:00,Langsa,2023-11-17 18:00:00,3,Berawan,95,23,73
