@@ -81,7 +81,7 @@ for endpoint in endpoints:
     
 # Write the extracted data to a CSV file
 iter = 0
-with open('raw-iqair.csv', mode='w') as csv_file:
+with open('csv/raw-iqair.csv', mode='w') as csv_file:
     fieldnames = ['id', 'city', 'iqa', 'wind_dir(deg)', 'wind_spd(km/h)', 'pressure(mbar)', 'last_update']
     writer = csv.DictWriter(csv_file, fieldnames=fieldnames)
     try:
