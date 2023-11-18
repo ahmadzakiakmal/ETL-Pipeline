@@ -68,12 +68,10 @@ today = dt.date.today()
 # format today's date to YYYY-MM-DD
 inputDate = today.strftime("%Y-%m-%d")
 
-regionUrl = "https://ibnux.github.io/BMKG-importer/cuaca/wilayah.json"
 try:
-    regionData = requests.get(regionUrl)
-    # Check if the request was successful
-    regionData.raise_for_status()
-    listOfRegions = regionData.json()  # Parse JSON data directly
+    # read json
+    with open("json/wilayah.json", "r") as jsonFile:
+      listOfRegions = json.load(jsonFile)
     
     # Keys to extract
     regionKeys = ["id", "propinsi", "kota"]
