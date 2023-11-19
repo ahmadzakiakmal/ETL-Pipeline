@@ -26,7 +26,7 @@ save_clean_data(filtered_data, 'filtered.txt')
 def save_clean_data(data, output_file):
     with open(output_file, 'w') as file:
         for item in data:
-            file.write("%s\n" % item)
+            file.write("\"%s\",\n" % item)
 
 # Baca data dari file filtered.txt
 with open('filtered.txt', 'r') as file:
