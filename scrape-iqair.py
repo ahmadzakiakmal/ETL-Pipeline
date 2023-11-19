@@ -242,11 +242,11 @@ url = 'https://www.iqair.com/id/indonesia'
 dataBuffer = []
 
 def format_id(kota, date):
-    date_obj = datetime.strptime(date, '%Y-%m-%d %H:%M:%S')
+    date_obj = datetime.strptime(date, '%Y-%m-%d %H:%M')
     formatted_date = date_obj.isoformat()
     return kota + "_" + formatted_date
 
-def scrape(endpoint, time=datetime.now().strftime("%Y-%m-%d %H:%M:%S")):
+def scrape(endpoint, time=datetime.now().strftime("%Y-%m-%d %H:%M")):
     response = requests.get(url + endpoint)
     print("Scraping " + url + endpoint)
     # Check if the request was successful (status code 200)
@@ -306,11 +306,9 @@ def scrape(endpoint, time=datetime.now().strftime("%Y-%m-%d %H:%M:%S")):
             
     except:
         print('Error Occured.')
-        with open("null-regions.txt", "a") as outputFile:
-            outputFile.write(endpoint + "\n")   
 
 # ! FOR TESTING PURPOSES
-# endpoints = endpoints[:10]
+endpoints = endpoints[:5]
 
 i = 0
 for endpoint in endpoints:
@@ -320,7 +318,10 @@ for endpoint in endpoints:
     
 # Write the extracted data to a CSV file
 j = 0
-with open('csv/raw-iqair.csv', mode='w') as csv_file:
+date = datetime.now().strftime("%Y-%m-%d %H:%M")
+date = datetime.strptime(date, '%Y-%m-%d %H:%M')
+date = date.strftime("%Y-%m-%d-%H")
+with open(f"csv/raw-iqair/{date}.csv", mode='w') as csv_file:
     fieldnames = ['id', 'kota', 'iqa', 'wind_dir(deg)', 'wind_spd(km/h)', 'pressure(mbar)', 'last_update']
     writer = csv.DictWriter(csv_file, fieldnames=fieldnames)
     try:
