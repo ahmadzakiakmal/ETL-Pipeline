@@ -1,0 +1,6 @@
+id,kota,iqa,wind_dir(deg),wind_spd(km/h),pressure(mbar),last_update
+Banda Aceh_2023-11-19T14:22:00,Banda Aceh,26,Angin berputar 73 derajat,9.8 km/h,1009 mbar,2023-11-19 14:22
+Langsa_2023-11-19T14:22:00,Langsa,24*,Angin berputar 19 derajat,7.8 km/h,1009 mbar,2023-11-19 14:22
+Lhokseumawe_2023-11-19T14:22:00,Lhokseumawe,28*,Angin berputar 83 derajat,19 km/h,1010 mbar,2023-11-19 14:22
+Sabang_2023-11-19T14:22:00,Sabang,26*,Angin berputar 103 derajat,30.9 km/h,1009 mbar,2023-11-19 14:22
+Bangli_2023-11-19T14:22:00,Bangli,37*,Angin berputar 168 derajat,10.5 km/h,1010 mbar,2023-11-19 14:22
