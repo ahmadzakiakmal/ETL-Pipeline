@@ -95,10 +95,12 @@ try:
         weatherData.append(tempWeatherData)
         
     # Write to CSV  
-    fileName = "csv/bmkg-raw.csv"
+    date = datetime.now().strftime("%Y-%m-%d %H:%M")
+    date = datetime.strptime(date, '%Y-%m-%d %H:%M')
+    date = date.strftime("%Y-%m-%d")
     csvHeader = ["id", "kota", "jamCuaca", "kodeCuaca", "cuaca", "humidity", "tempC", "tempF"]
     
-    with open(fileName, "w") as csvFile:
+    with open(f"csv/raw-bmkg/{date}.csv", "w") as csvFile:
       csvWriter = csv.DictWriter(csvFile, fieldnames=csvHeader)
       csvWriter.writeheader()
       iter = 0
@@ -107,7 +109,7 @@ try:
             iter += 1
             csvWriter.writerow(subData)
             
-    print("Written " + str(iter) + " rows to " + fileName)
+    print("Written " + str(iter) + " rows to CSV")
 
 except requests.exceptions.HTTPError as http_err:
     print(f"HTTP error occurred: {http_err}")
