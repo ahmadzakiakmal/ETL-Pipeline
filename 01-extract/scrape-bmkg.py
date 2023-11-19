@@ -89,7 +89,7 @@ try:
         filteredRegions.append(regionDict)
 
     # ! FOR DEBUGGING: trim to only first 10 regions
-    filteredRegions = filteredRegions[:10]
+    # filteredRegions = filteredRegions[:2]
 
     # Iterate each region and call their respective API
     weatherData = []
