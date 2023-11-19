@@ -306,7 +306,7 @@ def scrape(endpoint, time=datetime.now().strftime("%Y-%m-%d %H")):
 
 
 # ! FOR TESTING PURPOSES
-endpoints = endpoints[:2]
+# endpoints = endpoints[:2]
 
 i = 0
 for endpoint in endpoints:
