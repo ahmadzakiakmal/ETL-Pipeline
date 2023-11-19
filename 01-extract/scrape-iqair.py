@@ -306,7 +306,7 @@ def scrape(endpoint, time=datetime.now().strftime("%Y-%m-%d %H")):
 
 
 # ! FOR TESTING PURPOSES
-endpoints = endpoints[:5]
+endpoints = endpoints[:2]
 
 i = 0
 for endpoint in endpoints:
@@ -319,7 +319,7 @@ j = 0
 date = datetime.now().strftime("%Y-%m-%d %H:%M")
 date = datetime.strptime(date, "%Y-%m-%d %H:%M")
 date = date.strftime("%Y-%m-%d-%H")
-with open(f"csv/raw-iqair/{date}.csv", mode="w") as csv_file:
+with open(f"../csv/raw-iqair/{date}.csv", mode="w") as csv_file:
     fieldnames = [
         "id",
         "kota",
