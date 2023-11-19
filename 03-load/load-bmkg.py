@@ -33,12 +33,15 @@ try:
 except:
     print("Failed to connect to database.")
     
-# if connected:
-#     with open(f"csv/raw-bmkg/{date}.csv") as csv_file:
-#         cur = conn.cursor()
-#         cur.copy_from(csv_file, "bmkg", sep=",")
-#         conn.commit()
-#         cur.close()
-#         print(f"Successfully copied {date}.csv to bmkg table.")
+if connected:
+    with open(f"csv/raw-bmkg/{date}.csv") as csv_file:
+        # skip line 1
+        next(csv_file)
+        # insert into table weather
+        cur = conn.cursor()
+        cur.copy_from(csv_file, "weather", sep=",")
+        conn.commit()
+        cur.close()
+        print(f"Successfully copied {date}.csv to weather table.")
 
 
