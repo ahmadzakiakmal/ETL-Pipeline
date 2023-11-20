@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Path file CSV
-file_path = '/Users/erikuncoro/Documents/Project_Rekdat/ETL-Pipeline/csv/raw-bmkg/2023-11-19.csv'
+file_path = '../ETL-Pipeline/csv/raw-bmkg/2023-11-19.csv'
 
 # Membaca file CSV ke dalam DataFrame
 df = pd.read_csv(file_path)
@@ -17,7 +17,7 @@ print(duplicate_rows)
 cleaned_df = df.drop_duplicates()
 
 # Menyimpan DataFrame yang sudah bersih ke dalam file CSV baru
-cleaned_file_path = '/Users/erikuncoro/Documents/Project_Rekdat/ETL-Pipeline/csv/cleaned-bmkg/2023-11-19_cleaned.csv'
+cleaned_file_path = '../ETL-Pipeline/csv/cleaned-bmkg/2023-11-19_cleaned.csv'
 cleaned_df.to_csv(cleaned_file_path, index=False)
 
 # Menampilkan informasi setelah menghapus duplikat

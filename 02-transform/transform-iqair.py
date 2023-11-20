@@ -16,7 +16,7 @@ def clean_csv(file_paths):
         file_name = os.path.splitext(os.path.basename(file_path))[0]
 
         # Menentukan direktori untuk menyimpan file CSV yang sudah dibersihkan
-        cleaned_dir = '/Users/erikuncoro/Documents/Project_Rekdat/ETL-Pipeline/csv/cleaned-iqair/'
+        cleaned_dir = '../ETL-Pipeline/csv/cleaned-iqair/'
         os.makedirs(cleaned_dir, exist_ok=True)  # Membuat direktori jika belum ada
 
         # Menyimpan DataFrame yang sudah dibersihkan ke dalam file CSV baru
@@ -40,7 +40,7 @@ def merge_cleaned_files(directory):
         merged_df = merged_df.sort_values(by='kota')
 
         # Menyimpan DataFrame yang sudah digabungkan, diurutkan, dan tanpa data ganda ke dalam file CSV baru
-        merged_dir = '/Users/erikuncoro/Documents/Project_Rekdat/ETL-Pipeline/csv/merged-iqair/'
+        merged_dir = '../ETL-Pipeline/csv/merged-iqair/'
         os.makedirs(merged_dir, exist_ok=True)  # Membuat direktori jika belum ada
 
         merged_file_path = os.path.join(merged_dir, 'merged_cleaned_files.csv')
@@ -51,15 +51,15 @@ def merge_cleaned_files(directory):
 
 # Daftar file yang perlu dibersihkan
 file_paths = [
-    '/Users/erikuncoro/Documents/Project_Rekdat/ETL-Pipeline/csv/raw-iqair/2023-11-20-00.csv',
-    '/Users/erikuncoro/Documents/Project_Rekdat/ETL-Pipeline/csv/raw-iqair/2023-11-20-06.csv'
+    '../ETL-Pipeline/csv/raw-iqair/2023-11-20-00.csv',
+    '../ETL-Pipeline/csv/raw-iqair/2023-11-20-06.csv'
 ]
 
 # Memanggil fungsi clean_csv untuk membersihkan data pada file-file CSV
 clean_csv(file_paths)
 
 # Directory tempat file cleaned_{file_name}.csv disimpan
-directory = '/Users/erikuncoro/Documents/Project_Rekdat/ETL-Pipeline/csv/cleaned-iqair/'
+directory = '../ETL-Pipeline/csv/cleaned-iqair/'
 
 # Memanggil fungsi untuk menggabungkan file-file yang telah dibersihkan
 merge_cleaned_files(directory)
