@@ -1,0 +1,454 @@
+id,kota,iqa,wind_dir(deg),wind_spd(km/h),pressure(mbar),accessed
+
+Banda Aceh_2023-11-21T06:00:00,Banda Aceh,52,Angin berputar 63 derajat,2.8 km/h,1010 mbar,2023-11-21 06
+
+Langsa_2023-11-21T06:00:00,Langsa,15*,Angin berputar 355 derajat,3.3 km/h,1010 mbar,2023-11-21 06
+
+Lhokseumawe_2023-11-21T06:00:00,Lhokseumawe,25*,Angin berputar 106 derajat,2.8 km/h,1010 mbar,2023-11-21 06
+
+Sabang_2023-11-21T06:00:00,Sabang,39*,Angin berputar 91 derajat,9.9 km/h,1010 mbar,2023-11-21 06
+
+Bangli_2023-11-21T06:00:00,Bangli,38*,Angin berputar 154 derajat,2 km/h,1012 mbar,2023-11-21 06
+
+Denpasar_2023-11-21T06:00:00,Denpasar,61,Angin berputar 178 derajat,5.5 km/h,1010 mbar,2023-11-21 06
+
+Gianyar_2023-11-21T06:00:00,Gianyar,42*,Angin berputar 154 derajat,4.1 km/h,1011 mbar,2023-11-21 06
+
+Badung_2023-11-21T06:00:00,Badung,37,Angin berputar 180 derajat,5.6 km/h,1011 mbar,2023-11-21 06
+
+Klungkung_2023-11-21T06:00:00,Klungkung,41*,Angin berputar 158 derajat,3.5 km/h,1011 mbar,2023-11-21 06
+
+Kabupaten Buleleng_2023-11-21T06:00:00,Kabupaten Buleleng,25,Angin berputar 187 derajat,6.9 km/h,1012 mbar,2023-11-21 06
+
+Tabanan_2023-11-21T06:00:00,Tabanan,42*,Angin berputar 161 derajat,6.6 km/h,1011 mbar,2023-11-21 06
+
+Pandeglang_2023-11-21T06:00:00,Pandeglang,86*,Angin berputar 219 derajat,3 km/h,1010 mbar,2023-11-21 06
+
+Kabupaten Serang_2023-11-21T06:00:00,Kabupaten Serang,92,Angin berputar 328 derajat,4.3 km/h,1009 mbar,2023-11-21 06
+
+Tangerang_2023-11-21T06:00:00,Tangerang,134,Angin berputar 358 derajat,9.3 km/h,1009 mbar,2023-11-21 06
+
+Kabupaten Serang_2023-11-21T06:00:00,Kabupaten Serang,92,Angin berputar 328 derajat,4.3 km/h,1009 mbar,2023-11-21 06
+
+South Tangerang_2023-11-21T06:00:00,South Tangerang,132,Angin berputar 359 derajat,9.3 km/h,1009 mbar,2023-11-21 06
+
+Bengkulu_2023-11-21T06:00:00,Bengkulu,65,Angin berputar 185 derajat,7.3 km/h,1010 mbar,2023-11-21 06
+
+Kepahiang_2023-11-21T06:00:00,Kepahiang,31*,Angin berputar 222 derajat,1.5 km/h,1012 mbar,2023-11-21 06
+
+Bantul_2023-11-21T06:00:00,Bantul,40*,Angin berputar 165 derajat,5.9 km/h,1011 mbar,2023-11-21 06
+
+Sleman_2023-11-21T06:00:00,Sleman,57,Angin berputar 180 derajat,0.8 km/h,1012 mbar,2023-11-21 06
+
+Yogyakarta_2023-11-21T06:00:00,Yogyakarta,39*,Angin berputar 173 derajat,2.3 km/h,1011 mbar,2023-11-21 06
+
+Propinsi Gorontalo_2023-11-21T06:00:00,Propinsi Gorontalo,67,Angin berputar 210 derajat,3.3 km/h,1011 mbar,2023-11-21 06
+
+Propinsi Gorontalo_2023-11-21T06:00:00,Propinsi Gorontalo,67,Angin berputar 210 derajat,3.3 km/h,1011 mbar,2023-11-21 06
+
+Jambi_2023-11-21T06:00:00,Jambi,77,Angin berputar 43 derajat,2.6 km/h,1009 mbar,2023-11-21 06
+
+Muara Sabak_2023-11-21T06:00:00,Muara Sabak,45,Angin berputar 273 derajat,2.9 km/h,1009 mbar,2023-11-21 06
+
+Sungai Penuh_2023-11-21T06:00:00,Sungai Penuh,39*,Angin berputar 217 derajat,3 km/h,1012 mbar,2023-11-21 06
+
+Sarolangun_2023-11-21T06:00:00,Sarolangun,54*,Angin berputar 321 derajat,1.9 km/h,1009 mbar,2023-11-21 06
+
+Bandung_2023-11-21T06:00:00,Bandung,85,Angin berputar 354 derajat,5.4 km/h,1012 mbar,2023-11-21 06
+
+Banjar_2023-11-21T06:00:00,Banjar,53*,Angin berputar 200 derajat,4 km/h,1013 mbar,2023-11-21 06
+
+Ciamis_2023-11-21T06:00:00,Ciamis,36*,Angin berputar 150 derajat,0.8 km/h,1012 mbar,2023-11-21 06
+
+Cianjur_2023-11-21T06:00:00,Cianjur,70*,Angin berputar 358 derajat,2.9 km/h,1012 mbar,2023-11-21 06
+
+Bogor_2023-11-21T06:00:00,Bogor,61,Angin berputar 177 derajat,6 km/h,1011 mbar,2023-11-21 06
+
+Bekasi_2023-11-21T06:00:00,Bekasi,112,Angin berputar 352 derajat,0 km/h,1005 mbar,2023-11-21 06
+
+Cimahi_2023-11-21T06:00:00,Cimahi,67*,Angin berputar 348 derajat,5.5 km/h,1012 mbar,2023-11-21 06
+
+Cirebon_2023-11-21T06:00:00,Cirebon,104,Angin berputar 197 derajat,12.8 km/h,1010 mbar,2023-11-21 06
+
+Garut_2023-11-21T06:00:00,Garut,39*,Angin berputar 126 derajat,5.4 km/h,1013 mbar,2023-11-21 06
+
+Indramayu_2023-11-21T06:00:00,Indramayu,73*,Angin berputar 61 derajat,12.3 km/h,1009 mbar,2023-11-21 06
+
+Karawang_2023-11-21T06:00:00,Karawang,89,Angin berputar 319 derajat,5.8 km/h,1010 mbar,2023-11-21 06
+
+Kuningan_2023-11-21T06:00:00,Kuningan,41*,Angin berputar 175 derajat,10.3 km/h,1012 mbar,2023-11-21 06
+
+Majalengka_2023-11-21T06:00:00,Majalengka,51*,Angin berputar 127 derajat,7.8 km/h,1011 mbar,2023-11-21 06
+
+Purwakarta_2023-11-21T06:00:00,Purwakarta,160,Angin berputar 350 derajat,4.3 km/h,1010 mbar,2023-11-21 06
+
+Tasikmalaya_2023-11-21T06:00:00,Tasikmalaya,36*,Angin berputar 145 derajat,1.8 km/h,1012 mbar,2023-11-21 06
+
+Bandung_2023-11-21T06:00:00,Bandung,85,Angin berputar 354 derajat,5.4 km/h,1012 mbar,2023-11-21 06
+
+Subang_2023-11-21T06:00:00,Subang,35*,Angin berputar 171 derajat,6.5 km/h,1012 mbar,2023-11-21 06
+
+Cirebon_2023-11-21T06:00:00,Cirebon,104,Angin berputar 197 derajat,12.8 km/h,1010 mbar,2023-11-21 06
+
+Sumedang_2023-11-21T06:00:00,Sumedang,59*,Angin berputar 57 derajat,6.3 km/h,1012 mbar,2023-11-21 06
+
+Tasikmalaya_2023-11-21T06:00:00,Tasikmalaya,36*,Angin berputar 145 derajat,1.8 km/h,1012 mbar,2023-11-21 06
+
+Bogor_2023-11-21T06:00:00,Bogor,61,Angin berputar 177 derajat,6 km/h,1011 mbar,2023-11-21 06
+
+Bekasi_2023-11-21T06:00:00,Bekasi,112,Angin berputar 352 derajat,0 km/h,1005 mbar,2023-11-21 06
+
+Bogor_2023-11-21T06:00:00,Bogor,61,Angin berputar 177 derajat,6 km/h,1011 mbar,2023-11-21 06
+
+Cianjur_2023-11-21T06:00:00,Cianjur,70*,Angin berputar 358 derajat,2.9 km/h,1012 mbar,2023-11-21 06
+
+Banjarnegara_2023-11-21T06:00:00,Banjarnegara,36*,Angin berputar 170 derajat,3.6 km/h,1012 mbar,2023-11-21 06
+
+Batang_2023-11-21T06:00:00,Batang,71*,Angin berputar 13 derajat,10.9 km/h,1010 mbar,2023-11-21 06
+
+Blora_2023-11-21T06:00:00,Blora,79*,Angin berputar 9 derajat,7.1 km/h,1010 mbar,2023-11-21 06
+
+Boyolali_2023-11-21T06:00:00,Boyolali,43*,Angin berputar 192 derajat,9.2 km/h,1012 mbar,2023-11-21 06
+
+Brebes_2023-11-21T06:00:00,Brebes,43*,Angin berputar 200 derajat,10.4 km/h,1010 mbar,2023-11-21 06
+
+Cilacap_2023-11-21T06:00:00,Cilacap,37*,Angin berputar 145 derajat,13.4 km/h,1011 mbar,2023-11-21 06
+
+Demak_2023-11-21T06:00:00,Demak,70*,Angin berputar 331 derajat,8 km/h,1010 mbar,2023-11-21 06
+
+Jepara_2023-11-21T06:00:00,Jepara,72*,Angin berputar 7 derajat,12.5 km/h,1010 mbar,2023-11-21 06
+
+Pekalongan_2023-11-21T06:00:00,Pekalongan,54*,Angin berputar 356 derajat,5.7 km/h,1010 mbar,2023-11-21 06
+
+Karanganyar_2023-11-21T06:00:00,Karanganyar,46*,Angin berputar 203 derajat,7.1 km/h,1011 mbar,2023-11-21 06
+
+Kebumen_2023-11-21T06:00:00,Kebumen,38*,Angin berputar 158 derajat,6.1 km/h,1011 mbar,2023-11-21 06
+
+Kendal_2023-11-21T06:00:00,Kendal,61*,Angin berputar 318 derajat,5.8 km/h,1010 mbar,2023-11-21 06
+
+Kabupaten Klaten_2023-11-21T06:00:00,Kabupaten Klaten,39*,Angin berputar 179 derajat,5.9 km/h,1011 mbar,2023-11-21 06
+
+Kudus_2023-11-21T06:00:00,Kudus,76*,Angin berputar 149 derajat,7.7 km/h,1010 mbar,2023-11-21 06
+
+Magelang_2023-11-21T06:00:00,Magelang,39*,Angin berputar 188 derajat,4.6 km/h,1012 mbar,2023-11-21 06
+
+Magelang_2023-11-21T06:00:00,Magelang,39*,Angin berputar 188 derajat,4.6 km/h,1012 mbar,2023-11-21 06
+
+Pati_2023-11-21T06:00:00,Pati,83*,Angin berputar 31 derajat,3.5 km/h,1010 mbar,2023-11-21 06
+
+Pekalongan_2023-11-21T06:00:00,Pekalongan,54*,Angin berputar 356 derajat,5.7 km/h,1010 mbar,2023-11-21 06
+
+Pemalang_2023-11-21T06:00:00,Pemalang,43*,Angin berputar 195 derajat,7.7 km/h,1010 mbar,2023-11-21 06
+
+Purbalingga_2023-11-21T06:00:00,Purbalingga,36*,Angin berputar 164 derajat,1.4 km/h,1012 mbar,2023-11-21 06
+
+Banyumas_2023-11-21T06:00:00,Banyumas,36*,Angin berputar 163 derajat,3.4 km/h,1011 mbar,2023-11-21 06
+
+Purworejo_2023-11-21T06:00:00,Purworejo,39*,Angin berputar 168 derajat,5.7 km/h,1011 mbar,2023-11-21 06
+
+Rembang_2023-11-21T06:00:00,Rembang,82*,Angin berputar 21 derajat,9.6 km/h,1010 mbar,2023-11-21 06
+
+Salatiga_2023-11-21T06:00:00,Salatiga,49*,Angin berputar 197 derajat,6 km/h,1012 mbar,2023-11-21 06
+
+Semarang_2023-11-21T06:00:00,Semarang,49,Angin berputar 334 derajat,3.7 km/h,1008 mbar,2023-11-21 06
+
+Tegal_2023-11-21T06:00:00,Tegal,43*,Angin berputar 192 derajat,9.7 km/h,1010 mbar,2023-11-21 06
+
+Sragen_2023-11-21T06:00:00,Sragen,55*,Angin berputar 224 derajat,8 km/h,1010 mbar,2023-11-21 06
+
+Sukoharjo_2023-11-21T06:00:00,Sukoharjo,41*,Angin berputar 192 derajat,8 km/h,1011 mbar,2023-11-21 06
+
+Surakarta_2023-11-21T06:00:00,Surakarta,39,Angin berputar 190 derajat,11.1 km/h,1011 mbar,2023-11-21 06
+
+Tegal_2023-11-21T06:00:00,Tegal,43*,Angin berputar 192 derajat,9.7 km/h,1010 mbar,2023-11-21 06
+
+Temanggung_2023-11-21T06:00:00,Temanggung,45*,Angin berputar 180 derajat,7.5 km/h,1012 mbar,2023-11-21 06
+
+Semarang_2023-11-21T06:00:00,Semarang,49,Angin berputar 334 derajat,3.7 km/h,1008 mbar,2023-11-21 06
+
+Wonogiri_2023-11-21T06:00:00,Wonogiri,41*,Angin berputar 179 derajat,8.1 km/h,1011 mbar,2023-11-21 06
+
+Wonosobo_2023-11-21T06:00:00,Wonosobo,36*,Angin berputar 170 derajat,4.2 km/h,1013 mbar,2023-11-21 06
+
+Semarang_2023-11-21T06:00:00,Semarang,49,Angin berputar 334 derajat,3.7 km/h,1008 mbar,2023-11-21 06
+
+Bangkalan_2023-11-21T06:00:00,Bangkalan,72*,Angin berputar 31 derajat,4.6 km/h,1010 mbar,2023-11-21 06
+
+Banyuwangi_2023-11-21T06:00:00,Banyuwangi,41*,Angin berputar 152 derajat,2.8 km/h,1012 mbar,2023-11-21 06
+
+Batu_2023-11-21T06:00:00,Batu,43*,Angin berputar 143 derajat,1.4 km/h,1013 mbar,2023-11-21 06
+
+Blitar_2023-11-21T06:00:00,Blitar,41*,Angin berputar 176 derajat,5.7 km/h,1011 mbar,2023-11-21 06
+
+Bojonegoro_2023-11-21T06:00:00,Bojonegoro,64*,Angin berputar 160 derajat,9 km/h,1010 mbar,2023-11-21 06
+
+Bondowoso_2023-11-21T06:00:00,Bondowoso,41*,Angin berputar 205 derajat,4.2 km/h,1012 mbar,2023-11-21 06
+
+Gresik_2023-11-21T06:00:00,Gresik,71*,Angin berputar 48 derajat,2.2 km/h,1010 mbar,2023-11-21 06
+
+Jember_2023-11-21T06:00:00,Jember,52*,Angin berputar 199 derajat,1.5 km/h,1012 mbar,2023-11-21 06
+
+Jombang_2023-11-21T06:00:00,Jombang,54*,Angin berputar 197 derajat,9.5 km/h,1010 mbar,2023-11-21 06
+
+Kediri_2023-11-21T06:00:00,Kediri,40*,Angin berputar 181 derajat,15.2 km/h,1011 mbar,2023-11-21 06
+
+Kabupaten Malang_2023-11-21T06:00:00,Kabupaten Malang,42,Angin berputar 177 derajat,1.2 km/h,1013 mbar,2023-11-21 06
+
+Lamongan_2023-11-21T06:00:00,Lamongan,71*,Angin berputar 32 derajat,6.6 km/h,1010 mbar,2023-11-21 06
+
+Kabupaten Lumajang_2023-11-21T06:00:00,Kabupaten Lumajang,43*,Angin berputar 174 derajat,2.1 km/h,1011 mbar,2023-11-21 06
+
+Madiun_2023-11-21T06:00:00,Madiun,45*,Angin berputar 175 derajat,12.5 km/h,1011 mbar,2023-11-21 06
+
+Madiun_2023-11-21T06:00:00,Madiun,45*,Angin berputar 175 derajat,12.5 km/h,1011 mbar,2023-11-21 06
+
+Magetan_2023-11-21T06:00:00,Magetan,42*,Angin berputar 162 derajat,7.8 km/h,1011 mbar,2023-11-21 06
+
+Kabupaten Malang_2023-11-21T06:00:00,Kabupaten Malang,42,Angin berputar 177 derajat,1.2 km/h,1013 mbar,2023-11-21 06
+
+Mojokerto_2023-11-21T06:00:00,Mojokerto,62*,Angin berputar 224 derajat,7.1 km/h,1010 mbar,2023-11-21 06
+
+Nganjuk_2023-11-21T06:00:00,Nganjuk,45*,Angin berputar 168 derajat,13 km/h,1011 mbar,2023-11-21 06
+
+Pacitan_2023-11-21T06:00:00,Pacitan,42*,Angin berputar 147 derajat,12 km/h,1011 mbar,2023-11-21 06
+
+Pamekasan_2023-11-21T06:00:00,Pamekasan,42*,Angin berputar 94 derajat,5.4 km/h,1010 mbar,2023-11-21 06
+
+Pasuruan_2023-11-21T06:00:00,Pasuruan,48*,Angin berputar 98 derajat,5.5 km/h,1011 mbar,2023-11-21 06
+
+Ponorogo_2023-11-21T06:00:00,Ponorogo,41*,Angin berputar 147 derajat,8.5 km/h,1011 mbar,2023-11-21 06
+
+Probolinggo_2023-11-21T06:00:00,Probolinggo,41*,Angin berputar 170 derajat,13.4 km/h,1010 mbar,2023-11-21 06
+
+Sampang_2023-11-21T06:00:00,Sampang,52*,Angin berputar 179 derajat,17.4 km/h,1010 mbar,2023-11-21 06
+
+Sidoarjo_2023-11-21T06:00:00,Sidoarjo,61*,Angin berputar 77 derajat,7.4 km/h,1009 mbar,2023-11-21 06
+
+Situbondo_2023-11-21T06:00:00,Situbondo,31*,Angin berputar 23 derajat,9.5 km/h,1010 mbar,2023-11-21 06
+
+Sumenep_2023-11-21T06:00:00,Sumenep,40*,Angin berputar 117 derajat,11.4 km/h,1010 mbar,2023-11-21 06
+
+Surabaya_2023-11-21T06:00:00,Surabaya,111,Angin berputar 117 derajat,7.4 km/h,1009 mbar,2023-11-21 06
+
+Trenggalek_2023-11-21T06:00:00,Trenggalek,42*,Angin berputar 154 derajat,3.1 km/h,1012 mbar,2023-11-21 06
+
+Tuban_2023-11-21T06:00:00,Tuban,71*,Angin berputar 10 derajat,10 km/h,1010 mbar,2023-11-21 06
+
+Tulungagung_2023-11-21T06:00:00,Tulungagung,42*,Angin berputar 171 derajat,4.5 km/h,1011 mbar,2023-11-21 06
+
+Surabaya_2023-11-21T06:00:00,Surabaya,111,Angin berputar 117 derajat,7.4 km/h,1009 mbar,2023-11-21 06
+
+Kediri_2023-11-21T06:00:00,Kediri,40*,Angin berputar 181 derajat,15.2 km/h,1011 mbar,2023-11-21 06
+
+Mojokerto_2023-11-21T06:00:00,Mojokerto,62*,Angin berputar 224 derajat,7.1 km/h,1010 mbar,2023-11-21 06
+
+Probolinggo_2023-11-21T06:00:00,Probolinggo,41*,Angin berputar 170 derajat,13.4 km/h,1010 mbar,2023-11-21 06
+
+Blitar_2023-11-21T06:00:00,Blitar,41*,Angin berputar 176 derajat,5.7 km/h,1011 mbar,2023-11-21 06
+
+Pasuruan_2023-11-21T06:00:00,Pasuruan,48*,Angin berputar 98 derajat,5.5 km/h,1011 mbar,2023-11-21 06
+
+Bengkayang_2023-11-21T06:00:00,Bengkayang,35*,Angin berputar 173 derajat,1.9 km/h,1009 mbar,2023-11-21 06
+
+Ketapang_2023-11-21T06:00:00,Ketapang,51*,Angin berputar 239 derajat,7.7 km/h,1009 mbar,2023-11-21 06
+
+Ngabang_2023-11-21T06:00:00,Ngabang,36*,Angin berputar 223 derajat,0.2 km/h,1009 mbar,2023-11-21 06
+
+Pontianak_2023-11-21T06:00:00,Pontianak,49,Angin berputar 259 derajat,3.7 km/h,1008 mbar,2023-11-21 06
+
+Pontianak_2023-11-21T06:00:00,Pontianak,49,Angin berputar 259 derajat,3.7 km/h,1008 mbar,2023-11-21 06
+
+Sambas_2023-11-21T06:00:00,Sambas,30*,Angin berputar 274 derajat,2.3 km/h,1009 mbar,2023-11-21 06
+
+Sanggau_2023-11-21T06:00:00,Sanggau,36*,Angin berputar 223 derajat,1.9 km/h,1009 mbar,2023-11-21 06
+
+Sekadau_2023-11-21T06:00:00,Sekadau,39*,Angin berputar 226 derajat,1.7 km/h,1009 mbar,2023-11-21 06
+
+Singkawang_2023-11-21T06:00:00,Singkawang,31*,Angin berputar 235 derajat,4.1 km/h,1009 mbar,2023-11-21 06
+
+Sintang_2023-11-21T06:00:00,Sintang,52,Angin berputar 296 derajat,1.4 km/h,1009 mbar,2023-11-21 06
+
+Bandjarbaru_2023-11-21T06:00:00,Bandjarbaru,57,Angin berputar 203 derajat,1.8 km/h,1008 mbar,2023-11-21 06
+
+Banjarmasin_2023-11-21T06:00:00,Banjarmasin,45*,Angin berputar 214 derajat,4.3 km/h,1009 mbar,2023-11-21 06
+
+Palangka Raya_2023-11-21T06:00:00,Palangka Raya,70,Angin berputar 189 derajat,2.5 km/h,1009 mbar,2023-11-21 06
+
+Pulang Pisau_2023-11-21T06:00:00,Pulang Pisau,0,Angin berputar 224 derajat,4.5 km/h,1010 mbar,2023-11-21 06
+
+Sampit_2023-11-21T06:00:00,Sampit,30*,Angin berputar 170 derajat,2.4 km/h,1009 mbar,2023-11-21 06
+
+Balikpapan_2023-11-21T06:00:00,Balikpapan,28*,Angin berputar 190 derajat,7.4 km/h,1009 mbar,2023-11-21 06
+
+Bontang_2023-11-21T06:00:00,Bontang,35*,Angin berputar 198 derajat,8.5 km/h,1010 mbar,2023-11-21 06
+
+Samarinda_2023-11-21T06:00:00,Samarinda,31,Angin berputar 214 derajat,3.3 km/h,1010 mbar,2023-11-21 06
+
+Balikpapan_2023-11-21T06:00:00,Balikpapan,28*,Angin berputar 190 derajat,7.4 km/h,1009 mbar,2023-11-21 06
+
+Malinau_2023-11-21T06:00:00,Malinau,33*,Angin berputar 40 derajat,2 km/h,1010 mbar,2023-11-21 06
+
+Tarakan_2023-11-21T06:00:00,Tarakan,27*,Angin berputar 99 derajat,3.7 km/h,1010 mbar,2023-11-21 06
+
+Tanjungpinang_2023-11-21T06:00:00,Tanjungpinang,23,Angin berputar 20 derajat,3.1 km/h,1009 mbar,2023-11-21 06
+
+Batam_2023-11-21T06:00:00,Batam,75,Angin berputar 24 derajat,7.4 km/h,1009 mbar,2023-11-21 06
+
+Batam_2023-11-21T06:00:00,Batam,75,Angin berputar 24 derajat,7.4 km/h,1009 mbar,2023-11-21 06
+
+Tarempa_2023-11-21T06:00:00,Tarempa,5*,Angin berputar 46 derajat,10.8 km/h,1009 mbar,2023-11-21 06
+
+Bandarlampung_2023-11-21T06:00:00,Bandarlampung,45,Angin berputar 178 derajat,7.3 km/h,1010 mbar,2023-11-21 06
+
+Metro_2023-11-21T06:00:00,Metro,67*,Angin berputar 164 derajat,7.9 km/h,1010 mbar,2023-11-21 06
+
+Pringsewu_2023-11-21T06:00:00,Pringsewu,61*,Angin berputar 210 derajat,6.7 km/h,1010 mbar,2023-11-21 06
+
+Ambon_2023-11-21T06:00:00,Ambon,43,Angin berputar 147 derajat,13 km/h,1010 mbar,2023-11-21 06
+
+Ambon_2023-11-21T06:00:00,Ambon,43,Angin berputar 147 derajat,13 km/h,1010 mbar,2023-11-21 06
+
+Bula_2023-11-21T06:00:00,Bula,26*,Angin berputar 105 derajat,4.6 km/h,1012 mbar,2023-11-21 06
+
+Dobo_2023-11-21T06:00:00,Dobo,57*,Angin berputar 119 derajat,15 km/h,1012 mbar,2023-11-21 06
+
+Namlea_2023-11-21T06:00:00,Namlea,33*,Angin berputar 85 derajat,5.9 km/h,1012 mbar,2023-11-21 06
+
+Tual_2023-11-21T06:00:00,Tual,56*,Angin berputar 136 derajat,25.3 km/h,1011 mbar,2023-11-21 06
+
+Ternate_2023-11-21T06:00:00,Ternate,39*,Angin berputar 219 derajat,6.4 km/h,1011 mbar,2023-11-21 06
+
+Bima_2023-11-21T06:00:00,Bima,49*,Angin berputar 147 derajat,5.7 km/h,1011 mbar,2023-11-21 06
+
+Dompu_2023-11-21T06:00:00,Dompu,35*,Angin berputar 177 derajat,3.2 km/h,1012 mbar,2023-11-21 06
+
+Mataram_2023-11-21T06:00:00,Mataram,43,Angin berputar 203 derajat,9.6 km/h,1011 mbar,2023-11-21 06
+
+Bima_2023-11-21T06:00:00,Bima,49*,Angin berputar 147 derajat,5.7 km/h,1011 mbar,2023-11-21 06
+
+Bima_2023-11-21T06:00:00,Bima,49*,Angin berputar 147 derajat,5.7 km/h,1011 mbar,2023-11-21 06
+
+Jayapura_2023-11-21T06:00:00,Jayapura,74,Angin berputar 82 derajat,7.2 km/h,1012 mbar,2023-11-21 06
+
+Nabire_2023-11-21T06:00:00,Nabire,35*,Angin berputar 313 derajat,4.1 km/h,1012 mbar,2023-11-21 06
+
+Sarmi_2023-11-21T06:00:00,Sarmi,24*,Angin berputar 96 derajat,17 km/h,1012 mbar,2023-11-21 06
+
+Jayapura_2023-11-21T06:00:00,Jayapura,74,Angin berputar 82 derajat,7.2 km/h,1012 mbar,2023-11-21 06
+
+Agats_2023-11-21T06:00:00,Agats,34*,Angin berputar 204 derajat,10.3 km/h,1012 mbar,2023-11-21 06
+
+Biak_2023-11-21T06:00:00,Biak,23*,Angin berputar 93 derajat,20.7 km/h,1012 mbar,2023-11-21 06
+
+Jayapura_2023-11-21T06:00:00,Jayapura,74,Angin berputar 82 derajat,7.2 km/h,1012 mbar,2023-11-21 06
+
+Nabire_2023-11-21T06:00:00,Nabire,35*,Angin berputar 313 derajat,4.1 km/h,1012 mbar,2023-11-21 06
+
+Serui_2023-11-21T06:00:00,Serui,25*,Angin berputar 95 derajat,11.4 km/h,1012 mbar,2023-11-21 06
+
+Jayapura_2023-11-21T06:00:00,Jayapura,74,Angin berputar 82 derajat,7.2 km/h,1012 mbar,2023-11-21 06
+
+Nabire_2023-11-21T06:00:00,Nabire,35*,Angin berputar 313 derajat,4.1 km/h,1012 mbar,2023-11-21 06
+
+Sarmi_2023-11-21T06:00:00,Sarmi,24*,Angin berputar 96 derajat,17 km/h,1012 mbar,2023-11-21 06
+
+Sorong_2023-11-21T06:00:00,Sorong,33,Angin berputar 144 derajat,6.7 km/h,1011 mbar,2023-11-21 06
+
+Kaimana_2023-11-21T06:00:00,Kaimana,37*,Angin berputar 127 derajat,4.9 km/h,1012 mbar,2023-11-21 06
+
+Manokwari_2023-11-21T06:00:00,Manokwari,57,Angin berputar 116 derajat,8.6 km/h,1012 mbar,2023-11-21 06
+
+Sorong_2023-11-21T06:00:00,Sorong,33,Angin berputar 144 derajat,6.7 km/h,1011 mbar,2023-11-21 06
+
+Kaimana_2023-11-21T06:00:00,Kaimana,37*,Angin berputar 127 derajat,4.9 km/h,1012 mbar,2023-11-21 06
+
+Manokwari_2023-11-21T06:00:00,Manokwari,57,Angin berputar 116 derajat,8.6 km/h,1012 mbar,2023-11-21 06
+
+Sorong_2023-11-21T06:00:00,Sorong,33,Angin berputar 144 derajat,6.7 km/h,1011 mbar,2023-11-21 06
+
+Bengkalis_2023-11-21T06:00:00,Bengkalis,26*,Angin berputar 38 derajat,4.9 km/h,1009 mbar,2023-11-21 06
+
+Dumai_2023-11-21T06:00:00,Dumai,72,Angin berputar 44 derajat,4.7 km/h,1009 mbar,2023-11-21 06
+
+Pekanbaru_2023-11-21T06:00:00,Pekanbaru,54,Angin berputar 19 derajat,3.7 km/h,1009 mbar,2023-11-21 06
+
+Majene_2023-11-21T06:00:00,Majene,37*,Angin berputar 135 derajat,13.5 km/h,1010 mbar,2023-11-21 06
+
+Mamasa_2023-11-21T06:00:00,Mamasa,24*,Angin berputar 155 derajat,4 km/h,1014 mbar,2023-11-21 06
+
+Mamuju_2023-11-21T06:00:00,Mamuju,12,Angin berputar 211 derajat,5 km/h,1010 mbar,2023-11-21 06
+
+Bantaeng_2023-11-21T06:00:00,Bantaeng,42*,Angin berputar 111 derajat,13 km/h,1012 mbar,2023-11-21 06
+
+Barru_2023-11-21T06:00:00,Barru,42*,Angin berputar 224 derajat,7.5 km/h,1011 mbar,2023-11-21 06
+
+Bulukumba_2023-11-21T06:00:00,Bulukumba,34*,Angin berputar 100 derajat,9.4 km/h,1011 mbar,2023-11-21 06
+
+Enrekang_2023-11-21T06:00:00,Enrekang,35*,Angin berputar 139 derajat,5.4 km/h,1012 mbar,2023-11-21 06
+
+Jeneponto_2023-11-21T06:00:00,Jeneponto,42*,Angin berputar 116 derajat,22.1 km/h,1010 mbar,2023-11-21 06
+
+Maros_2023-11-21T06:00:00,Maros,81,Angin berputar 266 derajat,7.4 km/h,1010 mbar,2023-11-21 06
+
+Palopo_2023-11-21T06:00:00,Palopo,29*,Angin berputar 110 derajat,4.6 km/h,1012 mbar,2023-11-21 06
+
+Pinrang_2023-11-21T06:00:00,Pinrang,37*,Angin berputar 118 derajat,9.8 km/h,1011 mbar,2023-11-21 06
+
+Sinjai_2023-11-21T06:00:00,Sinjai,43*,Angin berputar 113 derajat,4.5 km/h,1011 mbar,2023-11-21 06
+
+Takalar_2023-11-21T06:00:00,Takalar,53*,Angin berputar 152 derajat,12.3 km/h,1010 mbar,2023-11-21 06
+
+Barru_2023-11-21T06:00:00,Barru,42*,Angin berputar 224 derajat,7.5 km/h,1011 mbar,2023-11-21 06
+
+Buol_2023-11-21T06:00:00,Buol,26*,Angin berputar 336 derajat,7 km/h,1010 mbar,2023-11-21 06
+
+Donggala_2023-11-21T06:00:00,Donggala,18*,Angin berputar 274 derajat,7.6 km/h,1010 mbar,2023-11-21 06
+
+Banggai_2023-11-21T06:00:00,Banggai,30*,Angin berputar 205 derajat,5.3 km/h,1011 mbar,2023-11-21 06
+
+Banggai_2023-11-21T06:00:00,Banggai,30*,Angin berputar 205 derajat,5.3 km/h,1011 mbar,2023-11-21 06
+
+Sigi Biromaru_2023-11-21T06:00:00,Sigi Biromaru,18*,Angin berputar 327 derajat,4 km/h,1012 mbar,2023-11-21 06
+
+Kendari_2023-11-21T06:00:00,Kendari,58,Angin berputar 72 derajat,1.6 km/h,1012 mbar,2023-11-21 06
+
+Kolaka_2023-11-21T06:00:00,Kolaka,41*,Angin berputar 224 derajat,3.8 km/h,1012 mbar,2023-11-21 06
+
+Kendari_2023-11-21T06:00:00,Kendari,58,Angin berputar 72 derajat,1.6 km/h,1012 mbar,2023-11-21 06
+
+Raha_2023-11-21T06:00:00,Raha,32*,Angin berputar 101 derajat,5.1 km/h,1011 mbar,2023-11-21 06
+
+Bitung_2023-11-21T06:00:00,Bitung,35*,Angin berputar 181 derajat,13.2 km/h,1011 mbar,2023-11-21 06
+
+Manado_2023-11-21T06:00:00,Manado,35*,Angin berputar 154 derajat,5.5 km/h,1011 mbar,2023-11-21 06
+
+Tomohon_2023-11-21T06:00:00,Tomohon,35*,Angin berputar 145 derajat,5.6 km/h,1012 mbar,2023-11-21 06
+
+Solok_2023-11-21T06:00:00,Solok,39*,Angin berputar 245 derajat,2.2 km/h,1011 mbar,2023-11-21 06
+
+Bukittinggi_2023-11-21T06:00:00,Bukittinggi,35*,Angin berputar 247 derajat,1.8 km/h,1012 mbar,2023-11-21 06
+
+Sijunjung_2023-11-21T06:00:00,Sijunjung,41*,Angin berputar 242 derajat,1.8 km/h,1011 mbar,2023-11-21 06
+
+Padang_2023-11-21T06:00:00,Padang,70,Angin berputar 198 derajat,7.5 km/h,1011 mbar,2023-11-21 06
+
+Pariaman_2023-11-21T06:00:00,Pariaman,32*,Angin berputar 184 derajat,8.7 km/h,1010 mbar,2023-11-21 06
+
+Payakumbuh_2023-11-21T06:00:00,Payakumbuh,38*,Angin berputar 251 derajat,3.2 km/h,1011 mbar,2023-11-21 06
+
+Solok_2023-11-21T06:00:00,Solok,39*,Angin berputar 245 derajat,2.2 km/h,1011 mbar,2023-11-21 06
+
+Lahat_2023-11-21T06:00:00,Lahat,58*,Angin berputar 43 derajat,2.5 km/h,1010 mbar,2023-11-21 06
+
+Pagar Alam_2023-11-21T06:00:00,Pagar Alam,34*,Angin berputar 16 derajat,1 km/h,1012 mbar,2023-11-21 06
+
+Palembang_2023-11-21T06:00:00,Palembang,95,Angin berputar 41 derajat,11.1 km/h,1009 mbar,2023-11-21 06
+
+Prabumulih_2023-11-21T06:00:00,Prabumulih,71*,Angin berputar 116 derajat,4 km/h,1009 mbar,2023-11-21 06
+
+Binjai_2023-11-21T06:00:00,Binjai,24*,Angin berputar 349 derajat,2.2 km/h,1010 mbar,2023-11-21 06
+
+Medan_2023-11-21T06:00:00,Medan,71,Angin berputar 346 derajat,11.3 km/h,1010 mbar,2023-11-21 06
+
+Sibolga_2023-11-21T06:00:00,Sibolga,21*,Angin berputar 198 derajat,1.8 km/h,1011 mbar,2023-11-21 06
+
