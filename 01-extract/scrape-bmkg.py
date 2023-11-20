@@ -74,7 +74,7 @@ inputDate = today.strftime("%Y-%m-%d")
 
 try:
     # read json
-    with open("json/wilayah.json", "r") as jsonFile:
+    with open("../json/wilayah.json", "r") as jsonFile:
         listOfRegions = json.load(jsonFile)
 
     # Keys to extract
@@ -88,7 +88,7 @@ try:
             regionDict[key] = region.get(key)
         filteredRegions.append(regionDict)
 
-    # ! FOR DEBUGGING: trim to only first 10 regions
+    # ! FOR DEBUGGING PURPOSES ONLY
     # filteredRegions = filteredRegions[:2]
 
     # Iterate each region and call their respective API
@@ -113,7 +113,7 @@ try:
         "tempF",
     ]
 
-    with open(f"csv/raw-bmkg/{date}.csv", "w") as csvFile:
+    with open(f"../csv/raw-bmkg/{date}.csv", "w") as csvFile:
         csvWriter = csv.DictWriter(csvFile, fieldnames=csvHeader)
         csvWriter.writeheader()
         iter = 0
