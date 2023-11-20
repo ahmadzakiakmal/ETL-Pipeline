@@ -6,6 +6,9 @@ file_path = '../ETL-Pipeline/csv/raw-bmkg/2023-11-19.csv'
 # Membaca file CSV ke dalam DataFrame
 df = pd.read_csv(file_path)
 
+# Mengonversi datatype menjadi datetime
+df['jamCuaca'] = pd.to_datetime(df['jamCuaca'], format = '%Y-%m-%d %H:%M:%S')
+
 # Memeriksa duplikat berdasarkan seluruh kolom
 duplicate_rows = df[df.duplicated()]
 

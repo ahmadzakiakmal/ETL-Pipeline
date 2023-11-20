@@ -12,6 +12,14 @@ def clean_csv(file_paths):
         df['wind_spd(km/h)'] = df['wind_spd(km/h)'].str.replace(' km/h', '')
         df['pressure(mbar)'] = df['pressure(mbar)'].str.replace('mbar', '').str.lstrip('0')
 
+        # Mengonversi data type ke data type yang seharusnya
+        df['kota'] = df['kota'].astype(str)
+        df['wind_dir(deg)'] = df['wind_dir(deg)'].astype(int)
+        df['wind_spd(km/h)'] = df['wind_spd(km/h)'].astype(float)
+        df['pressure(mbar)'] = df['pressure(mbar)'].astype(int)
+        df['iqa'] = df['iqa'].astype(int)
+        df['accessed'] = pd.to_datetime(df['accessed'], format = '%Y-%m-%d %H')
+
         # Mendapatkan nama file tanpa ekstensi
         file_name = os.path.splitext(os.path.basename(file_path))[0]
 
