@@ -23,7 +23,7 @@ if "%hour:~0,1%"==" " set hour=0%hour:~1%
 if 1%hour% LSS 110 set hour=0%hour%
 
 :: Combine to form YYYY-MM-DD-HH
-set formattedDateTime=%year%-%month%-%day%-%hour%
+set formattedDateTime=%year%-%month%-%day%
 
 :: Construct the commit message
 set commit_message=feat: BMKG Data %formattedDateTime%
