@@ -1,0 +1,1881 @@
+id,kota,jamCuaca,kodeCuaca,cuaca,humidity,tempC,tempF
+Aceh Barat Daya_2023-11-20T00:00:00,Aceh Barat Daya,2023-11-20 00:00:00,1,Cerah Berawan,90,24,75
+Aceh Barat Daya_2023-11-20T06:00:00,Aceh Barat Daya,2023-11-20 06:00:00,95,Hujan Petir,65,31,88
+Aceh Barat Daya_2023-11-20T12:00:00,Aceh Barat Daya,2023-11-20 12:00:00,95,Hujan Petir,90,24,75
+Aceh Barat Daya_2023-11-20T18:00:00,Aceh Barat Daya,2023-11-20 18:00:00,3,Berawan,95,23,73
+Aceh Barat_2023-11-20T00:00:00,Aceh Barat,2023-11-20 00:00:00,3,Berawan,90,25,77
+Aceh Barat_2023-11-20T06:00:00,Aceh Barat,2023-11-20 06:00:00,1,Cerah Berawan,65,32,90
+Aceh Barat_2023-11-20T12:00:00,Aceh Barat,2023-11-20 12:00:00,95,Hujan Petir,90,25,77
+Aceh Barat_2023-11-20T18:00:00,Aceh Barat,2023-11-20 18:00:00,3,Berawan,95,25,77
+Aceh Besar_2023-11-20T00:00:00,Aceh Besar,2023-11-20 00:00:00,3,Berawan,90,22,72
+Aceh Besar_2023-11-20T06:00:00,Aceh Besar,2023-11-20 06:00:00,3,Berawan,65,31,88
+Aceh Besar_2023-11-20T12:00:00,Aceh Besar,2023-11-20 12:00:00,3,Berawan,90,23,73
+Aceh Besar_2023-11-20T18:00:00,Aceh Besar,2023-11-20 18:00:00,3,Berawan,95,21,70
+Aceh Jaya_2023-11-20T00:00:00,Aceh Jaya,2023-11-20 00:00:00,1,Cerah Berawan,90,24,75
+Aceh Jaya_2023-11-20T06:00:00,Aceh Jaya,2023-11-20 06:00:00,60,Hujan Ringan,65,31,88
+Aceh Jaya_2023-11-20T12:00:00,Aceh Jaya,2023-11-20 12:00:00,60,Hujan Ringan,90,24,75
+Aceh Jaya_2023-11-20T18:00:00,Aceh Jaya,2023-11-20 18:00:00,95,Hujan Petir,95,24,75
+Aceh Selatan_2023-11-20T00:00:00,Aceh Selatan,2023-11-20 00:00:00,3,Berawan,90,23,73
+Aceh Selatan_2023-11-20T06:00:00,Aceh Selatan,2023-11-20 06:00:00,95,Hujan Petir,65,31,88
+Aceh Selatan_2023-11-20T12:00:00,Aceh Selatan,2023-11-20 12:00:00,60,Hujan Ringan,90,24,75
+Aceh Selatan_2023-11-20T18:00:00,Aceh Selatan,2023-11-20 18:00:00,60,Hujan Ringan,95,23,73
+Aceh Singkil_2023-11-20T00:00:00,Aceh Singkil,2023-11-20 00:00:00,3,Berawan,90,25,77
+Aceh Singkil_2023-11-20T06:00:00,Aceh Singkil,2023-11-20 06:00:00,1,Cerah Berawan,65,31,88
+Aceh Singkil_2023-11-20T12:00:00,Aceh Singkil,2023-11-20 12:00:00,60,Hujan Ringan,90,24,75
+Aceh Singkil_2023-11-20T18:00:00,Aceh Singkil,2023-11-20 18:00:00,3,Berawan,95,24,75
+Aceh Tamiang_2023-11-20T00:00:00,Aceh Tamiang,2023-11-20 00:00:00,3,Berawan,90,23,73
+Aceh Tamiang_2023-11-20T06:00:00,Aceh Tamiang,2023-11-20 06:00:00,60,Hujan Ringan,65,31,88
+Aceh Tamiang_2023-11-20T12:00:00,Aceh Tamiang,2023-11-20 12:00:00,61,Hujan Sedang,90,24,75
+Aceh Tamiang_2023-11-20T18:00:00,Aceh Tamiang,2023-11-20 18:00:00,95,Hujan Petir,95,23,73
+Aceh Tengah_2023-11-20T00:00:00,Aceh Tengah,2023-11-20 00:00:00,3,Berawan,100,20,68
+Aceh Tengah_2023-11-20T06:00:00,Aceh Tengah,2023-11-20 06:00:00,3,Berawan,75,26,79
+Aceh Tengah_2023-11-20T12:00:00,Aceh Tengah,2023-11-20 12:00:00,60,Hujan Ringan,100,19,66
+Aceh Tengah_2023-11-20T18:00:00,Aceh Tengah,2023-11-20 18:00:00,60,Hujan Ringan,100,16,61
+Aceh Tenggara_2023-11-20T00:00:00,Aceh Tenggara,2023-11-20 00:00:00,1,Cerah Berawan,90,21,70
+Aceh Tenggara_2023-11-20T06:00:00,Aceh Tenggara,2023-11-20 06:00:00,1,Cerah Berawan,65,31,88
+Aceh Tenggara_2023-11-20T12:00:00,Aceh Tenggara,2023-11-20 12:00:00,60,Hujan Ringan,90,21,70
+Aceh Tenggara_2023-11-20T18:00:00,Aceh Tenggara,2023-11-20 18:00:00,1,Cerah Berawan,95,21,70
+Aceh Timur_2023-11-20T00:00:00,Aceh Timur,2023-11-20 00:00:00,3,Berawan,90,24,75
+Aceh Timur_2023-11-20T06:00:00,Aceh Timur,2023-11-20 06:00:00,3,Berawan,65,31,88
+Aceh Timur_2023-11-20T12:00:00,Aceh Timur,2023-11-20 12:00:00,61,Hujan Sedang,90,25,77
+Aceh Timur_2023-11-20T18:00:00,Aceh Timur,2023-11-20 18:00:00,95,Hujan Petir,95,24,75
+Aceh Utara_2023-11-20T00:00:00,Aceh Utara,2023-11-20 00:00:00,3,Berawan,90,23,73
+Aceh Utara_2023-11-20T06:00:00,Aceh Utara,2023-11-20 06:00:00,63,Hujan Lebat,65,30,86
+Aceh Utara_2023-11-20T12:00:00,Aceh Utara,2023-11-20 12:00:00,95,Hujan Petir,90,24,75
+Aceh Utara_2023-11-20T18:00:00,Aceh Utara,2023-11-20 18:00:00,95,Hujan Petir,95,23,73
+Agam_2023-11-20T00:00:00,Agam,2023-11-20 00:00:00,1,Cerah Berawan,95,23,73
+Agam_2023-11-20T06:00:00,Agam,2023-11-20 06:00:00,60,Hujan Ringan,90,29,84
+Agam_2023-11-20T12:00:00,Agam,2023-11-20 12:00:00,3,Berawan,100,22,72
+Agam_2023-11-20T18:00:00,Agam,2023-11-20 18:00:00,3,Berawan,95,22,72
+Alor_2023-11-20T00:00:00,Alor,2023-11-20 00:00:00,0,,70,29,84
+Alor_2023-11-20T06:00:00,Alor,2023-11-20 06:00:00,1,Cerah Berawan,65,32,90
+Alor_2023-11-20T12:00:00,Alor,2023-11-20 12:00:00,0,,80,27,81
+Alor_2023-11-20T18:00:00,Alor,2023-11-20 18:00:00,0,,95,23,73
+Ambon_2023-11-20T00:00:00,Ambon,2023-11-20 00:00:00,3,Berawan,80,29,84
+Ambon_2023-11-20T06:00:00,Ambon,2023-11-20 06:00:00,3,Berawan,65,32,90
+Ambon_2023-11-20T12:00:00,Ambon,2023-11-20 12:00:00,1,Cerah Berawan,80,28,82
+Ambon_2023-11-20T18:00:00,Ambon,2023-11-20 18:00:00,1,Cerah Berawan,95,24,75
+Anambas_2023-11-20T00:00:00,Anambas,2023-11-20 00:00:00,1,Cerah Berawan,90,25,77
+Anambas_2023-11-20T06:00:00,Anambas,2023-11-20 06:00:00,61,Hujan Sedang,70,32,90
+Anambas_2023-11-20T12:00:00,Anambas,2023-11-20 12:00:00,61,Hujan Sedang,85,26,79
+Anambas_2023-11-20T18:00:00,Anambas,2023-11-20 18:00:00,60,Hujan Ringan,95,24,75
+Asahan_2023-11-20T00:00:00,Asahan,2023-11-20 00:00:00,1,Cerah Berawan,95,23,73
+Asahan_2023-11-20T06:00:00,Asahan,2023-11-20 06:00:00,1,Cerah Berawan,70,32,90
+Asahan_2023-11-20T12:00:00,Asahan,2023-11-20 12:00:00,3,Berawan,85,26,79
+Asahan_2023-11-20T18:00:00,Asahan,2023-11-20 18:00:00,3,Berawan,95,23,73
+Asmat_2023-11-20T00:00:00,Asmat,2023-11-20 00:00:00,3,Berawan,70,27,81
+Asmat_2023-11-20T06:00:00,Asmat,2023-11-20 06:00:00,60,Hujan Ringan,70,31,88
+Asmat_2023-11-20T12:00:00,Asmat,2023-11-20 12:00:00,61,Hujan Sedang,85,26,79
+Asmat_2023-11-20T18:00:00,Asmat,2023-11-20 18:00:00,60,Hujan Ringan,95,23,73
+Badung_2023-11-20T00:00:00,Badung,2023-11-20 00:00:00,3,Berawan,85,28,82
+Badung_2023-11-20T06:00:00,Badung,2023-11-20 06:00:00,3,Berawan,65,32,90
+Badung_2023-11-20T12:00:00,Badung,2023-11-20 12:00:00,1,Cerah Berawan,80,28,82
+Badung_2023-11-20T18:00:00,Badung,2023-11-20 18:00:00,1,Cerah Berawan,80,26,79
+Balangan_2023-11-20T00:00:00,Balangan,2023-11-20 00:00:00,3,Berawan,90,27,81
+Balangan_2023-11-20T06:00:00,Balangan,2023-11-20 06:00:00,95,Hujan Petir,60,33,91
+Balangan_2023-11-20T12:00:00,Balangan,2023-11-20 12:00:00,60,Hujan Ringan,85,26,79
+Balangan_2023-11-20T18:00:00,Balangan,2023-11-20 18:00:00,3,Berawan,95,24,75
+Balikpapan_2023-11-20T00:00:00,Balikpapan,2023-11-20 00:00:00,3,Berawan,100,26,79
+Balikpapan_2023-11-20T06:00:00,Balikpapan,2023-11-20 06:00:00,60,Hujan Ringan,80,29,84
+Balikpapan_2023-11-20T12:00:00,Balikpapan,2023-11-20 12:00:00,60,Hujan Ringan,90,26,79
+Balikpapan_2023-11-20T18:00:00,Balikpapan,2023-11-20 18:00:00,3,Berawan,100,25,77
+Banda Aceh_2023-11-20T00:00:00,Banda Aceh,2023-11-20 00:00:00,1,Cerah Berawan,90,23,73
+Banda Aceh_2023-11-20T06:00:00,Banda Aceh,2023-11-20 06:00:00,1,Cerah Berawan,65,31,88
+Banda Aceh_2023-11-20T12:00:00,Banda Aceh,2023-11-20 12:00:00,3,Berawan,90,25,77
+Banda Aceh_2023-11-20T18:00:00,Banda Aceh,2023-11-20 18:00:00,60,Hujan Ringan,95,23,73
+Bandar Lampung_2023-11-20T00:00:00,Bandar Lampung,2023-11-20 00:00:00,1,Cerah Berawan,80,26,79
+Bandar Lampung_2023-11-20T06:00:00,Bandar Lampung,2023-11-20 06:00:00,1,Cerah Berawan,60,31,88
+Bandar Lampung_2023-11-20T12:00:00,Bandar Lampung,2023-11-20 12:00:00,1,Cerah Berawan,80,26,79
+Bandar Lampung_2023-11-20T18:00:00,Bandar Lampung,2023-11-20 18:00:00,0,Cerah,90,24,75
+Bandung Barat_2023-11-20T00:00:00,Bandung Barat,2023-11-20 00:00:00,1,Cerah Berawan,85,24,75
+Bandung Barat_2023-11-20T06:00:00,Bandung Barat,2023-11-20 06:00:00,60,Hujan Ringan,60,28,82
+Bandung Barat_2023-11-20T12:00:00,Bandung Barat,2023-11-20 12:00:00,60,Hujan Ringan,85,24,75
+Bandung Barat_2023-11-20T18:00:00,Bandung Barat,2023-11-20 18:00:00,1,Cerah Berawan,90,21,70
+Bandung_2023-11-20T00:00:00,Bandung,2023-11-20 00:00:00,1,Cerah Berawan,85,25,77
+Bandung_2023-11-20T06:00:00,Bandung,2023-11-20 06:00:00,60,Hujan Ringan,55,31,88
+Bandung_2023-11-20T12:00:00,Bandung,2023-11-20 12:00:00,1,Cerah Berawan,80,25,77
+Bandung_2023-11-20T18:00:00,Bandung,2023-11-20 18:00:00,1,Cerah Berawan,90,22,72
+Banggai Kepulauan_2023-11-20T00:00:00,Banggai Kepulauan,2023-11-20 00:00:00,1,Cerah Berawan,75,29,84
+Banggai Kepulauan_2023-11-20T06:00:00,Banggai Kepulauan,2023-11-20 06:00:00,1,Cerah Berawan,65,33,91
+Banggai Kepulauan_2023-11-20T12:00:00,Banggai Kepulauan,2023-11-20 12:00:00,1,Cerah Berawan,80,26,79
+Banggai Kepulauan_2023-11-20T18:00:00,Banggai Kepulauan,2023-11-20 18:00:00,1,Cerah Berawan,90,25,77
+Banggai_2023-11-20T00:00:00,Banggai,2023-11-20 00:00:00,3,Berawan,75,26,79
+Banggai_2023-11-20T06:00:00,Banggai,2023-11-20 06:00:00,3,Berawan,65,33,91
+Banggai_2023-11-20T12:00:00,Banggai,2023-11-20 12:00:00,1,Cerah Berawan,85,24,75
+Banggai_2023-11-20T18:00:00,Banggai,2023-11-20 18:00:00,1,Cerah Berawan,80,23,73
+Bangka Barat_2023-11-20T00:00:00,Bangka Barat,2023-11-20 00:00:00,60,Hujan Ringan,90,27,81
+Bangka Barat_2023-11-20T06:00:00,Bangka Barat,2023-11-20 06:00:00,3,Berawan,60,33,91
+Bangka Barat_2023-11-20T12:00:00,Bangka Barat,2023-11-20 12:00:00,3,Berawan,85,25,77
+Bangka Barat_2023-11-20T18:00:00,Bangka Barat,2023-11-20 18:00:00,60,Hujan Ringan,95,25,77
+Bangka Selatan_2023-11-20T00:00:00,Bangka Selatan,2023-11-20 00:00:00,3,Berawan,95,26,79
+Bangka Selatan_2023-11-20T06:00:00,Bangka Selatan,2023-11-20 06:00:00,3,Berawan,60,33,91
+Bangka Selatan_2023-11-20T12:00:00,Bangka Selatan,2023-11-20 12:00:00,1,Cerah Berawan,85,27,81
+Bangka Selatan_2023-11-20T18:00:00,Bangka Selatan,2023-11-20 18:00:00,60,Hujan Ringan,95,25,77
+Bangka Tengah_2023-11-20T00:00:00,Bangka Tengah,2023-11-20 00:00:00,3,Berawan,95,26,79
+Bangka Tengah_2023-11-20T06:00:00,Bangka Tengah,2023-11-20 06:00:00,3,Berawan,60,33,91
+Bangka Tengah_2023-11-20T12:00:00,Bangka Tengah,2023-11-20 12:00:00,1,Cerah Berawan,75,27,81
+Bangka Tengah_2023-11-20T18:00:00,Bangka Tengah,2023-11-20 18:00:00,1,Cerah Berawan,90,25,77
+Bangka_2023-11-20T00:00:00,Bangka,2023-11-20 00:00:00,3,Berawan,95,25,77
+Bangka_2023-11-20T06:00:00,Bangka,2023-11-20 06:00:00,60,Hujan Ringan,60,33,91
+Bangka_2023-11-20T12:00:00,Bangka,2023-11-20 12:00:00,60,Hujan Ringan,80,25,77
+Bangka_2023-11-20T18:00:00,Bangka,2023-11-20 18:00:00,1,Cerah Berawan,90,24,75
+Bangkalan_2023-11-20T00:00:00,Bangkalan,2023-11-20 00:00:00,0,,80,28,82
+Bangkalan_2023-11-20T06:00:00,Bangkalan,2023-11-20 06:00:00,0,,60,33,91
+Bangkalan_2023-11-20T12:00:00,Bangkalan,2023-11-20 12:00:00,1,Cerah Berawan,75,29,84
+Bangkalan_2023-11-20T18:00:00,Bangkalan,2023-11-20 18:00:00,1,Cerah Berawan,85,26,79
+Bangli_2023-11-20T00:00:00,Bangli,2023-11-20 00:00:00,3,Berawan,90,27,81
+Bangli_2023-11-20T06:00:00,Bangli,2023-11-20 06:00:00,3,Berawan,70,31,88
+Bangli_2023-11-20T12:00:00,Bangli,2023-11-20 12:00:00,1,Cerah Berawan,85,27,81
+Bangli_2023-11-20T18:00:00,Bangli,2023-11-20 18:00:00,1,Cerah Berawan,85,25,77
+Banjar_2023-11-20T00:00:00,Banjar,2023-11-20 00:00:00,1,Cerah Berawan,85,25,77
+Banjar_2023-11-20T06:00:00,Banjar,2023-11-20 06:00:00,60,Hujan Ringan,55,32,90
+Banjar_2023-11-20T12:00:00,Banjar,2023-11-20 12:00:00,3,Berawan,85,26,79
+Banjar_2023-11-20T18:00:00,Banjar,2023-11-20 18:00:00,1,Cerah Berawan,95,24,75
+Banjarbaru_2023-11-20T00:00:00,Banjarbaru,2023-11-20 00:00:00,3,Berawan,90,27,81
+Banjarbaru_2023-11-20T06:00:00,Banjarbaru,2023-11-20 06:00:00,95,Hujan Petir,60,33,91
+Banjarbaru_2023-11-20T12:00:00,Banjarbaru,2023-11-20 12:00:00,3,Berawan,85,26,79
+Banjarbaru_2023-11-20T18:00:00,Banjarbaru,2023-11-20 18:00:00,1,Cerah Berawan,95,24,75
+Banjarmasin_2023-11-20T00:00:00,Banjarmasin,2023-11-20 00:00:00,3,Berawan,90,27,81
+Banjarmasin_2023-11-20T06:00:00,Banjarmasin,2023-11-20 06:00:00,95,Hujan Petir,60,33,91
+Banjarmasin_2023-11-20T12:00:00,Banjarmasin,2023-11-20 12:00:00,3,Berawan,85,26,79
+Banjarmasin_2023-11-20T18:00:00,Banjarmasin,2023-11-20 18:00:00,1,Cerah Berawan,95,24,75
+Banjarnegara_2023-11-20T00:00:00,Banjarnegara,2023-11-20 00:00:00,3,Berawan,85,26,79
+Banjarnegara_2023-11-20T06:00:00,Banjarnegara,2023-11-20 06:00:00,3,Berawan,65,30,86
+Banjarnegara_2023-11-20T12:00:00,Banjarnegara,2023-11-20 12:00:00,4,Berawan Tebal,80,27,81
+Banjarnegara_2023-11-20T18:00:00,Banjarnegara,2023-11-20 18:00:00,3,Berawan,90,22,72
+Bantaeng_2023-11-20T00:00:00,Bantaeng,2023-11-20 00:00:00,1,Cerah Berawan,80,27,81
+Bantaeng_2023-11-20T06:00:00,Bantaeng,2023-11-20 06:00:00,60,Hujan Ringan,65,34,93
+Bantaeng_2023-11-20T12:00:00,Bantaeng,2023-11-20 12:00:00,3,Berawan,75,29,84
+Bantaeng_2023-11-20T18:00:00,Bantaeng,2023-11-20 18:00:00,3,Berawan,85,25,77
+Bantul_2023-11-20T00:00:00,Bantul,2023-11-20 00:00:00,3,Berawan,80,27,81
+Bantul_2023-11-20T06:00:00,Bantul,2023-11-20 06:00:00,1,Cerah Berawan,65,32,90
+Bantul_2023-11-20T12:00:00,Bantul,2023-11-20 12:00:00,1,Cerah Berawan,85,27,81
+Bantul_2023-11-20T18:00:00,Bantul,2023-11-20 18:00:00,3,Berawan,95,25,77
+Banyuasin_2023-11-20T00:00:00,Banyuasin,2023-11-20 00:00:00,1,Cerah Berawan,80,25,77
+Banyuasin_2023-11-20T06:00:00,Banyuasin,2023-11-20 06:00:00,1,Cerah Berawan,60,33,91
+Banyuasin_2023-11-20T12:00:00,Banyuasin,2023-11-20 12:00:00,60,Hujan Ringan,70,29,84
+Banyuasin_2023-11-20T18:00:00,Banyuasin,2023-11-20 18:00:00,1,Cerah Berawan,90,24,75
+Banyumas_2023-11-20T00:00:00,Banyumas,2023-11-20 00:00:00,3,Berawan,85,26,79
+Banyumas_2023-11-20T06:00:00,Banyumas,2023-11-20 06:00:00,3,Berawan,65,31,88
+Banyumas_2023-11-20T12:00:00,Banyumas,2023-11-20 12:00:00,4,Berawan Tebal,80,27,81
+Banyumas_2023-11-20T18:00:00,Banyumas,2023-11-20 18:00:00,3,Berawan,90,23,73
+Banyuwangi_2023-11-20T00:00:00,Banyuwangi,2023-11-20 00:00:00,1,Cerah Berawan,80,27,81
+Banyuwangi_2023-11-20T06:00:00,Banyuwangi,2023-11-20 06:00:00,0,,60,31,88
+Banyuwangi_2023-11-20T12:00:00,Banyuwangi,2023-11-20 12:00:00,1,Cerah Berawan,80,27,81
+Banyuwangi_2023-11-20T18:00:00,Banyuwangi,2023-11-20 18:00:00,1,Cerah Berawan,85,25,77
+Barito Kuala_2023-11-20T00:00:00,Barito Kuala,2023-11-20 00:00:00,3,Berawan,90,27,81
+Barito Kuala_2023-11-20T06:00:00,Barito Kuala,2023-11-20 06:00:00,95,Hujan Petir,60,33,91
+Barito Kuala_2023-11-20T12:00:00,Barito Kuala,2023-11-20 12:00:00,3,Berawan,85,26,79
+Barito Kuala_2023-11-20T18:00:00,Barito Kuala,2023-11-20 18:00:00,1,Cerah Berawan,95,24,75
+Barito Selatan_2023-11-20T00:00:00,Barito Selatan,2023-11-20 00:00:00,3,Berawan,85,26,79
+Barito Selatan_2023-11-20T06:00:00,Barito Selatan,2023-11-20 06:00:00,3,Berawan,55,33,91
+Barito Selatan_2023-11-20T12:00:00,Barito Selatan,2023-11-20 12:00:00,60,Hujan Ringan,90,26,79
+Barito Selatan_2023-11-20T18:00:00,Barito Selatan,2023-11-20 18:00:00,3,Berawan,100,24,75
+Barito Timur_2023-11-20T00:00:00,Barito Timur,2023-11-20 00:00:00,3,Berawan,85,26,79
+Barito Timur_2023-11-20T06:00:00,Barito Timur,2023-11-20 06:00:00,3,Berawan,55,33,91
+Barito Timur_2023-11-20T12:00:00,Barito Timur,2023-11-20 12:00:00,60,Hujan Ringan,90,26,79
+Barito Timur_2023-11-20T18:00:00,Barito Timur,2023-11-20 18:00:00,3,Berawan,100,24,75
+Barito Utara_2023-11-20T00:00:00,Barito Utara,2023-11-20 00:00:00,3,Berawan,85,26,79
+Barito Utara_2023-11-20T06:00:00,Barito Utara,2023-11-20 06:00:00,3,Berawan,65,30,86
+Barito Utara_2023-11-20T12:00:00,Barito Utara,2023-11-20 12:00:00,3,Berawan,90,26,79
+Barito Utara_2023-11-20T18:00:00,Barito Utara,2023-11-20 18:00:00,61,Hujan Sedang,100,24,75
+Barru_2023-11-20T00:00:00,Barru,2023-11-20 00:00:00,1,Cerah Berawan,80,26,79
+Barru_2023-11-20T06:00:00,Barru,2023-11-20 06:00:00,60,Hujan Ringan,65,33,91
+Barru_2023-11-20T12:00:00,Barru,2023-11-20 12:00:00,3,Berawan,75,28,82
+Barru_2023-11-20T18:00:00,Barru,2023-11-20 18:00:00,3,Berawan,85,24,75
+Batam_2023-11-20T00:00:00,Batam,2023-11-20 00:00:00,1,Cerah Berawan,90,25,77
+Batam_2023-11-20T06:00:00,Batam,2023-11-20 06:00:00,61,Hujan Sedang,65,32,90
+Batam_2023-11-20T12:00:00,Batam,2023-11-20 12:00:00,95,Hujan Petir,90,26,79
+Batam_2023-11-20T18:00:00,Batam,2023-11-20 18:00:00,95,Hujan Petir,95,24,75
+Batang_2023-11-20T00:00:00,Batang,2023-11-20 00:00:00,1,Cerah Berawan,75,28,82
+Batang_2023-11-20T06:00:00,Batang,2023-11-20 06:00:00,3,Berawan,55,34,93
+Batang_2023-11-20T12:00:00,Batang,2023-11-20 12:00:00,3,Berawan,75,28,82
+Batang_2023-11-20T18:00:00,Batang,2023-11-20 18:00:00,3,Berawan,85,25,77
+Batanghari_2023-11-20T00:00:00,Batanghari,2023-11-20 00:00:00,3,Berawan,95,25,77
+Batanghari_2023-11-20T06:00:00,Batanghari,2023-11-20 06:00:00,3,Berawan,70,33,91
+Batanghari_2023-11-20T12:00:00,Batanghari,2023-11-20 12:00:00,60,Hujan Ringan,90,28,82
+Batanghari_2023-11-20T18:00:00,Batanghari,2023-11-20 18:00:00,60,Hujan Ringan,100,24,75
+Batu_2023-11-20T00:00:00,Batu,2023-11-20 00:00:00,1,Cerah Berawan,90,20,68
+Batu_2023-11-20T06:00:00,Batu,2023-11-20 06:00:00,3,Berawan,70,27,81
+Batu_2023-11-20T12:00:00,Batu,2023-11-20 12:00:00,1,Cerah Berawan,90,18,64
+Batu_2023-11-20T18:00:00,Batu,2023-11-20 18:00:00,45,Berkabut,100,16,61
+Batubara_2023-11-20T00:00:00,Batubara,2023-11-20 00:00:00,1,Cerah Berawan,95,23,73
+Batubara_2023-11-20T06:00:00,Batubara,2023-11-20 06:00:00,1,Cerah Berawan,70,32,90
+Batubara_2023-11-20T12:00:00,Batubara,2023-11-20 12:00:00,3,Berawan,85,26,79
+Batubara_2023-11-20T18:00:00,Batubara,2023-11-20 18:00:00,3,Berawan,95,23,73
+Bau - Bau_2023-11-20T00:00:00,Bau - Bau,2023-11-20 00:00:00,3,Berawan,75,29,84
+Bau - Bau_2023-11-20T06:00:00,Bau - Bau,2023-11-20 06:00:00,3,Berawan,55,33,91
+Bau - Bau_2023-11-20T12:00:00,Bau - Bau,2023-11-20 12:00:00,1,Cerah Berawan,80,27,81
+Bau - Bau_2023-11-20T18:00:00,Bau - Bau,2023-11-20 18:00:00,1,Cerah Berawan,90,25,77
+Bekasi_2023-11-20T00:00:00,Bekasi,2023-11-20 00:00:00,1,Cerah Berawan,80,25,77
+Bekasi_2023-11-20T06:00:00,Bekasi,2023-11-20 06:00:00,61,Hujan Sedang,55,34,93
+Bekasi_2023-11-20T12:00:00,Bekasi,2023-11-20 12:00:00,61,Hujan Sedang,80,25,77
+Bekasi_2023-11-20T18:00:00,Bekasi,2023-11-20 18:00:00,60,Hujan Ringan,90,23,73
+Belitung Timur_2023-11-20T00:00:00,Belitung Timur,2023-11-20 00:00:00,1,Cerah Berawan,95,26,79
+Belitung Timur_2023-11-20T06:00:00,Belitung Timur,2023-11-20 06:00:00,60,Hujan Ringan,60,32,90
+Belitung Timur_2023-11-20T12:00:00,Belitung Timur,2023-11-20 12:00:00,1,Cerah Berawan,80,26,79
+Belitung Timur_2023-11-20T18:00:00,Belitung Timur,2023-11-20 18:00:00,3,Berawan,85,26,79
+Belitung_2023-11-20T00:00:00,Belitung,2023-11-20 00:00:00,3,Berawan,85,28,82
+Belitung_2023-11-20T06:00:00,Belitung,2023-11-20 06:00:00,60,Hujan Ringan,60,32,90
+Belitung_2023-11-20T12:00:00,Belitung,2023-11-20 12:00:00,1,Cerah Berawan,80,28,82
+Belitung_2023-11-20T18:00:00,Belitung,2023-11-20 18:00:00,3,Berawan,85,28,82
+Belu_2023-11-20T00:00:00,Belu,2023-11-20 00:00:00,0,,65,29,84
+Belu_2023-11-20T06:00:00,Belu,2023-11-20 06:00:00,1,Cerah Berawan,55,34,93
+Belu_2023-11-20T12:00:00,Belu,2023-11-20 12:00:00,0,,80,27,81
+Belu_2023-11-20T18:00:00,Belu,2023-11-20 18:00:00,1,Cerah Berawan,95,25,77
+Bener Meriah_2023-11-20T00:00:00,Bener Meriah,2023-11-20 00:00:00,60,Hujan Ringan,100,20,68
+Bener Meriah_2023-11-20T06:00:00,Bener Meriah,2023-11-20 06:00:00,3,Berawan,75,26,79
+Bener Meriah_2023-11-20T12:00:00,Bener Meriah,2023-11-20 12:00:00,60,Hujan Ringan,100,19,66
+Bener Meriah_2023-11-20T18:00:00,Bener Meriah,2023-11-20 18:00:00,60,Hujan Ringan,100,16,61
+Bengkalis_2023-11-20T00:00:00,Bengkalis,2023-11-20 00:00:00,3,Berawan,85,27,81
+Bengkalis_2023-11-20T06:00:00,Bengkalis,2023-11-20 06:00:00,3,Berawan,75,30,86
+Bengkalis_2023-11-20T12:00:00,Bengkalis,2023-11-20 12:00:00,60,Hujan Ringan,85,28,82
+Bengkalis_2023-11-20T18:00:00,Bengkalis,2023-11-20 18:00:00,60,Hujan Ringan,90,26,79
+Bengkayang_2023-11-20T00:00:00,Bengkayang,2023-11-20 00:00:00,1,Cerah Berawan,100,25,77
+Bengkayang_2023-11-20T06:00:00,Bengkayang,2023-11-20 06:00:00,60,Hujan Ringan,60,33,91
+Bengkayang_2023-11-20T12:00:00,Bengkayang,2023-11-20 12:00:00,3,Berawan,95,25,77
+Bengkayang_2023-11-20T18:00:00,Bengkayang,2023-11-20 18:00:00,3,Berawan,100,23,73
+Bengkulu Selatan_2023-11-20T00:00:00,Bengkulu Selatan,2023-11-20 00:00:00,1,Cerah Berawan,90,24,75
+Bengkulu Selatan_2023-11-20T06:00:00,Bengkulu Selatan,2023-11-20 06:00:00,1,Cerah Berawan,70,32,90
+Bengkulu Selatan_2023-11-20T12:00:00,Bengkulu Selatan,2023-11-20 12:00:00,1,Cerah Berawan,90,24,75
+Bengkulu Selatan_2023-11-20T18:00:00,Bengkulu Selatan,2023-11-20 18:00:00,1,Cerah Berawan,90,22,72
+Bengkulu Tengah_2023-11-20T00:00:00,Bengkulu Tengah,2023-11-20 00:00:00,3,Berawan,100,22,72
+Bengkulu Tengah_2023-11-20T06:00:00,Bengkulu Tengah,2023-11-20 06:00:00,0,,70,32,90
+Bengkulu Tengah_2023-11-20T12:00:00,Bengkulu Tengah,2023-11-20 12:00:00,1,Cerah Berawan,95,22,72
+Bengkulu Tengah_2023-11-20T18:00:00,Bengkulu Tengah,2023-11-20 18:00:00,1,Cerah Berawan,90,21,70
+Bengkulu Utara_2023-11-20T00:00:00,Bengkulu Utara,2023-11-20 00:00:00,3,Berawan,100,23,73
+Bengkulu Utara_2023-11-20T06:00:00,Bengkulu Utara,2023-11-20 06:00:00,1,Cerah Berawan,70,32,90
+Bengkulu Utara_2023-11-20T12:00:00,Bengkulu Utara,2023-11-20 12:00:00,1,Cerah Berawan,90,23,73
+Bengkulu Utara_2023-11-20T18:00:00,Bengkulu Utara,2023-11-20 18:00:00,1,Cerah Berawan,85,22,72
+Bengkulu_2023-11-20T00:00:00,Bengkulu,2023-11-20 00:00:00,1,Cerah Berawan,90,25,77
+Bengkulu_2023-11-20T06:00:00,Bengkulu,2023-11-20 06:00:00,1,Cerah Berawan,70,32,90
+Bengkulu_2023-11-20T12:00:00,Bengkulu,2023-11-20 12:00:00,1,Cerah Berawan,85,25,77
+Bengkulu_2023-11-20T18:00:00,Bengkulu,2023-11-20 18:00:00,1,Cerah Berawan,90,23,73
+Berau_2023-11-20T00:00:00,Berau,2023-11-20 00:00:00,3,Berawan,100,26,79
+Berau_2023-11-20T06:00:00,Berau,2023-11-20 06:00:00,3,Berawan,100,26,79
+Berau_2023-11-20T12:00:00,Berau,2023-11-20 12:00:00,95,Hujan Petir,90,26,79
+Berau_2023-11-20T18:00:00,Berau,2023-11-20 18:00:00,60,Hujan Ringan,100,24,75
+Biak Numfor_2023-11-20T00:00:00,Biak Numfor,2023-11-20 00:00:00,3,Berawan,70,27,81
+Biak Numfor_2023-11-20T06:00:00,Biak Numfor,2023-11-20 06:00:00,1,Cerah Berawan,70,31,88
+Biak Numfor_2023-11-20T12:00:00,Biak Numfor,2023-11-20 12:00:00,1,Cerah Berawan,85,26,79
+Biak Numfor_2023-11-20T18:00:00,Biak Numfor,2023-11-20 18:00:00,3,Berawan,95,23,73
+Bima_2023-11-20T00:00:00,Bima,2023-11-20 00:00:00,1,Cerah Berawan,75,28,82
+Bima_2023-11-20T06:00:00,Bima,2023-11-20 06:00:00,3,Berawan,50,34,93
+Bima_2023-11-20T12:00:00,Bima,2023-11-20 12:00:00,3,Berawan,90,26,79
+Bima_2023-11-20T18:00:00,Bima,2023-11-20 18:00:00,1,Cerah Berawan,95,24,75
+Binjai_2023-11-20T00:00:00,Binjai,2023-11-20 00:00:00,1,Cerah Berawan,95,26,79
+Binjai_2023-11-20T06:00:00,Binjai,2023-11-20 06:00:00,60,Hujan Ringan,70,32,90
+Binjai_2023-11-20T12:00:00,Binjai,2023-11-20 12:00:00,3,Berawan,85,24,75
+Binjai_2023-11-20T18:00:00,Binjai,2023-11-20 18:00:00,3,Berawan,95,23,73
+Bintan_2023-11-20T00:00:00,Bintan,2023-11-20 00:00:00,1,Cerah Berawan,90,25,77
+Bintan_2023-11-20T06:00:00,Bintan,2023-11-20 06:00:00,95,Hujan Petir,65,32,90
+Bintan_2023-11-20T12:00:00,Bintan,2023-11-20 12:00:00,60,Hujan Ringan,90,26,79
+Bintan_2023-11-20T18:00:00,Bintan,2023-11-20 18:00:00,95,Hujan Petir,95,24,75
+Bireuen_2023-11-20T00:00:00,Bireuen,2023-11-20 00:00:00,4,Berawan Tebal,90,24,75
+Bireuen_2023-11-20T06:00:00,Bireuen,2023-11-20 06:00:00,60,Hujan Ringan,65,30,86
+Bireuen_2023-11-20T12:00:00,Bireuen,2023-11-20 12:00:00,60,Hujan Ringan,90,25,77
+Bireuen_2023-11-20T18:00:00,Bireuen,2023-11-20 18:00:00,60,Hujan Ringan,95,24,75
+Bitung_2023-11-20T00:00:00,Bitung,2023-11-20 00:00:00,3,Berawan,75,28,82
+Bitung_2023-11-20T06:00:00,Bitung,2023-11-20 06:00:00,1,Cerah Berawan,65,32,90
+Bitung_2023-11-20T12:00:00,Bitung,2023-11-20 12:00:00,1,Cerah Berawan,95,25,77
+Bitung_2023-11-20T18:00:00,Bitung,2023-11-20 18:00:00,3,Berawan,95,25,77
+Blitar_2023-11-20T00:00:00,Blitar,2023-11-20 00:00:00,1,Cerah Berawan,80,26,79
+Blitar_2023-11-20T06:00:00,Blitar,2023-11-20 06:00:00,0,,60,32,90
+Blitar_2023-11-20T12:00:00,Blitar,2023-11-20 12:00:00,1,Cerah Berawan,80,26,79
+Blitar_2023-11-20T18:00:00,Blitar,2023-11-20 18:00:00,1,Cerah Berawan,90,23,73
+Blora_2023-11-20T00:00:00,Blora,2023-11-20 00:00:00,1,Cerah Berawan,80,27,81
+Blora_2023-11-20T06:00:00,Blora,2023-11-20 06:00:00,3,Berawan,55,33,91
+Blora_2023-11-20T12:00:00,Blora,2023-11-20 12:00:00,3,Berawan,75,28,82
+Blora_2023-11-20T18:00:00,Blora,2023-11-20 18:00:00,3,Berawan,85,25,77
+Boalemo_2023-11-20T00:00:00,Boalemo,2023-11-20 00:00:00,60,Hujan Ringan,90,26,79
+Boalemo_2023-11-20T06:00:00,Boalemo,2023-11-20 06:00:00,60,Hujan Ringan,60,33,91
+Boalemo_2023-11-20T12:00:00,Boalemo,2023-11-20 12:00:00,1,Cerah Berawan,90,26,79
+Boalemo_2023-11-20T18:00:00,Boalemo,2023-11-20 18:00:00,1,Cerah Berawan,95,23,73
+Bogor_2023-11-20T00:00:00,Bogor,2023-11-20 00:00:00,1,Cerah Berawan,80,25,77
+Bogor_2023-11-20T06:00:00,Bogor,2023-11-20 06:00:00,60,Hujan Ringan,55,34,93
+Bogor_2023-11-20T12:00:00,Bogor,2023-11-20 12:00:00,61,Hujan Sedang,80,25,77
+Bogor_2023-11-20T18:00:00,Bogor,2023-11-20 18:00:00,60,Hujan Ringan,90,21,70
+Bojonegoro_2023-11-20T00:00:00,Bojonegoro,2023-11-20 00:00:00,0,,75,28,82
+Bojonegoro_2023-11-20T06:00:00,Bojonegoro,2023-11-20 06:00:00,60,Hujan Ringan,45,34,93
+Bojonegoro_2023-11-20T12:00:00,Bojonegoro,2023-11-20 12:00:00,0,,75,30,86
+Bojonegoro_2023-11-20T18:00:00,Bojonegoro,2023-11-20 18:00:00,3,Berawan,85,25,77
+Bolaang Mongondow_2023-11-20T00:00:00,Bolaang Mongondow,2023-11-20 00:00:00,1,Cerah Berawan,75,28,82
+Bolaang Mongondow_2023-11-20T06:00:00,Bolaang Mongondow,2023-11-20 06:00:00,61,Hujan Sedang,65,31,88
+Bolaang Mongondow_2023-11-20T12:00:00,Bolaang Mongondow,2023-11-20 12:00:00,1,Cerah Berawan,95,25,77
+Bolaang Mongondow_2023-11-20T18:00:00,Bolaang Mongondow,2023-11-20 18:00:00,1,Cerah Berawan,95,23,73
+Bombana_2023-11-20T00:00:00,Bombana,2023-11-20 00:00:00,1,Cerah Berawan,75,29,84
+Bombana_2023-11-20T06:00:00,Bombana,2023-11-20 06:00:00,1,Cerah Berawan,55,33,91
+Bombana_2023-11-20T12:00:00,Bombana,2023-11-20 12:00:00,1,Cerah Berawan,80,27,81
+Bombana_2023-11-20T18:00:00,Bombana,2023-11-20 18:00:00,1,Cerah Berawan,90,25,77
+Bondowoso_2023-11-20T00:00:00,Bondowoso,2023-11-20 00:00:00,0,,80,27,81
+Bondowoso_2023-11-20T06:00:00,Bondowoso,2023-11-20 06:00:00,61,Hujan Sedang,50,34,93
+Bondowoso_2023-11-20T12:00:00,Bondowoso,2023-11-20 12:00:00,0,,80,27,81
+Bondowoso_2023-11-20T18:00:00,Bondowoso,2023-11-20 18:00:00,0,,90,23,73
+Bone Bolango_2023-11-20T00:00:00,Bone Bolango,2023-11-20 00:00:00,1,Cerah Berawan,85,26,79
+Bone Bolango_2023-11-20T06:00:00,Bone Bolango,2023-11-20 06:00:00,1,Cerah Berawan,60,33,91
+Bone Bolango_2023-11-20T12:00:00,Bone Bolango,2023-11-20 12:00:00,0,Cerah,90,26,79
+Bone Bolango_2023-11-20T18:00:00,Bone Bolango,2023-11-20 18:00:00,1,Cerah Berawan,95,23,73
+Bone_2023-11-20T00:00:00,Bone,2023-11-20 00:00:00,1,Cerah Berawan,80,27,81
+Bone_2023-11-20T06:00:00,Bone,2023-11-20 06:00:00,3,Berawan,65,34,93
+Bone_2023-11-20T12:00:00,Bone,2023-11-20 12:00:00,3,Berawan,75,29,84
+Bone_2023-11-20T18:00:00,Bone,2023-11-20 18:00:00,60,Hujan Ringan,85,25,77
+Bontang_2023-11-20T00:00:00,Bontang,2023-11-20 00:00:00,60,Hujan Ringan,90,27,81
+Bontang_2023-11-20T06:00:00,Bontang,2023-11-20 06:00:00,95,Hujan Petir,85,28,82
+Bontang_2023-11-20T12:00:00,Bontang,2023-11-20 12:00:00,60,Hujan Ringan,90,27,81
+Bontang_2023-11-20T18:00:00,Bontang,2023-11-20 18:00:00,60,Hujan Ringan,90,25,77
+Boven Digoel - Tanah Merah_2023-11-20T00:00:00,Boven Digoel - Tanah Merah,2023-11-20 00:00:00,3,Berawan,70,27,81
+Boven Digoel - Tanah Merah_2023-11-20T06:00:00,Boven Digoel - Tanah Merah,2023-11-20 06:00:00,61,Hujan Sedang,70,31,88
+Boven Digoel - Tanah Merah_2023-11-20T12:00:00,Boven Digoel - Tanah Merah,2023-11-20 12:00:00,60,Hujan Ringan,85,26,79
+Boven Digoel - Tanah Merah_2023-11-20T18:00:00,Boven Digoel - Tanah Merah,2023-11-20 18:00:00,3,Berawan,95,23,73
+Boyolali_2023-11-20T00:00:00,Boyolali,2023-11-20 00:00:00,3,Berawan,80,27,81
+Boyolali_2023-11-20T06:00:00,Boyolali,2023-11-20 06:00:00,3,Berawan,60,33,91
+Boyolali_2023-11-20T12:00:00,Boyolali,2023-11-20 12:00:00,3,Berawan,75,28,82
+Boyolali_2023-11-20T18:00:00,Boyolali,2023-11-20 18:00:00,3,Berawan,85,25,77
+Brebes_2023-11-20T00:00:00,Brebes,2023-11-20 00:00:00,3,Berawan,75,28,82
+Brebes_2023-11-20T06:00:00,Brebes,2023-11-20 06:00:00,3,Berawan,55,33,91
+Brebes_2023-11-20T12:00:00,Brebes,2023-11-20 12:00:00,3,Berawan,75,28,82
+Brebes_2023-11-20T18:00:00,Brebes,2023-11-20 18:00:00,3,Berawan,85,24,75
+Bukittinggi_2023-11-20T00:00:00,Bukittinggi,2023-11-20 00:00:00,45,Berkabut,100,19,66
+Bukittinggi_2023-11-20T06:00:00,Bukittinggi,2023-11-20 06:00:00,60,Hujan Ringan,80,25,77
+Bukittinggi_2023-11-20T12:00:00,Bukittinggi,2023-11-20 12:00:00,3,Berawan,100,20,68
+Bukittinggi_2023-11-20T18:00:00,Bukittinggi,2023-11-20 18:00:00,45,Berkabut,100,18,64
+Buleleng_2023-11-20T00:00:00,Buleleng,2023-11-20 00:00:00,1,Cerah Berawan,85,28,82
+Buleleng_2023-11-20T06:00:00,Buleleng,2023-11-20 06:00:00,3,Berawan,65,32,90
+Buleleng_2023-11-20T12:00:00,Buleleng,2023-11-20 12:00:00,1,Cerah Berawan,80,28,82
+Buleleng_2023-11-20T18:00:00,Buleleng,2023-11-20 18:00:00,1,Cerah Berawan,80,26,79
+Bulukumba_2023-11-20T00:00:00,Bulukumba,2023-11-20 00:00:00,1,Cerah Berawan,80,27,81
+Bulukumba_2023-11-20T06:00:00,Bulukumba,2023-11-20 06:00:00,3,Berawan,65,34,93
+Bulukumba_2023-11-20T12:00:00,Bulukumba,2023-11-20 12:00:00,3,Berawan,75,29,84
+Bulukumba_2023-11-20T18:00:00,Bulukumba,2023-11-20 18:00:00,3,Berawan,85,25,77
+Bulungan_2023-11-20T00:00:00,Bulungan,2023-11-20 00:00:00,1,Cerah Berawan,95,26,79
+Bulungan_2023-11-20T06:00:00,Bulungan,2023-11-20 06:00:00,1,Cerah Berawan,70,33,91
+Bulungan_2023-11-20T12:00:00,Bulungan,2023-11-20 12:00:00,1,Cerah Berawan,95,25,77
+Bulungan_2023-11-20T18:00:00,Bulungan,2023-11-20 18:00:00,95,Hujan Petir,95,24,75
+Bungo_2023-11-20T00:00:00,Bungo,2023-11-20 00:00:00,3,Berawan,100,24,75
+Bungo_2023-11-20T06:00:00,Bungo,2023-11-20 06:00:00,60,Hujan Ringan,70,32,90
+Bungo_2023-11-20T12:00:00,Bungo,2023-11-20 12:00:00,95,Hujan Petir,100,24,75
+Bungo_2023-11-20T18:00:00,Bungo,2023-11-20 18:00:00,60,Hujan Ringan,100,23,73
+Buol_2023-11-20T00:00:00,Buol,2023-11-20 00:00:00,1,Cerah Berawan,85,28,82
+Buol_2023-11-20T06:00:00,Buol,2023-11-20 06:00:00,60,Hujan Ringan,65,33,91
+Buol_2023-11-20T12:00:00,Buol,2023-11-20 12:00:00,3,Berawan,95,25,77
+Buol_2023-11-20T18:00:00,Buol,2023-11-20 18:00:00,3,Berawan,95,23,73
+Buru Selatan_2023-11-20T00:00:00,Buru Selatan,2023-11-20 00:00:00,1,Cerah Berawan,80,29,84
+Buru Selatan_2023-11-20T06:00:00,Buru Selatan,2023-11-20 06:00:00,1,Cerah Berawan,60,33,91
+Buru Selatan_2023-11-20T12:00:00,Buru Selatan,2023-11-20 12:00:00,1,Cerah Berawan,80,28,82
+Buru Selatan_2023-11-20T18:00:00,Buru Selatan,2023-11-20 18:00:00,3,Berawan,95,25,77
+Buru_2023-11-20T00:00:00,Buru,2023-11-20 00:00:00,1,Cerah Berawan,80,29,84
+Buru_2023-11-20T06:00:00,Buru,2023-11-20 06:00:00,1,Cerah Berawan,65,33,91
+Buru_2023-11-20T12:00:00,Buru,2023-11-20 12:00:00,1,Cerah Berawan,80,28,82
+Buru_2023-11-20T18:00:00,Buru,2023-11-20 18:00:00,1,Cerah Berawan,95,24,75
+Buton Utara_2023-11-20T00:00:00,Buton Utara,2023-11-20 00:00:00,3,Berawan,75,29,84
+Buton Utara_2023-11-20T06:00:00,Buton Utara,2023-11-20 06:00:00,1,Cerah Berawan,55,33,91
+Buton Utara_2023-11-20T12:00:00,Buton Utara,2023-11-20 12:00:00,1,Cerah Berawan,80,27,81
+Buton Utara_2023-11-20T18:00:00,Buton Utara,2023-11-20 18:00:00,1,Cerah Berawan,90,25,77
+Buton_2023-11-20T00:00:00,Buton,2023-11-20 00:00:00,3,Berawan,75,29,84
+Buton_2023-11-20T06:00:00,Buton,2023-11-20 06:00:00,3,Berawan,55,33,91
+Buton_2023-11-20T12:00:00,Buton,2023-11-20 12:00:00,1,Cerah Berawan,80,27,81
+Buton_2023-11-20T18:00:00,Buton,2023-11-20 18:00:00,1,Cerah Berawan,90,25,77
+Ciamis_2023-11-20T00:00:00,Ciamis,2023-11-20 00:00:00,60,Hujan Ringan,85,25,77
+Ciamis_2023-11-20T06:00:00,Ciamis,2023-11-20 06:00:00,60,Hujan Ringan,55,32,90
+Ciamis_2023-11-20T12:00:00,Ciamis,2023-11-20 12:00:00,60,Hujan Ringan,80,25,77
+Ciamis_2023-11-20T18:00:00,Ciamis,2023-11-20 18:00:00,60,Hujan Ringan,90,22,72
+Cianjur_2023-11-20T00:00:00,Cianjur,2023-11-20 00:00:00,1,Cerah Berawan,85,25,77
+Cianjur_2023-11-20T06:00:00,Cianjur,2023-11-20 06:00:00,1,Cerah Berawan,60,30,86
+Cianjur_2023-11-20T12:00:00,Cianjur,2023-11-20 12:00:00,60,Hujan Ringan,85,24,75
+Cianjur_2023-11-20T18:00:00,Cianjur,2023-11-20 18:00:00,60,Hujan Ringan,90,21,70
+Cilacap_2023-11-20T00:00:00,Cilacap,2023-11-20 00:00:00,4,Berawan Tebal,80,27,81
+Cilacap_2023-11-20T06:00:00,Cilacap,2023-11-20 06:00:00,3,Berawan,60,32,90
+Cilacap_2023-11-20T12:00:00,Cilacap,2023-11-20 12:00:00,4,Berawan Tebal,75,28,82
+Cilacap_2023-11-20T18:00:00,Cilacap,2023-11-20 18:00:00,60,Hujan Ringan,85,24,75
+Cilegon_2023-11-20T00:00:00,Cilegon,2023-11-20 00:00:00,1,Cerah Berawan,80,27,81
+Cilegon_2023-11-20T06:00:00,Cilegon,2023-11-20 06:00:00,3,Berawan,60,33,91
+Cilegon_2023-11-20T12:00:00,Cilegon,2023-11-20 12:00:00,3,Berawan,75,28,82
+Cilegon_2023-11-20T18:00:00,Cilegon,2023-11-20 18:00:00,3,Berawan,90,26,79
+Cimahi_2023-11-20T00:00:00,Cimahi,2023-11-20 00:00:00,1,Cerah Berawan,85,25,77
+Cimahi_2023-11-20T06:00:00,Cimahi,2023-11-20 06:00:00,60,Hujan Ringan,55,31,88
+Cimahi_2023-11-20T12:00:00,Cimahi,2023-11-20 12:00:00,60,Hujan Ringan,80,25,77
+Cimahi_2023-11-20T18:00:00,Cimahi,2023-11-20 18:00:00,1,Cerah Berawan,90,22,72
+Cirebon_2023-11-20T00:00:00,Cirebon,2023-11-20 00:00:00,1,Cerah Berawan,80,25,77
+Cirebon_2023-11-20T06:00:00,Cirebon,2023-11-20 06:00:00,60,Hujan Ringan,55,34,93
+Cirebon_2023-11-20T12:00:00,Cirebon,2023-11-20 12:00:00,1,Cerah Berawan,80,25,77
+Cirebon_2023-11-20T18:00:00,Cirebon,2023-11-20 18:00:00,1,Cerah Berawan,90,23,73
+Dairi_2023-11-20T00:00:00,Dairi,2023-11-20 00:00:00,1,Cerah Berawan,95,20,68
+Dairi_2023-11-20T06:00:00,Dairi,2023-11-20 06:00:00,61,Hujan Sedang,70,23,73
+Dairi_2023-11-20T12:00:00,Dairi,2023-11-20 12:00:00,61,Hujan Sedang,85,21,70
+Dairi_2023-11-20T18:00:00,Dairi,2023-11-20 18:00:00,3,Berawan,95,20,68
+Deiyai_2023-11-20T00:00:00,Deiyai,2023-11-20 00:00:00,3,Berawan,70,22,72
+Deiyai_2023-11-20T06:00:00,Deiyai,2023-11-20 06:00:00,60,Hujan Ringan,70,26,79
+Deiyai_2023-11-20T12:00:00,Deiyai,2023-11-20 12:00:00,3,Berawan,85,21,70
+Deiyai_2023-11-20T18:00:00,Deiyai,2023-11-20 18:00:00,3,Berawan,95,18,64
+Deli Serdang_2023-11-20T00:00:00,Deli Serdang,2023-11-20 00:00:00,1,Cerah Berawan,95,26,79
+Deli Serdang_2023-11-20T06:00:00,Deli Serdang,2023-11-20 06:00:00,61,Hujan Sedang,70,32,90
+Deli Serdang_2023-11-20T12:00:00,Deli Serdang,2023-11-20 12:00:00,3,Berawan,85,27,81
+Deli Serdang_2023-11-20T18:00:00,Deli Serdang,2023-11-20 18:00:00,3,Berawan,95,23,73
+Demak_2023-11-20T00:00:00,Demak,2023-11-20 00:00:00,1,Cerah Berawan,75,28,82
+Demak_2023-11-20T06:00:00,Demak,2023-11-20 06:00:00,3,Berawan,55,34,93
+Demak_2023-11-20T12:00:00,Demak,2023-11-20 12:00:00,60,Hujan Ringan,75,28,82
+Demak_2023-11-20T18:00:00,Demak,2023-11-20 18:00:00,3,Berawan,85,26,79
+Denpasar_2023-11-20T00:00:00,Denpasar,2023-11-20 00:00:00,3,Berawan,85,28,82
+Denpasar_2023-11-20T06:00:00,Denpasar,2023-11-20 06:00:00,3,Berawan,65,33,91
+Denpasar_2023-11-20T12:00:00,Denpasar,2023-11-20 12:00:00,1,Cerah Berawan,80,28,82
+Denpasar_2023-11-20T18:00:00,Denpasar,2023-11-20 18:00:00,1,Cerah Berawan,85,26,79
+Depok_2023-11-20T00:00:00,Depok,2023-11-20 00:00:00,1,Cerah Berawan,80,25,77
+Depok_2023-11-20T06:00:00,Depok,2023-11-20 06:00:00,61,Hujan Sedang,55,34,93
+Depok_2023-11-20T12:00:00,Depok,2023-11-20 12:00:00,61,Hujan Sedang,80,25,77
+Depok_2023-11-20T18:00:00,Depok,2023-11-20 18:00:00,60,Hujan Ringan,90,23,73
+Dharmasraya_2023-11-20T00:00:00,Dharmasraya,2023-11-20 00:00:00,3,Berawan,100,24,75
+Dharmasraya_2023-11-20T06:00:00,Dharmasraya,2023-11-20 06:00:00,1,Cerah Berawan,65,31,88
+Dharmasraya_2023-11-20T12:00:00,Dharmasraya,2023-11-20 12:00:00,60,Hujan Ringan,90,25,77
+Dharmasraya_2023-11-20T18:00:00,Dharmasraya,2023-11-20 18:00:00,3,Berawan,100,24,75
+Dogiyai_2023-11-20T00:00:00,Dogiyai,2023-11-20 00:00:00,3,Berawan,70,22,72
+Dogiyai_2023-11-20T06:00:00,Dogiyai,2023-11-20 06:00:00,60,Hujan Ringan,70,26,79
+Dogiyai_2023-11-20T12:00:00,Dogiyai,2023-11-20 12:00:00,3,Berawan,85,21,70
+Dogiyai_2023-11-20T18:00:00,Dogiyai,2023-11-20 18:00:00,3,Berawan,95,18,64
+Dompu_2023-11-20T00:00:00,Dompu,2023-11-20 00:00:00,1,Cerah Berawan,85,26,79
+Dompu_2023-11-20T06:00:00,Dompu,2023-11-20 06:00:00,3,Berawan,50,34,93
+Dompu_2023-11-20T12:00:00,Dompu,2023-11-20 12:00:00,3,Berawan,85,24,75
+Dompu_2023-11-20T18:00:00,Dompu,2023-11-20 18:00:00,1,Cerah Berawan,95,23,73
+Donggala_2023-11-20T00:00:00,Donggala,2023-11-20 00:00:00,1,Cerah Berawan,85,28,82
+Donggala_2023-11-20T06:00:00,Donggala,2023-11-20 06:00:00,3,Berawan,65,33,91
+Donggala_2023-11-20T12:00:00,Donggala,2023-11-20 12:00:00,60,Hujan Ringan,90,26,79
+Donggala_2023-11-20T18:00:00,Donggala,2023-11-20 18:00:00,60,Hujan Ringan,90,25,77
+Dumai_2023-11-20T00:00:00,Dumai,2023-11-20 00:00:00,3,Berawan,100,25,77
+Dumai_2023-11-20T06:00:00,Dumai,2023-11-20 06:00:00,3,Berawan,75,30,86
+Dumai_2023-11-20T12:00:00,Dumai,2023-11-20 12:00:00,1,Cerah Berawan,85,27,81
+Dumai_2023-11-20T18:00:00,Dumai,2023-11-20 18:00:00,3,Berawan,100,25,77
+Empat Lawang_2023-11-20T00:00:00,Empat Lawang,2023-11-20 00:00:00,3,Berawan,85,24,75
+Empat Lawang_2023-11-20T06:00:00,Empat Lawang,2023-11-20 06:00:00,95,Hujan Petir,65,32,90
+Empat Lawang_2023-11-20T12:00:00,Empat Lawang,2023-11-20 12:00:00,1,Cerah Berawan,75,28,82
+Empat Lawang_2023-11-20T18:00:00,Empat Lawang,2023-11-20 18:00:00,45,Berkabut,95,23,73
+Ende_2023-11-20T00:00:00,Ende,2023-11-20 00:00:00,1,Cerah Berawan,70,29,84
+Ende_2023-11-20T06:00:00,Ende,2023-11-20 06:00:00,60,Hujan Ringan,50,30,86
+Ende_2023-11-20T12:00:00,Ende,2023-11-20 12:00:00,3,Berawan,80,27,81
+Ende_2023-11-20T18:00:00,Ende,2023-11-20 18:00:00,3,Berawan,95,25,77
+Enrekang_2023-11-20T00:00:00,Enrekang,2023-11-20 00:00:00,60,Hujan Ringan,85,23,73
+Enrekang_2023-11-20T06:00:00,Enrekang,2023-11-20 06:00:00,60,Hujan Ringan,70,30,86
+Enrekang_2023-11-20T12:00:00,Enrekang,2023-11-20 12:00:00,3,Berawan,80,25,77
+Enrekang_2023-11-20T18:00:00,Enrekang,2023-11-20 18:00:00,3,Berawan,90,21,70
+Fakfak_2023-11-20T00:00:00,Fakfak,2023-11-20 00:00:00,3,Berawan,80,28,82
+Fakfak_2023-11-20T06:00:00,Fakfak,2023-11-20 06:00:00,1,Cerah Berawan,65,32,90
+Fakfak_2023-11-20T12:00:00,Fakfak,2023-11-20 12:00:00,60,Hujan Ringan,95,26,79
+Fakfak_2023-11-20T18:00:00,Fakfak,2023-11-20 18:00:00,3,Berawan,95,24,75
+Flores Timur_2023-11-20T00:00:00,Flores Timur,2023-11-20 00:00:00,1,Cerah Berawan,70,29,84
+Flores Timur_2023-11-20T06:00:00,Flores Timur,2023-11-20 06:00:00,60,Hujan Ringan,55,34,93
+Flores Timur_2023-11-20T12:00:00,Flores Timur,2023-11-20 12:00:00,3,Berawan,80,27,81
+Flores Timur_2023-11-20T18:00:00,Flores Timur,2023-11-20 18:00:00,3,Berawan,95,25,77
+Gadog Puncak_2023-11-20T00:00:00,Gadog Puncak,2023-11-20 00:00:00,1,Cerah Berawan,85,23,73
+Gadog Puncak_2023-11-20T06:00:00,Gadog Puncak,2023-11-20 06:00:00,61,Hujan Sedang,60,29,84
+Gadog Puncak_2023-11-20T12:00:00,Gadog Puncak,2023-11-20 12:00:00,60,Hujan Ringan,85,23,73
+Gadog Puncak_2023-11-20T18:00:00,Gadog Puncak,2023-11-20 18:00:00,60,Hujan Ringan,90,21,70
+Garut_2023-11-20T00:00:00,Garut,2023-11-20 00:00:00,1,Cerah Berawan,85,24,75
+Garut_2023-11-20T06:00:00,Garut,2023-11-20 06:00:00,60,Hujan Ringan,60,31,88
+Garut_2023-11-20T12:00:00,Garut,2023-11-20 12:00:00,1,Cerah Berawan,85,24,75
+Garut_2023-11-20T18:00:00,Garut,2023-11-20 18:00:00,60,Hujan Ringan,90,21,70
+Gayo Lues_2023-11-20T00:00:00,Gayo Lues,2023-11-20 00:00:00,1,Cerah Berawan,100,20,68
+Gayo Lues_2023-11-20T06:00:00,Gayo Lues,2023-11-20 06:00:00,4,Berawan Tebal,75,26,79
+Gayo Lues_2023-11-20T12:00:00,Gayo Lues,2023-11-20 12:00:00,60,Hujan Ringan,100,19,66
+Gayo Lues_2023-11-20T18:00:00,Gayo Lues,2023-11-20 18:00:00,60,Hujan Ringan,100,16,61
+Gianyar_2023-11-20T00:00:00,Gianyar,2023-11-20 00:00:00,3,Berawan,85,28,82
+Gianyar_2023-11-20T06:00:00,Gianyar,2023-11-20 06:00:00,60,Hujan Ringan,65,32,90
+Gianyar_2023-11-20T12:00:00,Gianyar,2023-11-20 12:00:00,1,Cerah Berawan,80,28,82
+Gianyar_2023-11-20T18:00:00,Gianyar,2023-11-20 18:00:00,1,Cerah Berawan,80,26,79
+Gorontalo Utara_2023-11-20T00:00:00,Gorontalo Utara,2023-11-20 00:00:00,1,Cerah Berawan,85,27,81
+Gorontalo Utara_2023-11-20T06:00:00,Gorontalo Utara,2023-11-20 06:00:00,60,Hujan Ringan,65,34,93
+Gorontalo Utara_2023-11-20T12:00:00,Gorontalo Utara,2023-11-20 12:00:00,3,Berawan,90,26,79
+Gorontalo Utara_2023-11-20T18:00:00,Gorontalo Utara,2023-11-20 18:00:00,3,Berawan,95,23,73
+Gorontalo_2023-11-20T00:00:00,Gorontalo,2023-11-20 00:00:00,1,Cerah Berawan,80,28,82
+Gorontalo_2023-11-20T06:00:00,Gorontalo,2023-11-20 06:00:00,1,Cerah Berawan,60,33,91
+Gorontalo_2023-11-20T12:00:00,Gorontalo,2023-11-20 12:00:00,0,,90,26,79
+Gorontalo_2023-11-20T18:00:00,Gorontalo,2023-11-20 18:00:00,0,Cerah,95,23,73
+Gowa_2023-11-20T00:00:00,Gowa,2023-11-20 00:00:00,1,Cerah Berawan,80,27,81
+Gowa_2023-11-20T06:00:00,Gowa,2023-11-20 06:00:00,60,Hujan Ringan,70,34,93
+Gowa_2023-11-20T12:00:00,Gowa,2023-11-20 12:00:00,3,Berawan,80,29,84
+Gowa_2023-11-20T18:00:00,Gowa,2023-11-20 18:00:00,3,Berawan,90,25,77
+Gresik_2023-11-20T00:00:00,Gresik,2023-11-20 00:00:00,0,,80,28,82
+Gresik_2023-11-20T06:00:00,Gresik,2023-11-20 06:00:00,0,,50,34,93
+Gresik_2023-11-20T12:00:00,Gresik,2023-11-20 12:00:00,0,,75,30,86
+Gresik_2023-11-20T18:00:00,Gresik,2023-11-20 18:00:00,1,Cerah Berawan,85,26,79
+Grobogan_2023-11-20T00:00:00,Grobogan,2023-11-20 00:00:00,1,Cerah Berawan,80,27,81
+Grobogan_2023-11-20T06:00:00,Grobogan,2023-11-20 06:00:00,3,Berawan,55,33,91
+Grobogan_2023-11-20T12:00:00,Grobogan,2023-11-20 12:00:00,3,Berawan,75,28,82
+Grobogan_2023-11-20T18:00:00,Grobogan,2023-11-20 18:00:00,3,Berawan,85,25,77
+Gunung Kidul_2023-11-20T00:00:00,Gunung Kidul,2023-11-20 00:00:00,3,Berawan,80,27,81
+Gunung Kidul_2023-11-20T06:00:00,Gunung Kidul,2023-11-20 06:00:00,1,Cerah Berawan,65,32,90
+Gunung Kidul_2023-11-20T12:00:00,Gunung Kidul,2023-11-20 12:00:00,1,Cerah Berawan,85,27,81
+Gunung Kidul_2023-11-20T18:00:00,Gunung Kidul,2023-11-20 18:00:00,3,Berawan,95,25,77
+Gunung Mas_2023-11-20T00:00:00,Gunung Mas,2023-11-20 00:00:00,3,Berawan,85,26,79
+Gunung Mas_2023-11-20T06:00:00,Gunung Mas,2023-11-20 06:00:00,60,Hujan Ringan,65,32,90
+Gunung Mas_2023-11-20T12:00:00,Gunung Mas,2023-11-20 12:00:00,60,Hujan Ringan,90,26,79
+Gunung Mas_2023-11-20T18:00:00,Gunung Mas,2023-11-20 18:00:00,60,Hujan Ringan,95,24,75
+Halmahera Barat_2023-11-20T00:00:00,Halmahera Barat,2023-11-20 00:00:00,1,Cerah Berawan,75,28,82
+Halmahera Barat_2023-11-20T06:00:00,Halmahera Barat,2023-11-20 06:00:00,3,Berawan,70,32,90
+Halmahera Barat_2023-11-20T12:00:00,Halmahera Barat,2023-11-20 12:00:00,3,Berawan,80,27,81
+Halmahera Barat_2023-11-20T18:00:00,Halmahera Barat,2023-11-20 18:00:00,1,Cerah Berawan,95,25,77
+Halmahera Selatan_2023-11-20T00:00:00,Halmahera Selatan,2023-11-20 00:00:00,0,Cerah,80,28,82
+Halmahera Selatan_2023-11-20T06:00:00,Halmahera Selatan,2023-11-20 06:00:00,3,Berawan,60,32,90
+Halmahera Selatan_2023-11-20T12:00:00,Halmahera Selatan,2023-11-20 12:00:00,1,Cerah Berawan,85,28,82
+Halmahera Selatan_2023-11-20T18:00:00,Halmahera Selatan,2023-11-20 18:00:00,1,Cerah Berawan,90,23,73
+Halmahera Tengah_2023-11-20T00:00:00,Halmahera Tengah,2023-11-20 00:00:00,1,Cerah Berawan,75,28,82
+Halmahera Tengah_2023-11-20T06:00:00,Halmahera Tengah,2023-11-20 06:00:00,3,Berawan,65,32,90
+Halmahera Tengah_2023-11-20T12:00:00,Halmahera Tengah,2023-11-20 12:00:00,1,Cerah Berawan,80,27,81
+Halmahera Tengah_2023-11-20T18:00:00,Halmahera Tengah,2023-11-20 18:00:00,1,Cerah Berawan,95,25,77
+Halmahera Timur_2023-11-20T00:00:00,Halmahera Timur,2023-11-20 00:00:00,1,Cerah Berawan,75,28,82
+Halmahera Timur_2023-11-20T06:00:00,Halmahera Timur,2023-11-20 06:00:00,60,Hujan Ringan,70,31,88
+Halmahera Timur_2023-11-20T12:00:00,Halmahera Timur,2023-11-20 12:00:00,1,Cerah Berawan,80,27,81
+Halmahera Timur_2023-11-20T18:00:00,Halmahera Timur,2023-11-20 18:00:00,1,Cerah Berawan,95,25,77
+Halmahera Utara_2023-11-20T00:00:00,Halmahera Utara,2023-11-20 00:00:00,0,Cerah,75,28,82
+Halmahera Utara_2023-11-20T06:00:00,Halmahera Utara,2023-11-20 06:00:00,60,Hujan Ringan,70,31,88
+Halmahera Utara_2023-11-20T12:00:00,Halmahera Utara,2023-11-20 12:00:00,3,Berawan,90,25,77
+Halmahera Utara_2023-11-20T18:00:00,Halmahera Utara,2023-11-20 18:00:00,1,Cerah Berawan,95,24,75
+Hulu Sungai Selatan_2023-11-20T00:00:00,Hulu Sungai Selatan,2023-11-20 00:00:00,3,Berawan,90,27,81
+Hulu Sungai Selatan_2023-11-20T06:00:00,Hulu Sungai Selatan,2023-11-20 06:00:00,95,Hujan Petir,60,33,91
+Hulu Sungai Selatan_2023-11-20T12:00:00,Hulu Sungai Selatan,2023-11-20 12:00:00,3,Berawan,85,26,79
+Hulu Sungai Selatan_2023-11-20T18:00:00,Hulu Sungai Selatan,2023-11-20 18:00:00,1,Cerah Berawan,95,24,75
+Hulu Sungai Tengah_2023-11-20T00:00:00,Hulu Sungai Tengah,2023-11-20 00:00:00,3,Berawan,90,27,81
+Hulu Sungai Tengah_2023-11-20T06:00:00,Hulu Sungai Tengah,2023-11-20 06:00:00,95,Hujan Petir,60,33,91
+Hulu Sungai Tengah_2023-11-20T12:00:00,Hulu Sungai Tengah,2023-11-20 12:00:00,3,Berawan,85,26,79
+Hulu Sungai Tengah_2023-11-20T18:00:00,Hulu Sungai Tengah,2023-11-20 18:00:00,1,Cerah Berawan,95,24,75
+Hulu Sungai Utara_2023-11-20T00:00:00,Hulu Sungai Utara,2023-11-20 00:00:00,3,Berawan,90,27,81
+Hulu Sungai Utara_2023-11-20T06:00:00,Hulu Sungai Utara,2023-11-20 06:00:00,95,Hujan Petir,60,33,91
+Hulu Sungai Utara_2023-11-20T12:00:00,Hulu Sungai Utara,2023-11-20 12:00:00,60,Hujan Ringan,85,26,79
+Hulu Sungai Utara_2023-11-20T18:00:00,Hulu Sungai Utara,2023-11-20 18:00:00,3,Berawan,95,24,75
+Humbang Hasundutan_2023-11-20T00:00:00,Humbang Hasundutan,2023-11-20 00:00:00,1,Cerah Berawan,95,17,63
+Humbang Hasundutan_2023-11-20T06:00:00,Humbang Hasundutan,2023-11-20 06:00:00,63,Hujan Lebat,70,29,84
+Humbang Hasundutan_2023-11-20T12:00:00,Humbang Hasundutan,2023-11-20 12:00:00,61,Hujan Sedang,85,18,64
+Humbang Hasundutan_2023-11-20T18:00:00,Humbang Hasundutan,2023-11-20 18:00:00,3,Berawan,95,17,63
+Indragiri Hilir_2023-11-20T00:00:00,Indragiri Hilir,2023-11-20 00:00:00,3,Berawan,100,25,77
+Indragiri Hilir_2023-11-20T06:00:00,Indragiri Hilir,2023-11-20 06:00:00,3,Berawan,70,31,88
+Indragiri Hilir_2023-11-20T12:00:00,Indragiri Hilir,2023-11-20 12:00:00,1,Cerah Berawan,90,25,77
+Indragiri Hilir_2023-11-20T18:00:00,Indragiri Hilir,2023-11-20 18:00:00,60,Hujan Ringan,100,24,75
+Indragiri Hulu_2023-11-20T00:00:00,Indragiri Hulu,2023-11-20 00:00:00,3,Berawan,100,25,77
+Indragiri Hulu_2023-11-20T06:00:00,Indragiri Hulu,2023-11-20 06:00:00,3,Berawan,70,30,86
+Indragiri Hulu_2023-11-20T12:00:00,Indragiri Hulu,2023-11-20 12:00:00,60,Hujan Ringan,85,26,79
+Indragiri Hulu_2023-11-20T18:00:00,Indragiri Hulu,2023-11-20 18:00:00,45,Berkabut,100,24,75
+Indramayu_2023-11-20T00:00:00,Indramayu,2023-11-20 00:00:00,1,Cerah Berawan,80,25,77
+Indramayu_2023-11-20T06:00:00,Indramayu,2023-11-20 06:00:00,60,Hujan Ringan,55,35,95
+Indramayu_2023-11-20T12:00:00,Indramayu,2023-11-20 12:00:00,60,Hujan Ringan,80,25,77
+Indramayu_2023-11-20T18:00:00,Indramayu,2023-11-20 18:00:00,0,,90,23,73
+Intan Jaya _2023-11-20T00:00:00,Intan Jaya,2023-11-20 00:00:00,3,Berawan,70,20,68
+Intan Jaya _2023-11-20T06:00:00,Intan Jaya,2023-11-20 06:00:00,3,Berawan,70,24,75
+Intan Jaya _2023-11-20T12:00:00,Intan Jaya,2023-11-20 12:00:00,3,Berawan,85,19,66
+Intan Jaya _2023-11-20T18:00:00,Intan Jaya,2023-11-20 18:00:00,3,Berawan,95,16,61
+Jakarta Barat_2023-11-20T00:00:00,Jakarta Barat,2023-11-20 00:00:00,3,Berawan,80,26,79
+Jakarta Barat_2023-11-20T06:00:00,Jakarta Barat,2023-11-20 06:00:00,3,Berawan,60,33,91
+Jakarta Barat_2023-11-20T12:00:00,Jakarta Barat,2023-11-20 12:00:00,60,Hujan Ringan,80,28,82
+Jakarta Barat_2023-11-20T18:00:00,Jakarta Barat,2023-11-20 18:00:00,3,Berawan,95,25,77
+Jakarta Pusat_2023-11-20T00:00:00,Jakarta Pusat,2023-11-20 00:00:00,3,Berawan,90,26,79
+Jakarta Pusat_2023-11-20T06:00:00,Jakarta Pusat,2023-11-20 06:00:00,1,Cerah Berawan,75,31,88
+Jakarta Pusat_2023-11-20T12:00:00,Jakarta Pusat,2023-11-20 12:00:00,60,Hujan Ringan,75,29,84
+Jakarta Pusat_2023-11-20T18:00:00,Jakarta Pusat,2023-11-20 18:00:00,3,Berawan,95,25,77
+Jakarta Selatan_2023-11-20T00:00:00,Jakarta Selatan,2023-11-20 00:00:00,3,Berawan,90,26,79
+Jakarta Selatan_2023-11-20T06:00:00,Jakarta Selatan,2023-11-20 06:00:00,60,Hujan Ringan,60,34,93
+Jakarta Selatan_2023-11-20T12:00:00,Jakarta Selatan,2023-11-20 12:00:00,61,Hujan Sedang,80,28,82
+Jakarta Selatan_2023-11-20T18:00:00,Jakarta Selatan,2023-11-20 18:00:00,3,Berawan,90,24,75
+Jakarta Timur_2023-11-20T00:00:00,Jakarta Timur,2023-11-20 00:00:00,3,Berawan,90,26,79
+Jakarta Timur_2023-11-20T06:00:00,Jakarta Timur,2023-11-20 06:00:00,60,Hujan Ringan,60,34,93
+Jakarta Timur_2023-11-20T12:00:00,Jakarta Timur,2023-11-20 12:00:00,60,Hujan Ringan,80,28,82
+Jakarta Timur_2023-11-20T18:00:00,Jakarta Timur,2023-11-20 18:00:00,3,Berawan,90,24,75
+Jakarta Utara_2023-11-20T00:00:00,Jakarta Utara,2023-11-20 00:00:00,3,Berawan,90,26,79
+Jakarta Utara_2023-11-20T06:00:00,Jakarta Utara,2023-11-20 06:00:00,1,Cerah Berawan,75,31,88
+Jakarta Utara_2023-11-20T12:00:00,Jakarta Utara,2023-11-20 12:00:00,3,Berawan,75,29,84
+Jakarta Utara_2023-11-20T18:00:00,Jakarta Utara,2023-11-20 18:00:00,3,Berawan,95,25,77
+Jambi_2023-11-20T00:00:00,Jambi,2023-11-20 00:00:00,3,Berawan,100,25,77
+Jambi_2023-11-20T06:00:00,Jambi,2023-11-20 06:00:00,3,Berawan,75,33,91
+Jambi_2023-11-20T12:00:00,Jambi,2023-11-20 12:00:00,60,Hujan Ringan,90,28,82
+Jambi_2023-11-20T18:00:00,Jambi,2023-11-20 18:00:00,60,Hujan Ringan,100,25,77
+Jayapura _2023-11-20T00:00:00,Jayapura,2023-11-20 00:00:00,1,Cerah Berawan,70,27,81
+Jayapura _2023-11-20T06:00:00,Jayapura,2023-11-20 06:00:00,1,Cerah Berawan,70,31,88
+Jayapura _2023-11-20T12:00:00,Jayapura,2023-11-20 12:00:00,3,Berawan,85,26,79
+Jayapura _2023-11-20T18:00:00,Jayapura,2023-11-20 18:00:00,1,Cerah Berawan,95,23,73
+Jayapura_2023-11-20T00:00:00,Jayapura,2023-11-20 00:00:00,1,Cerah Berawan,70,27,81
+Jayapura_2023-11-20T06:00:00,Jayapura,2023-11-20 06:00:00,1,Cerah Berawan,70,31,88
+Jayapura_2023-11-20T12:00:00,Jayapura,2023-11-20 12:00:00,3,Berawan,85,26,79
+Jayapura_2023-11-20T18:00:00,Jayapura,2023-11-20 18:00:00,1,Cerah Berawan,95,23,73
+Jayawijaya _2023-11-20T00:00:00,Jayawijaya,2023-11-20 00:00:00,4,Berawan Tebal,70,20,68
+Jayawijaya _2023-11-20T06:00:00,Jayawijaya,2023-11-20 06:00:00,3,Berawan,70,24,75
+Jayawijaya _2023-11-20T12:00:00,Jayawijaya,2023-11-20 12:00:00,3,Berawan,85,19,66
+Jayawijaya _2023-11-20T18:00:00,Jayawijaya,2023-11-20 18:00:00,3,Berawan,95,16,61
+Jember_2023-11-20T00:00:00,Jember,2023-11-20 00:00:00,1,Cerah Berawan,85,24,75
+Jember_2023-11-20T06:00:00,Jember,2023-11-20 06:00:00,3,Berawan,60,31,88
+Jember_2023-11-20T12:00:00,Jember,2023-11-20 12:00:00,1,Cerah Berawan,85,23,73
+Jember_2023-11-20T18:00:00,Jember,2023-11-20 18:00:00,3,Berawan,95,21,70
+Jembrana_2023-11-20T00:00:00,Jembrana,2023-11-20 00:00:00,3,Berawan,85,27,81
+Jembrana_2023-11-20T06:00:00,Jembrana,2023-11-20 06:00:00,60,Hujan Ringan,60,32,90
+Jembrana_2023-11-20T12:00:00,Jembrana,2023-11-20 12:00:00,1,Cerah Berawan,80,28,82
+Jembrana_2023-11-20T18:00:00,Jembrana,2023-11-20 18:00:00,1,Cerah Berawan,80,26,79
+Jeneponto_2023-11-20T00:00:00,Jeneponto,2023-11-20 00:00:00,1,Cerah Berawan,80,27,81
+Jeneponto_2023-11-20T06:00:00,Jeneponto,2023-11-20 06:00:00,3,Berawan,65,34,93
+Jeneponto_2023-11-20T12:00:00,Jeneponto,2023-11-20 12:00:00,3,Berawan,75,29,84
+Jeneponto_2023-11-20T18:00:00,Jeneponto,2023-11-20 18:00:00,3,Berawan,85,25,77
+Jepara_2023-11-20T00:00:00,Jepara,2023-11-20 00:00:00,1,Cerah Berawan,75,28,82
+Jepara_2023-11-20T06:00:00,Jepara,2023-11-20 06:00:00,3,Berawan,55,34,93
+Jepara_2023-11-20T12:00:00,Jepara,2023-11-20 12:00:00,60,Hujan Ringan,75,28,82
+Jepara_2023-11-20T18:00:00,Jepara,2023-11-20 18:00:00,3,Berawan,85,26,79
+Jombang_2023-11-20T00:00:00,Jombang,2023-11-20 00:00:00,0,,80,27,81
+Jombang_2023-11-20T06:00:00,Jombang,2023-11-20 06:00:00,0,,45,34,93
+Jombang_2023-11-20T12:00:00,Jombang,2023-11-20 12:00:00,1,Cerah Berawan,80,29,84
+Jombang_2023-11-20T18:00:00,Jombang,2023-11-20 18:00:00,3,Berawan,90,25,77
+Kaimana_2023-11-20T00:00:00,Kaimana,2023-11-20 00:00:00,3,Berawan,80,28,82
+Kaimana_2023-11-20T06:00:00,Kaimana,2023-11-20 06:00:00,60,Hujan Ringan,65,32,90
+Kaimana_2023-11-20T12:00:00,Kaimana,2023-11-20 12:00:00,1,Cerah Berawan,95,26,79
+Kaimana_2023-11-20T18:00:00,Kaimana,2023-11-20 18:00:00,3,Berawan,95,24,75
+Kampar_2023-11-20T00:00:00,Kampar,2023-11-20 00:00:00,3,Berawan,95,24,75
+Kampar_2023-11-20T06:00:00,Kampar,2023-11-20 06:00:00,3,Berawan,70,30,86
+Kampar_2023-11-20T12:00:00,Kampar,2023-11-20 12:00:00,1,Cerah Berawan,90,26,79
+Kampar_2023-11-20T18:00:00,Kampar,2023-11-20 18:00:00,60,Hujan Ringan,100,24,75
+Kapuas Hulu_2023-11-20T00:00:00,Kapuas Hulu,2023-11-20 00:00:00,1,Cerah Berawan,95,25,77
+Kapuas Hulu_2023-11-20T06:00:00,Kapuas Hulu,2023-11-20 06:00:00,60,Hujan Ringan,60,33,91
+Kapuas Hulu_2023-11-20T12:00:00,Kapuas Hulu,2023-11-20 12:00:00,60,Hujan Ringan,100,26,79
+Kapuas Hulu_2023-11-20T18:00:00,Kapuas Hulu,2023-11-20 18:00:00,3,Berawan,100,23,73
+Kapuas_2023-11-20T00:00:00,Kapuas,2023-11-20 00:00:00,3,Berawan,85,26,79
+Kapuas_2023-11-20T06:00:00,Kapuas,2023-11-20 06:00:00,3,Berawan,60,33,91
+Kapuas_2023-11-20T12:00:00,Kapuas,2023-11-20 12:00:00,60,Hujan Ringan,90,26,79
+Kapuas_2023-11-20T18:00:00,Kapuas,2023-11-20 18:00:00,3,Berawan,95,24,75
+Karanganyar_2023-11-20T00:00:00,Karanganyar,2023-11-20 00:00:00,3,Berawan,80,27,81
+Karanganyar_2023-11-20T06:00:00,Karanganyar,2023-11-20 06:00:00,3,Berawan,60,33,91
+Karanganyar_2023-11-20T12:00:00,Karanganyar,2023-11-20 12:00:00,3,Berawan,75,28,82
+Karanganyar_2023-11-20T18:00:00,Karanganyar,2023-11-20 18:00:00,3,Berawan,85,25,77
+Karangasem_2023-11-20T00:00:00,Karangasem,2023-11-20 00:00:00,3,Berawan,85,28,82
+Karangasem_2023-11-20T06:00:00,Karangasem,2023-11-20 06:00:00,3,Berawan,60,32,90
+Karangasem_2023-11-20T12:00:00,Karangasem,2023-11-20 12:00:00,1,Cerah Berawan,80,28,82
+Karangasem_2023-11-20T18:00:00,Karangasem,2023-11-20 18:00:00,1,Cerah Berawan,80,26,79
+Karawang_2023-11-20T00:00:00,Karawang,2023-11-20 00:00:00,1,Cerah Berawan,80,25,77
+Karawang_2023-11-20T06:00:00,Karawang,2023-11-20 06:00:00,60,Hujan Ringan,55,35,95
+Karawang_2023-11-20T12:00:00,Karawang,2023-11-20 12:00:00,61,Hujan Sedang,80,25,77
+Karawang_2023-11-20T18:00:00,Karawang,2023-11-20 18:00:00,60,Hujan Ringan,90,23,73
+Karimun_2023-11-20T00:00:00,Karimun,2023-11-20 00:00:00,1,Cerah Berawan,90,25,77
+Karimun_2023-11-20T06:00:00,Karimun,2023-11-20 06:00:00,61,Hujan Sedang,65,32,90
+Karimun_2023-11-20T12:00:00,Karimun,2023-11-20 12:00:00,95,Hujan Petir,85,26,79
+Karimun_2023-11-20T18:00:00,Karimun,2023-11-20 18:00:00,60,Hujan Ringan,95,24,75
+Karo_2023-11-20T00:00:00,Karo,2023-11-20 00:00:00,1,Cerah Berawan,95,17,63
+Karo_2023-11-20T06:00:00,Karo,2023-11-20 06:00:00,60,Hujan Ringan,70,20,68
+Karo_2023-11-20T12:00:00,Karo,2023-11-20 12:00:00,61,Hujan Sedang,85,18,64
+Karo_2023-11-20T18:00:00,Karo,2023-11-20 18:00:00,3,Berawan,95,17,63
+Katingan_2023-11-20T00:00:00,Katingan,2023-11-20 00:00:00,3,Berawan,85,26,79
+Katingan_2023-11-20T06:00:00,Katingan,2023-11-20 06:00:00,3,Berawan,60,33,91
+Katingan_2023-11-20T12:00:00,Katingan,2023-11-20 12:00:00,60,Hujan Ringan,90,26,79
+Katingan_2023-11-20T18:00:00,Katingan,2023-11-20 18:00:00,60,Hujan Ringan,95,24,75
+Kaur_2023-11-20T00:00:00,Kaur,2023-11-20 00:00:00,1,Cerah Berawan,85,24,75
+Kaur_2023-11-20T06:00:00,Kaur,2023-11-20 06:00:00,1,Cerah Berawan,75,32,90
+Kaur_2023-11-20T12:00:00,Kaur,2023-11-20 12:00:00,1,Cerah Berawan,90,24,75
+Kaur_2023-11-20T18:00:00,Kaur,2023-11-20 18:00:00,1,Cerah Berawan,95,23,73
+Kayong Utara_2023-11-20T00:00:00,Kayong Utara,2023-11-20 00:00:00,4,Berawan Tebal,90,26,79
+Kayong Utara_2023-11-20T06:00:00,Kayong Utara,2023-11-20 06:00:00,3,Berawan,60,33,91
+Kayong Utara_2023-11-20T12:00:00,Kayong Utara,2023-11-20 12:00:00,3,Berawan,85,27,81
+Kayong Utara_2023-11-20T18:00:00,Kayong Utara,2023-11-20 18:00:00,3,Berawan,95,24,75
+Kebumen_2023-11-20T00:00:00,Kebumen,2023-11-20 00:00:00,4,Berawan Tebal,80,27,81
+Kebumen_2023-11-20T06:00:00,Kebumen,2023-11-20 06:00:00,3,Berawan,60,32,90
+Kebumen_2023-11-20T12:00:00,Kebumen,2023-11-20 12:00:00,4,Berawan Tebal,75,28,82
+Kebumen_2023-11-20T18:00:00,Kebumen,2023-11-20 18:00:00,4,Berawan Tebal,85,24,75
+Kediri_2023-11-20T00:00:00,Kediri,2023-11-20 00:00:00,0,,80,28,82
+Kediri_2023-11-20T06:00:00,Kediri,2023-11-20 06:00:00,60,Hujan Ringan,50,34,93
+Kediri_2023-11-20T12:00:00,Kediri,2023-11-20 12:00:00,1,Cerah Berawan,85,28,82
+Kediri_2023-11-20T18:00:00,Kediri,2023-11-20 18:00:00,3,Berawan,95,25,77
+Keerom _2023-11-20T00:00:00,Keerom,2023-11-20 00:00:00,3,Berawan,70,27,81
+Keerom _2023-11-20T06:00:00,Keerom,2023-11-20 06:00:00,1,Cerah Berawan,70,31,88
+Keerom _2023-11-20T12:00:00,Keerom,2023-11-20 12:00:00,3,Berawan,85,26,79
+Keerom _2023-11-20T18:00:00,Keerom,2023-11-20 18:00:00,1,Cerah Berawan,95,23,73
+Kendal_2023-11-20T00:00:00,Kendal,2023-11-20 00:00:00,1,Cerah Berawan,75,28,82
+Kendal_2023-11-20T06:00:00,Kendal,2023-11-20 06:00:00,3,Berawan,55,34,93
+Kendal_2023-11-20T12:00:00,Kendal,2023-11-20 12:00:00,3,Berawan,75,28,82
+Kendal_2023-11-20T18:00:00,Kendal,2023-11-20 18:00:00,3,Berawan,85,26,79
+Kendari_2023-11-20T00:00:00,Kendari,2023-11-20 00:00:00,1,Cerah Berawan,80,29,84
+Kendari_2023-11-20T06:00:00,Kendari,2023-11-20 06:00:00,3,Berawan,55,33,91
+Kendari_2023-11-20T12:00:00,Kendari,2023-11-20 12:00:00,1,Cerah Berawan,80,27,81
+Kendari_2023-11-20T18:00:00,Kendari,2023-11-20 18:00:00,1,Cerah Berawan,95,25,77
+Kepahiang_2023-11-20T00:00:00,Kepahiang,2023-11-20 00:00:00,3,Berawan,100,21,70
+Kepahiang_2023-11-20T06:00:00,Kepahiang,2023-11-20 06:00:00,3,Berawan,70,31,88
+Kepahiang_2023-11-20T12:00:00,Kepahiang,2023-11-20 12:00:00,45,Berkabut,100,20,68
+Kepahiang_2023-11-20T18:00:00,Kepahiang,2023-11-20 18:00:00,3,Berawan,95,18,64
+Kepulauan Aru_2023-11-20T00:00:00,Kepulauan Aru,2023-11-20 00:00:00,3,Berawan,80,29,84
+Kepulauan Aru_2023-11-20T06:00:00,Kepulauan Aru,2023-11-20 06:00:00,60,Hujan Ringan,70,32,90
+Kepulauan Aru_2023-11-20T12:00:00,Kepulauan Aru,2023-11-20 12:00:00,3,Berawan,80,28,82
+Kepulauan Aru_2023-11-20T18:00:00,Kepulauan Aru,2023-11-20 18:00:00,3,Berawan,95,24,75
+Kepulauan Mentawai_2023-11-20T00:00:00,Kepulauan Mentawai,2023-11-20 00:00:00,1,Cerah Berawan,95,25,77
+Kepulauan Mentawai_2023-11-20T06:00:00,Kepulauan Mentawai,2023-11-20 06:00:00,3,Berawan,75,30,86
+Kepulauan Mentawai_2023-11-20T12:00:00,Kepulauan Mentawai,2023-11-20 12:00:00,3,Berawan,95,25,77
+Kepulauan Mentawai_2023-11-20T18:00:00,Kepulauan Mentawai,2023-11-20 18:00:00,0,Cerah,90,24,75
+Kepulauan Meranti_2023-11-20T00:00:00,Kepulauan Meranti,2023-11-20 00:00:00,3,Berawan,90,24,75
+Kepulauan Meranti_2023-11-20T06:00:00,Kepulauan Meranti,2023-11-20 06:00:00,3,Berawan,75,29,84
+Kepulauan Meranti_2023-11-20T12:00:00,Kepulauan Meranti,2023-11-20 12:00:00,60,Hujan Ringan,85,27,81
+Kepulauan Meranti_2023-11-20T18:00:00,Kepulauan Meranti,2023-11-20 18:00:00,60,Hujan Ringan,100,24,75
+Kepulauan Selayar_2023-11-20T00:00:00,Kepulauan Selayar,2023-11-20 00:00:00,1,Cerah Berawan,80,27,81
+Kepulauan Selayar_2023-11-20T06:00:00,Kepulauan Selayar,2023-11-20 06:00:00,1,Cerah Berawan,65,34,93
+Kepulauan Selayar_2023-11-20T12:00:00,Kepulauan Selayar,2023-11-20 12:00:00,3,Berawan,75,29,84
+Kepulauan Selayar_2023-11-20T18:00:00,Kepulauan Selayar,2023-11-20 18:00:00,3,Berawan,85,25,77
+Kepulauan Seribu_2023-11-20T00:00:00,Kepulauan Seribu,2023-11-20 00:00:00,60,Hujan Ringan,85,27,81
+Kepulauan Seribu_2023-11-20T06:00:00,Kepulauan Seribu,2023-11-20 06:00:00,1,Cerah Berawan,80,28,82
+Kepulauan Seribu_2023-11-20T12:00:00,Kepulauan Seribu,2023-11-20 12:00:00,3,Berawan,75,30,86
+Kepulauan Seribu_2023-11-20T18:00:00,Kepulauan Seribu,2023-11-20 18:00:00,3,Berawan,90,27,81
+Kepulauan Sula_2023-11-20T00:00:00,Kepulauan Sula,2023-11-20 00:00:00,1,Cerah Berawan,80,28,82
+Kepulauan Sula_2023-11-20T06:00:00,Kepulauan Sula,2023-11-20 06:00:00,1,Cerah Berawan,65,33,91
+Kepulauan Sula_2023-11-20T12:00:00,Kepulauan Sula,2023-11-20 12:00:00,1,Cerah Berawan,80,28,82
+Kepulauan Sula_2023-11-20T18:00:00,Kepulauan Sula,2023-11-20 18:00:00,1,Cerah Berawan,90,26,79
+Kepulauan Yapen _2023-11-20T00:00:00,Kepulauan Yapen,2023-11-20 00:00:00,3,Berawan,70,27,81
+Kepulauan Yapen _2023-11-20T06:00:00,Kepulauan Yapen,2023-11-20 06:00:00,1,Cerah Berawan,70,31,88
+Kepulauan Yapen _2023-11-20T12:00:00,Kepulauan Yapen,2023-11-20 12:00:00,3,Berawan,85,26,79
+Kepulauan Yapen _2023-11-20T18:00:00,Kepulauan Yapen,2023-11-20 18:00:00,60,Hujan Ringan,95,23,73
+Kerinci_2023-11-20T00:00:00,Kerinci,2023-11-20 00:00:00,3,Berawan,100,19,66
+Kerinci_2023-11-20T06:00:00,Kerinci,2023-11-20 06:00:00,95,Hujan Petir,95,28,82
+Kerinci_2023-11-20T12:00:00,Kerinci,2023-11-20 12:00:00,3,Berawan,100,19,66
+Kerinci_2023-11-20T18:00:00,Kerinci,2023-11-20 18:00:00,45,Berkabut,100,18,64
+Ketapang_2023-11-20T00:00:00,Ketapang,2023-11-20 00:00:00,4,Berawan Tebal,85,27,81
+Ketapang_2023-11-20T06:00:00,Ketapang,2023-11-20 06:00:00,3,Berawan,60,33,91
+Ketapang_2023-11-20T12:00:00,Ketapang,2023-11-20 12:00:00,3,Berawan,80,26,79
+Ketapang_2023-11-20T18:00:00,Ketapang,2023-11-20 18:00:00,3,Berawan,95,24,75
+Klaten_2023-11-20T00:00:00,Klaten,2023-11-20 00:00:00,3,Berawan,80,27,81
+Klaten_2023-11-20T06:00:00,Klaten,2023-11-20 06:00:00,3,Berawan,60,33,91
+Klaten_2023-11-20T12:00:00,Klaten,2023-11-20 12:00:00,3,Berawan,75,28,82
+Klaten_2023-11-20T18:00:00,Klaten,2023-11-20 18:00:00,3,Berawan,85,25,77
+Klungkung_2023-11-20T00:00:00,Klungkung,2023-11-20 00:00:00,3,Berawan,85,28,82
+Klungkung_2023-11-20T06:00:00,Klungkung,2023-11-20 06:00:00,60,Hujan Ringan,65,32,90
+Klungkung_2023-11-20T12:00:00,Klungkung,2023-11-20 12:00:00,1,Cerah Berawan,80,28,82
+Klungkung_2023-11-20T18:00:00,Klungkung,2023-11-20 18:00:00,1,Cerah Berawan,80,26,79
+Kolaka Utara_2023-11-20T00:00:00,Kolaka Utara,2023-11-20 00:00:00,3,Berawan,75,29,84
+Kolaka Utara_2023-11-20T06:00:00,Kolaka Utara,2023-11-20 06:00:00,3,Berawan,55,33,91
+Kolaka Utara_2023-11-20T12:00:00,Kolaka Utara,2023-11-20 12:00:00,3,Berawan,80,27,81
+Kolaka Utara_2023-11-20T18:00:00,Kolaka Utara,2023-11-20 18:00:00,3,Berawan,90,25,77
+Kolaka_2023-11-20T00:00:00,Kolaka,2023-11-20 00:00:00,1,Cerah Berawan,75,29,84
+Kolaka_2023-11-20T06:00:00,Kolaka,2023-11-20 06:00:00,1,Cerah Berawan,55,33,91
+Kolaka_2023-11-20T12:00:00,Kolaka,2023-11-20 12:00:00,1,Cerah Berawan,80,27,81
+Kolaka_2023-11-20T18:00:00,Kolaka,2023-11-20 18:00:00,1,Cerah Berawan,90,25,77
+Konawe Selatan_2023-11-20T00:00:00,Konawe Selatan,2023-11-20 00:00:00,1,Cerah Berawan,80,29,84
+Konawe Selatan_2023-11-20T06:00:00,Konawe Selatan,2023-11-20 06:00:00,3,Berawan,55,33,91
+Konawe Selatan_2023-11-20T12:00:00,Konawe Selatan,2023-11-20 12:00:00,1,Cerah Berawan,80,27,81
+Konawe Selatan_2023-11-20T18:00:00,Konawe Selatan,2023-11-20 18:00:00,1,Cerah Berawan,95,25,77
+Konawe Utara_2023-11-20T00:00:00,Konawe Utara,2023-11-20 00:00:00,1,Cerah Berawan,80,29,84
+Konawe Utara_2023-11-20T06:00:00,Konawe Utara,2023-11-20 06:00:00,3,Berawan,55,33,91
+Konawe Utara_2023-11-20T12:00:00,Konawe Utara,2023-11-20 12:00:00,1,Cerah Berawan,80,27,81
+Konawe Utara_2023-11-20T18:00:00,Konawe Utara,2023-11-20 18:00:00,1,Cerah Berawan,90,25,77
+Konawe_2023-11-20T00:00:00,Konawe,2023-11-20 00:00:00,1,Cerah Berawan,80,29,84
+Konawe_2023-11-20T06:00:00,Konawe,2023-11-20 06:00:00,1,Cerah Berawan,55,33,91
+Konawe_2023-11-20T12:00:00,Konawe,2023-11-20 12:00:00,1,Cerah Berawan,80,27,81
+Konawe_2023-11-20T18:00:00,Konawe,2023-11-20 18:00:00,1,Cerah Berawan,90,25,77
+Kotabaru_2023-11-20T00:00:00,Kotabaru,2023-11-20 00:00:00,60,Hujan Ringan,90,27,81
+Kotabaru_2023-11-20T06:00:00,Kotabaru,2023-11-20 06:00:00,60,Hujan Ringan,60,33,91
+Kotabaru_2023-11-20T12:00:00,Kotabaru,2023-11-20 12:00:00,3,Berawan,85,26,79
+Kotabaru_2023-11-20T18:00:00,Kotabaru,2023-11-20 18:00:00,1,Cerah Berawan,95,24,75
+Kotamobagu_2023-11-20T00:00:00,Kotamobagu,2023-11-20 00:00:00,60,Hujan Ringan,75,28,82
+Kotamobagu_2023-11-20T06:00:00,Kotamobagu,2023-11-20 06:00:00,60,Hujan Ringan,70,30,86
+Kotamobagu_2023-11-20T12:00:00,Kotamobagu,2023-11-20 12:00:00,1,Cerah Berawan,95,25,77
+Kotamobagu_2023-11-20T18:00:00,Kotamobagu,2023-11-20 18:00:00,1,Cerah Berawan,95,21,70
+Kotawaringin Barat_2023-11-20T00:00:00,Kotawaringin Barat,2023-11-20 00:00:00,3,Berawan,85,26,79
+Kotawaringin Barat_2023-11-20T06:00:00,Kotawaringin Barat,2023-11-20 06:00:00,60,Hujan Ringan,60,31,88
+Kotawaringin Barat_2023-11-20T12:00:00,Kotawaringin Barat,2023-11-20 12:00:00,3,Berawan,90,26,79
+Kotawaringin Barat_2023-11-20T18:00:00,Kotawaringin Barat,2023-11-20 18:00:00,3,Berawan,95,24,75
+Kotawaringin Timur_2023-11-20T00:00:00,Kotawaringin Timur,2023-11-20 00:00:00,3,Berawan,85,26,79
+Kotawaringin Timur_2023-11-20T06:00:00,Kotawaringin Timur,2023-11-20 06:00:00,3,Berawan,65,30,86
+Kotawaringin Timur_2023-11-20T12:00:00,Kotawaringin Timur,2023-11-20 12:00:00,3,Berawan,90,26,79
+Kotawaringin Timur_2023-11-20T18:00:00,Kotawaringin Timur,2023-11-20 18:00:00,3,Berawan,95,24,75
+Kuantan Singingi_2023-11-20T00:00:00,Kuantan Singingi,2023-11-20 00:00:00,3,Berawan,100,24,75
+Kuantan Singingi_2023-11-20T06:00:00,Kuantan Singingi,2023-11-20 06:00:00,3,Berawan,70,30,86
+Kuantan Singingi_2023-11-20T12:00:00,Kuantan Singingi,2023-11-20 12:00:00,60,Hujan Ringan,95,26,79
+Kuantan Singingi_2023-11-20T18:00:00,Kuantan Singingi,2023-11-20 18:00:00,60,Hujan Ringan,100,24,75
+Kubu Raya_2023-11-20T00:00:00,Kubu Raya,2023-11-20 00:00:00,1,Cerah Berawan,100,26,79
+Kubu Raya_2023-11-20T06:00:00,Kubu Raya,2023-11-20 06:00:00,60,Hujan Ringan,60,33,91
+Kubu Raya_2023-11-20T12:00:00,Kubu Raya,2023-11-20 12:00:00,1,Cerah Berawan,85,26,79
+Kubu Raya_2023-11-20T18:00:00,Kubu Raya,2023-11-20 18:00:00,3,Berawan,100,23,73
+Kudus_2023-11-20T00:00:00,Kudus,2023-11-20 00:00:00,1,Cerah Berawan,80,27,81
+Kudus_2023-11-20T06:00:00,Kudus,2023-11-20 06:00:00,3,Berawan,55,33,91
+Kudus_2023-11-20T12:00:00,Kudus,2023-11-20 12:00:00,3,Berawan,75,28,82
+Kudus_2023-11-20T18:00:00,Kudus,2023-11-20 18:00:00,3,Berawan,85,25,77
+Kulon Progo_2023-11-20T00:00:00,Kulon Progo,2023-11-20 00:00:00,1,Cerah Berawan,80,27,81
+Kulon Progo_2023-11-20T06:00:00,Kulon Progo,2023-11-20 06:00:00,1,Cerah Berawan,65,31,88
+Kulon Progo_2023-11-20T12:00:00,Kulon Progo,2023-11-20 12:00:00,3,Berawan,85,27,81
+Kulon Progo_2023-11-20T18:00:00,Kulon Progo,2023-11-20 18:00:00,3,Berawan,95,25,77
+Kuningan_2023-11-20T00:00:00,Kuningan,2023-11-20 00:00:00,1,Cerah Berawan,85,24,75
+Kuningan_2023-11-20T06:00:00,Kuningan,2023-11-20 06:00:00,60,Hujan Ringan,60,34,93
+Kuningan_2023-11-20T12:00:00,Kuningan,2023-11-20 12:00:00,1,Cerah Berawan,85,24,75
+Kuningan_2023-11-20T18:00:00,Kuningan,2023-11-20 18:00:00,60,Hujan Ringan,90,21,70
+Kupang_2023-11-20T00:00:00,Kupang,2023-11-20 00:00:00,0,,65,29,84
+Kupang_2023-11-20T06:00:00,Kupang,2023-11-20 06:00:00,1,Cerah Berawan,55,34,93
+Kupang_2023-11-20T12:00:00,Kupang,2023-11-20 12:00:00,0,,80,27,81
+Kupang_2023-11-20T18:00:00,Kupang,2023-11-20 18:00:00,0,,95,25,77
+Kutai Barat_2023-11-20T00:00:00,Kutai Barat,2023-11-20 00:00:00,3,Berawan,95,25,77
+Kutai Barat_2023-11-20T06:00:00,Kutai Barat,2023-11-20 06:00:00,4,Berawan Tebal,60,33,91
+Kutai Barat_2023-11-20T12:00:00,Kutai Barat,2023-11-20 12:00:00,60,Hujan Ringan,95,25,77
+Kutai Barat_2023-11-20T18:00:00,Kutai Barat,2023-11-20 18:00:00,95,Hujan Petir,100,25,77
+Kutai Kartanegara_2023-11-20T00:00:00,Kutai Kartanegara,2023-11-20 00:00:00,60,Hujan Ringan,95,26,79
+Kutai Kartanegara_2023-11-20T06:00:00,Kutai Kartanegara,2023-11-20 06:00:00,60,Hujan Ringan,100,25,77
+Kutai Kartanegara_2023-11-20T12:00:00,Kutai Kartanegara,2023-11-20 12:00:00,60,Hujan Ringan,95,26,79
+Kutai Kartanegara_2023-11-20T18:00:00,Kutai Kartanegara,2023-11-20 18:00:00,60,Hujan Ringan,100,25,77
+Kutai Timur_2023-11-20T00:00:00,Kutai Timur,2023-11-20 00:00:00,3,Berawan,95,26,79
+Kutai Timur_2023-11-20T06:00:00,Kutai Timur,2023-11-20 06:00:00,95,Hujan Petir,85,29,84
+Kutai Timur_2023-11-20T12:00:00,Kutai Timur,2023-11-20 12:00:00,60,Hujan Ringan,95,25,77
+Kutai Timur_2023-11-20T18:00:00,Kutai Timur,2023-11-20 18:00:00,45,Berkabut,100,24,75
+Labuhanbatu Selatan_2023-11-20T00:00:00,Labuhanbatu Selatan,2023-11-20 00:00:00,1,Cerah Berawan,95,24,75
+Labuhanbatu Selatan_2023-11-20T06:00:00,Labuhanbatu Selatan,2023-11-20 06:00:00,1,Cerah Berawan,70,32,90
+Labuhanbatu Selatan_2023-11-20T12:00:00,Labuhanbatu Selatan,2023-11-20 12:00:00,3,Berawan,85,24,75
+Labuhanbatu Selatan_2023-11-20T18:00:00,Labuhanbatu Selatan,2023-11-20 18:00:00,3,Berawan,95,24,75
+Labuhanbatu Utara_2023-11-20T00:00:00,Labuhanbatu Utara,2023-11-20 00:00:00,1,Cerah Berawan,95,24,75
+Labuhanbatu Utara_2023-11-20T06:00:00,Labuhanbatu Utara,2023-11-20 06:00:00,1,Cerah Berawan,70,30,86
+Labuhanbatu Utara_2023-11-20T12:00:00,Labuhanbatu Utara,2023-11-20 12:00:00,3,Berawan,85,26,79
+Labuhanbatu Utara_2023-11-20T18:00:00,Labuhanbatu Utara,2023-11-20 18:00:00,3,Berawan,95,23,73
+Labuhanbatu_2023-11-20T00:00:00,Labuhanbatu,2023-11-20 00:00:00,1,Cerah Berawan,95,24,75
+Labuhanbatu_2023-11-20T06:00:00,Labuhanbatu,2023-11-20 06:00:00,1,Cerah Berawan,70,32,90
+Labuhanbatu_2023-11-20T12:00:00,Labuhanbatu,2023-11-20 12:00:00,3,Berawan,85,25,77
+Labuhanbatu_2023-11-20T18:00:00,Labuhanbatu,2023-11-20 18:00:00,3,Berawan,95,24,75
+Lahat_2023-11-20T00:00:00,Lahat,2023-11-20 00:00:00,1,Cerah Berawan,80,24,75
+Lahat_2023-11-20T06:00:00,Lahat,2023-11-20 06:00:00,61,Hujan Sedang,60,32,90
+Lahat_2023-11-20T12:00:00,Lahat,2023-11-20 12:00:00,3,Berawan,70,28,82
+Lahat_2023-11-20T18:00:00,Lahat,2023-11-20 18:00:00,1,Cerah Berawan,90,23,73
+Lamandau_2023-11-20T00:00:00,Lamandau,2023-11-20 00:00:00,3,Berawan,85,26,79
+Lamandau_2023-11-20T06:00:00,Lamandau,2023-11-20 06:00:00,60,Hujan Ringan,60,32,90
+Lamandau_2023-11-20T12:00:00,Lamandau,2023-11-20 12:00:00,3,Berawan,90,26,79
+Lamandau_2023-11-20T18:00:00,Lamandau,2023-11-20 18:00:00,3,Berawan,95,24,75
+Lamongan_2023-11-20T00:00:00,Lamongan,2023-11-20 00:00:00,0,,75,29,84
+Lamongan_2023-11-20T06:00:00,Lamongan,2023-11-20 06:00:00,0,,45,34,93
+Lamongan_2023-11-20T12:00:00,Lamongan,2023-11-20 12:00:00,1,Cerah Berawan,75,29,84
+Lamongan_2023-11-20T18:00:00,Lamongan,2023-11-20 18:00:00,1,Cerah Berawan,85,25,77
+Lampung Barat_2023-11-20T00:00:00,Lampung Barat,2023-11-20 00:00:00,1,Cerah Berawan,95,23,73
+Lampung Barat_2023-11-20T06:00:00,Lampung Barat,2023-11-20 06:00:00,0,,60,25,77
+Lampung Barat_2023-11-20T12:00:00,Lampung Barat,2023-11-20 12:00:00,45,Berkabut,100,19,66
+Lampung Barat_2023-11-20T18:00:00,Lampung Barat,2023-11-20 18:00:00,3,Berawan,95,22,72
+Lampung Selatan_2023-11-20T00:00:00,Lampung Selatan,2023-11-20 00:00:00,1,Cerah Berawan,85,26,79
+Lampung Selatan_2023-11-20T06:00:00,Lampung Selatan,2023-11-20 06:00:00,60,Hujan Ringan,75,29,84
+Lampung Selatan_2023-11-20T12:00:00,Lampung Selatan,2023-11-20 12:00:00,1,Cerah Berawan,85,26,79
+Lampung Selatan_2023-11-20T18:00:00,Lampung Selatan,2023-11-20 18:00:00,0,Cerah,90,25,77
+Lampung Tengah_2023-11-20T00:00:00,Lampung Tengah,2023-11-20 00:00:00,0,Cerah,85,27,81
+Lampung Tengah_2023-11-20T06:00:00,Lampung Tengah,2023-11-20 06:00:00,1,Cerah Berawan,50,34,93
+Lampung Tengah_2023-11-20T12:00:00,Lampung Tengah,2023-11-20 12:00:00,60,Hujan Ringan,70,28,82
+Lampung Tengah_2023-11-20T18:00:00,Lampung Tengah,2023-11-20 18:00:00,1,Cerah Berawan,85,25,77
+Lampung Timur_2023-11-20T00:00:00,Lampung Timur,2023-11-20 00:00:00,1,Cerah Berawan,85,27,81
+Lampung Timur_2023-11-20T06:00:00,Lampung Timur,2023-11-20 06:00:00,3,Berawan,70,30,86
+Lampung Timur_2023-11-20T12:00:00,Lampung Timur,2023-11-20 12:00:00,1,Cerah Berawan,80,27,81
+Lampung Timur_2023-11-20T18:00:00,Lampung Timur,2023-11-20 18:00:00,1,Cerah Berawan,90,25,77
+Lampung Utara_2023-11-20T00:00:00,Lampung Utara,2023-11-20 00:00:00,0,Cerah,85,25,77
+Lampung Utara_2023-11-20T06:00:00,Lampung Utara,2023-11-20 06:00:00,1,Cerah Berawan,45,34,93
+Lampung Utara_2023-11-20T12:00:00,Lampung Utara,2023-11-20 12:00:00,1,Cerah Berawan,65,28,82
+Lampung Utara_2023-11-20T18:00:00,Lampung Utara,2023-11-20 18:00:00,1,Cerah Berawan,80,25,77
+Langkat_2023-11-20T00:00:00,Langkat,2023-11-20 00:00:00,1,Cerah Berawan,95,24,75
+Langkat_2023-11-20T06:00:00,Langkat,2023-11-20 06:00:00,60,Hujan Ringan,70,32,90
+Langkat_2023-11-20T12:00:00,Langkat,2023-11-20 12:00:00,3,Berawan,85,25,77
+Langkat_2023-11-20T18:00:00,Langkat,2023-11-20 18:00:00,3,Berawan,95,23,73
+Langsa_2023-11-20T00:00:00,Langsa,2023-11-20 00:00:00,3,Berawan,90,23,73
+Langsa_2023-11-20T06:00:00,Langsa,2023-11-20 06:00:00,61,Hujan Sedang,65,31,88
+Langsa_2023-11-20T12:00:00,Langsa,2023-11-20 12:00:00,61,Hujan Sedang,90,24,75
+Langsa_2023-11-20T18:00:00,Langsa,2023-11-20 18:00:00,95,Hujan Petir,95,23,73
+Lanny Jaya _2023-11-20T00:00:00,Lanny Jaya,2023-11-20 00:00:00,3,Berawan,70,20,68
+Lanny Jaya _2023-11-20T06:00:00,Lanny Jaya,2023-11-20 06:00:00,3,Berawan,70,24,75
+Lanny Jaya _2023-11-20T12:00:00,Lanny Jaya,2023-11-20 12:00:00,3,Berawan,85,19,66
+Lanny Jaya _2023-11-20T18:00:00,Lanny Jaya,2023-11-20 18:00:00,3,Berawan,95,16,61
+Lebak_2023-11-20T00:00:00,Lebak,2023-11-20 00:00:00,1,Cerah Berawan,80,27,81
+Lebak_2023-11-20T06:00:00,Lebak,2023-11-20 06:00:00,3,Berawan,60,33,91
+Lebak_2023-11-20T12:00:00,Lebak,2023-11-20 12:00:00,3,Berawan,80,27,81
+Lebak_2023-11-20T18:00:00,Lebak,2023-11-20 18:00:00,3,Berawan,90,26,79
+Lebong_2023-11-20T00:00:00,Lebong,2023-11-20 00:00:00,45,Berkabut,100,18,64
+Lebong_2023-11-20T06:00:00,Lebong,2023-11-20 06:00:00,60,Hujan Ringan,90,31,88
+Lebong_2023-11-20T12:00:00,Lebong,2023-11-20 12:00:00,45,Berkabut,100,18,64
+Lebong_2023-11-20T18:00:00,Lebong,2023-11-20 18:00:00,1,Cerah Berawan,95,16,61
+Lembata_2023-11-20T00:00:00,Lembata,2023-11-20 00:00:00,1,Cerah Berawan,70,29,84
+Lembata_2023-11-20T06:00:00,Lembata,2023-11-20 06:00:00,1,Cerah Berawan,55,34,93
+Lembata_2023-11-20T12:00:00,Lembata,2023-11-20 12:00:00,3,Berawan,80,27,81
+Lembata_2023-11-20T18:00:00,Lembata,2023-11-20 18:00:00,3,Berawan,95,25,77
+Lhokseumawe_2023-11-20T00:00:00,Lhokseumawe,2023-11-20 00:00:00,4,Berawan Tebal,90,24,75
+Lhokseumawe_2023-11-20T06:00:00,Lhokseumawe,2023-11-20 06:00:00,3,Berawan,65,30,86
+Lhokseumawe_2023-11-20T12:00:00,Lhokseumawe,2023-11-20 12:00:00,60,Hujan Ringan,90,24,75
+Lhokseumawe_2023-11-20T18:00:00,Lhokseumawe,2023-11-20 18:00:00,95,Hujan Petir,95,23,73
+Limapuluh Kota_2023-11-20T00:00:00,Limapuluh Kota,2023-11-20 00:00:00,45,Berkabut,100,21,70
+Limapuluh Kota_2023-11-20T06:00:00,Limapuluh Kota,2023-11-20 06:00:00,1,Cerah Berawan,70,30,86
+Limapuluh Kota_2023-11-20T12:00:00,Limapuluh Kota,2023-11-20 12:00:00,60,Hujan Ringan,95,22,72
+Limapuluh Kota_2023-11-20T18:00:00,Limapuluh Kota,2023-11-20 18:00:00,3,Berawan,100,21,70
+Lingga_2023-11-20T00:00:00,Lingga,2023-11-20 00:00:00,1,Cerah Berawan,90,25,77
+Lingga_2023-11-20T06:00:00,Lingga,2023-11-20 06:00:00,61,Hujan Sedang,65,32,90
+Lingga_2023-11-20T12:00:00,Lingga,2023-11-20 12:00:00,1,Cerah Berawan,90,26,79
+Lingga_2023-11-20T18:00:00,Lingga,2023-11-20 18:00:00,60,Hujan Ringan,95,24,75
+Lombok Barat_2023-11-20T00:00:00,Lombok Barat,2023-11-20 00:00:00,3,Berawan,75,28,82
+Lombok Barat_2023-11-20T06:00:00,Lombok Barat,2023-11-20 06:00:00,60,Hujan Ringan,60,32,90
+Lombok Barat_2023-11-20T12:00:00,Lombok Barat,2023-11-20 12:00:00,3,Berawan,80,28,82
+Lombok Barat_2023-11-20T18:00:00,Lombok Barat,2023-11-20 18:00:00,3,Berawan,95,26,79
+Lombok Tengah_2023-11-20T00:00:00,Lombok Tengah,2023-11-20 00:00:00,3,Berawan,80,27,81
+Lombok Tengah_2023-11-20T06:00:00,Lombok Tengah,2023-11-20 06:00:00,60,Hujan Ringan,60,32,90
+Lombok Tengah_2023-11-20T12:00:00,Lombok Tengah,2023-11-20 12:00:00,3,Berawan,85,26,79
+Lombok Tengah_2023-11-20T18:00:00,Lombok Tengah,2023-11-20 18:00:00,3,Berawan,95,25,77
+Lombok Timur_2023-11-20T00:00:00,Lombok Timur,2023-11-20 00:00:00,3,Berawan,80,29,84
+Lombok Timur_2023-11-20T06:00:00,Lombok Timur,2023-11-20 06:00:00,60,Hujan Ringan,60,32,90
+Lombok Timur_2023-11-20T12:00:00,Lombok Timur,2023-11-20 12:00:00,60,Hujan Ringan,80,29,84
+Lombok Timur_2023-11-20T18:00:00,Lombok Timur,2023-11-20 18:00:00,3,Berawan,95,26,79
+Lombok Utara_2023-11-20T00:00:00,Lombok Utara,2023-11-20 00:00:00,3,Berawan,75,28,82
+Lombok Utara_2023-11-20T06:00:00,Lombok Utara,2023-11-20 06:00:00,61,Hujan Sedang,60,32,90
+Lombok Utara_2023-11-20T12:00:00,Lombok Utara,2023-11-20 12:00:00,3,Berawan,75,28,82
+Lombok Utara_2023-11-20T18:00:00,Lombok Utara,2023-11-20 18:00:00,3,Berawan,95,26,79
+Lubuk Linggau_2023-11-20T00:00:00,Lubuk Linggau,2023-11-20 00:00:00,3,Berawan,100,21,70
+Lubuk Linggau_2023-11-20T06:00:00,Lubuk Linggau,2023-11-20 06:00:00,60,Hujan Ringan,80,30,86
+Lubuk Linggau_2023-11-20T12:00:00,Lubuk Linggau,2023-11-20 12:00:00,45,Berkabut,100,20,68
+Lubuk Linggau_2023-11-20T18:00:00,Lubuk Linggau,2023-11-20 18:00:00,1,Cerah Berawan,95,19,66
+Lumajang_2023-11-20T00:00:00,Lumajang,2023-11-20 00:00:00,1,Cerah Berawan,80,26,79
+Lumajang_2023-11-20T06:00:00,Lumajang,2023-11-20 06:00:00,1,Cerah Berawan,60,31,88
+Lumajang_2023-11-20T12:00:00,Lumajang,2023-11-20 12:00:00,1,Cerah Berawan,80,26,79
+Lumajang_2023-11-20T18:00:00,Lumajang,2023-11-20 18:00:00,3,Berawan,90,23,73
+Luwu Timur_2023-11-20T00:00:00,Luwu Timur,2023-11-20 00:00:00,1,Cerah Berawan,85,26,79
+Luwu Timur_2023-11-20T06:00:00,Luwu Timur,2023-11-20 06:00:00,60,Hujan Ringan,70,33,91
+Luwu Timur_2023-11-20T12:00:00,Luwu Timur,2023-11-20 12:00:00,3,Berawan,80,28,82
+Luwu Timur_2023-11-20T18:00:00,Luwu Timur,2023-11-20 18:00:00,3,Berawan,90,24,75
+Luwu Utara_2023-11-20T00:00:00,Luwu Utara,2023-11-20 00:00:00,3,Berawan,85,26,79
+Luwu Utara_2023-11-20T06:00:00,Luwu Utara,2023-11-20 06:00:00,60,Hujan Ringan,70,34,93
+Luwu Utara_2023-11-20T12:00:00,Luwu Utara,2023-11-20 12:00:00,3,Berawan,80,28,82
+Luwu Utara_2023-11-20T18:00:00,Luwu Utara,2023-11-20 18:00:00,3,Berawan,90,25,77
+Madiun_2023-11-20T00:00:00,Madiun,2023-11-20 00:00:00,0,,80,29,84
+Madiun_2023-11-20T06:00:00,Madiun,2023-11-20 06:00:00,0,,45,34,93
+Madiun_2023-11-20T12:00:00,Madiun,2023-11-20 12:00:00,0,,80,29,84
+Madiun_2023-11-20T18:00:00,Madiun,2023-11-20 18:00:00,1,Cerah Berawan,90,24,75
+Magelang_2023-11-20T00:00:00,Magelang,2023-11-20 00:00:00,3,Berawan,85,26,79
+Magelang_2023-11-20T06:00:00,Magelang,2023-11-20 06:00:00,3,Berawan,65,31,88
+Magelang_2023-11-20T12:00:00,Magelang,2023-11-20 12:00:00,3,Berawan,75,28,82
+Magelang_2023-11-20T18:00:00,Magelang,2023-11-20 18:00:00,3,Berawan,85,23,73
+Magetan_2023-11-20T00:00:00,Magetan,2023-11-20 00:00:00,0,,85,27,81
+Magetan_2023-11-20T06:00:00,Magetan,2023-11-20 06:00:00,0,,45,34,93
+Magetan_2023-11-20T12:00:00,Magetan,2023-11-20 12:00:00,0,,85,27,81
+Magetan_2023-11-20T18:00:00,Magetan,2023-11-20 18:00:00,1,Cerah Berawan,90,24,75
+Majalengka_2023-11-20T00:00:00,Majalengka,2023-11-20 00:00:00,1,Cerah Berawan,80,25,77
+Majalengka_2023-11-20T06:00:00,Majalengka,2023-11-20 06:00:00,60,Hujan Ringan,55,34,93
+Majalengka_2023-11-20T12:00:00,Majalengka,2023-11-20 12:00:00,1,Cerah Berawan,80,25,77
+Majalengka_2023-11-20T18:00:00,Majalengka,2023-11-20 18:00:00,1,Cerah Berawan,90,23,73
+Majene_2023-11-20T00:00:00,Majene,2023-11-20 00:00:00,60,Hujan Ringan,70,27,81
+Majene_2023-11-20T06:00:00,Majene,2023-11-20 06:00:00,60,Hujan Ringan,70,30,86
+Majene_2023-11-20T12:00:00,Majene,2023-11-20 12:00:00,60,Hujan Ringan,85,27,81
+Majene_2023-11-20T18:00:00,Majene,2023-11-20 18:00:00,60,Hujan Ringan,85,25,77
+Makasar_2023-11-20T00:00:00,Makasar,2023-11-20 00:00:00,1,Cerah Berawan,80,27,81
+Makasar_2023-11-20T06:00:00,Makasar,2023-11-20 06:00:00,60,Hujan Ringan,70,34,93
+Makasar_2023-11-20T12:00:00,Makasar,2023-11-20 12:00:00,3,Berawan,80,29,84
+Makasar_2023-11-20T18:00:00,Makasar,2023-11-20 18:00:00,3,Berawan,90,25,77
+Malaka_2023-11-20T00:00:00,Malaka,2023-11-20 00:00:00,1,Cerah Berawan,65,29,84
+Malaka_2023-11-20T06:00:00,Malaka,2023-11-20 06:00:00,1,Cerah Berawan,55,34,93
+Malaka_2023-11-20T12:00:00,Malaka,2023-11-20 12:00:00,0,,80,27,81
+Malaka_2023-11-20T18:00:00,Malaka,2023-11-20 18:00:00,1,Cerah Berawan,95,25,77
+Malang_2023-11-20T00:00:00,Malang,2023-11-20 00:00:00,1,Cerah Berawan,85,25,77
+Malang_2023-11-20T06:00:00,Malang,2023-11-20 06:00:00,3,Berawan,55,31,88
+Malang_2023-11-20T12:00:00,Malang,2023-11-20 12:00:00,1,Cerah Berawan,80,25,77
+Malang_2023-11-20T18:00:00,Malang,2023-11-20 18:00:00,3,Berawan,90,20,68
+Malinau_2023-11-20T00:00:00,Malinau,2023-11-20 00:00:00,1,Cerah Berawan,90,25,77
+Malinau_2023-11-20T06:00:00,Malinau,2023-11-20 06:00:00,1,Cerah Berawan,60,32,90
+Malinau_2023-11-20T12:00:00,Malinau,2023-11-20 12:00:00,95,Hujan Petir,90,25,77
+Malinau_2023-11-20T18:00:00,Malinau,2023-11-20 18:00:00,45,Berkabut,95,25,77
+Maluku Barat Daya_2023-11-20T00:00:00,Maluku Barat Daya,2023-11-20 00:00:00,1,Cerah Berawan,80,29,84
+Maluku Barat Daya_2023-11-20T06:00:00,Maluku Barat Daya,2023-11-20 06:00:00,1,Cerah Berawan,65,32,90
+Maluku Barat Daya_2023-11-20T12:00:00,Maluku Barat Daya,2023-11-20 12:00:00,1,Cerah Berawan,80,28,82
+Maluku Barat Daya_2023-11-20T18:00:00,Maluku Barat Daya,2023-11-20 18:00:00,1,Cerah Berawan,90,24,75
+Maluku Tengah_2023-11-20T00:00:00,Maluku Tengah,2023-11-20 00:00:00,1,Cerah Berawan,80,29,84
+Maluku Tengah_2023-11-20T06:00:00,Maluku Tengah,2023-11-20 06:00:00,3,Berawan,75,31,88
+Maluku Tengah_2023-11-20T12:00:00,Maluku Tengah,2023-11-20 12:00:00,3,Berawan,80,28,82
+Maluku Tengah_2023-11-20T18:00:00,Maluku Tengah,2023-11-20 18:00:00,3,Berawan,90,24,75
+Maluku Tenggara Barat_2023-11-20T00:00:00,Maluku Tenggara Barat,2023-11-20 00:00:00,1,Cerah Berawan,80,29,84
+Maluku Tenggara Barat_2023-11-20T06:00:00,Maluku Tenggara Barat,2023-11-20 06:00:00,1,Cerah Berawan,65,32,90
+Maluku Tenggara Barat_2023-11-20T12:00:00,Maluku Tenggara Barat,2023-11-20 12:00:00,1,Cerah Berawan,80,28,82
+Maluku Tenggara Barat_2023-11-20T18:00:00,Maluku Tenggara Barat,2023-11-20 18:00:00,1,Cerah Berawan,85,25,77
+Maluku Tenggara_2023-11-20T00:00:00,Maluku Tenggara,2023-11-20 00:00:00,60,Hujan Ringan,80,29,84
+Maluku Tenggara_2023-11-20T06:00:00,Maluku Tenggara,2023-11-20 06:00:00,60,Hujan Ringan,65,33,91
+Maluku Tenggara_2023-11-20T12:00:00,Maluku Tenggara,2023-11-20 12:00:00,3,Berawan,80,28,82
+Maluku Tenggara_2023-11-20T18:00:00,Maluku Tenggara,2023-11-20 18:00:00,3,Berawan,100,23,73
+Mamasa_2023-11-20T00:00:00,Mamasa,2023-11-20 00:00:00,60,Hujan Ringan,75,17,63
+Mamasa_2023-11-20T06:00:00,Mamasa,2023-11-20 06:00:00,60,Hujan Ringan,75,20,68
+Mamasa_2023-11-20T12:00:00,Mamasa,2023-11-20 12:00:00,60,Hujan Ringan,85,17,63
+Mamasa_2023-11-20T18:00:00,Mamasa,2023-11-20 18:00:00,60,Hujan Ringan,85,16,61
+Mamberamo Raya_2023-11-20T00:00:00,Mamberamo Raya,2023-11-20 00:00:00,3,Berawan,70,22,72
+Mamberamo Raya_2023-11-20T06:00:00,Mamberamo Raya,2023-11-20 06:00:00,1,Cerah Berawan,70,31,88
+Mamberamo Raya_2023-11-20T12:00:00,Mamberamo Raya,2023-11-20 12:00:00,3,Berawan,85,26,79
+Mamberamo Raya_2023-11-20T18:00:00,Mamberamo Raya,2023-11-20 18:00:00,1,Cerah Berawan,95,23,73
+Mamuju Tengah_2023-11-20T00:00:00,Mamuju Tengah,2023-11-20 00:00:00,60,Hujan Ringan,70,27,81
+Mamuju Tengah_2023-11-20T06:00:00,Mamuju Tengah,2023-11-20 06:00:00,60,Hujan Ringan,70,30,86
+Mamuju Tengah_2023-11-20T12:00:00,Mamuju Tengah,2023-11-20 12:00:00,63,Hujan Lebat,95,25,77
+Mamuju Tengah_2023-11-20T18:00:00,Mamuju Tengah,2023-11-20 18:00:00,60,Hujan Ringan,85,25,77
+Mamuju Utara_2023-11-20T00:00:00,Mamuju Utara,2023-11-20 00:00:00,60,Hujan Ringan,70,27,81
+Mamuju Utara_2023-11-20T06:00:00,Mamuju Utara,2023-11-20 06:00:00,60,Hujan Ringan,70,30,86
+Mamuju Utara_2023-11-20T12:00:00,Mamuju Utara,2023-11-20 12:00:00,63,Hujan Lebat,95,25,77
+Mamuju Utara_2023-11-20T18:00:00,Mamuju Utara,2023-11-20 18:00:00,60,Hujan Ringan,85,25,77
+Mamuju_2023-11-20T00:00:00,Mamuju,2023-11-20 00:00:00,60,Hujan Ringan,70,27,81
+Mamuju_2023-11-20T06:00:00,Mamuju,2023-11-20 06:00:00,60,Hujan Ringan,70,30,86
+Mamuju_2023-11-20T12:00:00,Mamuju,2023-11-20 12:00:00,63,Hujan Lebat,95,25,77
+Mamuju_2023-11-20T18:00:00,Mamuju,2023-11-20 18:00:00,60,Hujan Ringan,85,25,77
+Manado_2023-11-20T00:00:00,Manado,2023-11-20 00:00:00,1,Cerah Berawan,75,28,82
+Manado_2023-11-20T06:00:00,Manado,2023-11-20 06:00:00,60,Hujan Ringan,60,32,90
+Manado_2023-11-20T12:00:00,Manado,2023-11-20 12:00:00,60,Hujan Ringan,95,25,77
+Manado_2023-11-20T18:00:00,Manado,2023-11-20 18:00:00,3,Berawan,95,23,73
+Mandailing Natal_2023-11-20T00:00:00,Mandailing Natal,2023-11-20 00:00:00,1,Cerah Berawan,95,20,68
+Mandailing Natal_2023-11-20T06:00:00,Mandailing Natal,2023-11-20 06:00:00,61,Hujan Sedang,70,21,70
+Mandailing Natal_2023-11-20T12:00:00,Mandailing Natal,2023-11-20 12:00:00,3,Berawan,85,20,68
+Mandailing Natal_2023-11-20T18:00:00,Mandailing Natal,2023-11-20 18:00:00,3,Berawan,95,19,66
+Manggarai Barat_2023-11-20T00:00:00,Manggarai Barat,2023-11-20 00:00:00,0,,70,29,84
+Manggarai Barat_2023-11-20T06:00:00,Manggarai Barat,2023-11-20 06:00:00,60,Hujan Ringan,55,33,91
+Manggarai Barat_2023-11-20T12:00:00,Manggarai Barat,2023-11-20 12:00:00,3,Berawan,80,27,81
+Manggarai Barat_2023-11-20T18:00:00,Manggarai Barat,2023-11-20 18:00:00,3,Berawan,90,23,73
+Manggarai Timur_2023-11-20T00:00:00,Manggarai Timur,2023-11-20 00:00:00,0,,70,29,84
+Manggarai Timur_2023-11-20T06:00:00,Manggarai Timur,2023-11-20 06:00:00,60,Hujan Ringan,60,32,90
+Manggarai Timur_2023-11-20T12:00:00,Manggarai Timur,2023-11-20 12:00:00,3,Berawan,80,27,81
+Manggarai Timur_2023-11-20T18:00:00,Manggarai Timur,2023-11-20 18:00:00,60,Hujan Ringan,95,24,75
+Manggarai_2023-11-20T00:00:00,Manggarai,2023-11-20 00:00:00,1,Cerah Berawan,80,20,68
+Manggarai_2023-11-20T06:00:00,Manggarai,2023-11-20 06:00:00,60,Hujan Ringan,75,26,79
+Manggarai_2023-11-20T12:00:00,Manggarai,2023-11-20 12:00:00,3,Berawan,80,20,68
+Manggarai_2023-11-20T18:00:00,Manggarai,2023-11-20 18:00:00,60,Hujan Ringan,95,15,59
+Manokwari Selatan_2023-11-20T00:00:00,Manokwari Selatan,2023-11-20 00:00:00,3,Berawan,80,28,82
+Manokwari Selatan_2023-11-20T06:00:00,Manokwari Selatan,2023-11-20 06:00:00,60,Hujan Ringan,65,32,90
+Manokwari Selatan_2023-11-20T12:00:00,Manokwari Selatan,2023-11-20 12:00:00,1,Cerah Berawan,95,26,79
+Manokwari Selatan_2023-11-20T18:00:00,Manokwari Selatan,2023-11-20 18:00:00,60,Hujan Ringan,95,24,75
+Manokwari_2023-11-20T00:00:00,Manokwari,2023-11-20 00:00:00,3,Berawan,80,28,82
+Manokwari_2023-11-20T06:00:00,Manokwari,2023-11-20 06:00:00,60,Hujan Ringan,65,32,90
+Manokwari_2023-11-20T12:00:00,Manokwari,2023-11-20 12:00:00,3,Berawan,95,26,79
+Manokwari_2023-11-20T18:00:00,Manokwari,2023-11-20 18:00:00,3,Berawan,95,24,75
+Mappi_2023-11-20T00:00:00,Mappi,2023-11-20 00:00:00,4,Berawan Tebal,70,27,81
+Mappi_2023-11-20T06:00:00,Mappi,2023-11-20 06:00:00,61,Hujan Sedang,70,31,88
+Mappi_2023-11-20T12:00:00,Mappi,2023-11-20 12:00:00,61,Hujan Sedang,85,26,79
+Mappi_2023-11-20T18:00:00,Mappi,2023-11-20 18:00:00,60,Hujan Ringan,95,23,73
+Maros_2023-11-20T00:00:00,Maros,2023-11-20 00:00:00,1,Cerah Berawan,80,27,81
+Maros_2023-11-20T06:00:00,Maros,2023-11-20 06:00:00,60,Hujan Ringan,70,34,93
+Maros_2023-11-20T12:00:00,Maros,2023-11-20 12:00:00,3,Berawan,80,29,84
+Maros_2023-11-20T18:00:00,Maros,2023-11-20 18:00:00,3,Berawan,90,25,77
+Mataram_2023-11-20T00:00:00,Mataram,2023-11-20 00:00:00,3,Berawan,75,28,82
+Mataram_2023-11-20T06:00:00,Mataram,2023-11-20 06:00:00,60,Hujan Ringan,60,32,90
+Mataram_2023-11-20T12:00:00,Mataram,2023-11-20 12:00:00,3,Berawan,80,28,82
+Mataram_2023-11-20T18:00:00,Mataram,2023-11-20 18:00:00,3,Berawan,95,26,79
+Maybrat_2023-11-20T00:00:00,Maybrat,2023-11-20 00:00:00,3,Berawan,80,28,82
+Maybrat_2023-11-20T06:00:00,Maybrat,2023-11-20 06:00:00,60,Hujan Ringan,65,32,90
+Maybrat_2023-11-20T12:00:00,Maybrat,2023-11-20 12:00:00,60,Hujan Ringan,95,26,79
+Maybrat_2023-11-20T18:00:00,Maybrat,2023-11-20 18:00:00,3,Berawan,95,24,75
+Medan_2023-11-20T00:00:00,Medan,2023-11-20 00:00:00,1,Cerah Berawan,95,26,79
+Medan_2023-11-20T06:00:00,Medan,2023-11-20 06:00:00,60,Hujan Ringan,70,32,90
+Medan_2023-11-20T12:00:00,Medan,2023-11-20 12:00:00,3,Berawan,85,27,81
+Medan_2023-11-20T18:00:00,Medan,2023-11-20 18:00:00,3,Berawan,95,23,73
+Melawi_2023-11-20T00:00:00,Melawi,2023-11-20 00:00:00,3,Berawan,95,25,77
+Melawi_2023-11-20T06:00:00,Melawi,2023-11-20 06:00:00,60,Hujan Ringan,60,34,93
+Melawi_2023-11-20T12:00:00,Melawi,2023-11-20 12:00:00,60,Hujan Ringan,95,26,79
+Melawi_2023-11-20T18:00:00,Melawi,2023-11-20 18:00:00,3,Berawan,100,23,73
+Merangin_2023-11-20T00:00:00,Merangin,2023-11-20 00:00:00,3,Berawan,100,23,73
+Merangin_2023-11-20T06:00:00,Merangin,2023-11-20 06:00:00,60,Hujan Ringan,70,32,90
+Merangin_2023-11-20T12:00:00,Merangin,2023-11-20 12:00:00,60,Hujan Ringan,95,24,75
+Merangin_2023-11-20T18:00:00,Merangin,2023-11-20 18:00:00,45,Berkabut,100,24,75
+Merauke_2023-11-20T00:00:00,Merauke,2023-11-20 00:00:00,3,Berawan,70,27,81
+Merauke_2023-11-20T06:00:00,Merauke,2023-11-20 06:00:00,3,Berawan,70,31,88
+Merauke_2023-11-20T12:00:00,Merauke,2023-11-20 12:00:00,3,Berawan,85,26,79
+Merauke_2023-11-20T18:00:00,Merauke,2023-11-20 18:00:00,3,Berawan,95,23,73
+Mesuji_2023-11-20T00:00:00,Mesuji,2023-11-20 00:00:00,3,Berawan,100,25,77
+Mesuji_2023-11-20T06:00:00,Mesuji,2023-11-20 06:00:00,1,Cerah Berawan,55,32,90
+Mesuji_2023-11-20T12:00:00,Mesuji,2023-11-20 12:00:00,1,Cerah Berawan,70,29,84
+Mesuji_2023-11-20T18:00:00,Mesuji,2023-11-20 18:00:00,1,Cerah Berawan,80,26,79
+Metro_2023-11-20T00:00:00,Metro,2023-11-20 00:00:00,1,Cerah Berawan,85,27,81
+Metro_2023-11-20T06:00:00,Metro,2023-11-20 06:00:00,1,Cerah Berawan,50,34,93
+Metro_2023-11-20T12:00:00,Metro,2023-11-20 12:00:00,1,Cerah Berawan,75,27,81
+Metro_2023-11-20T18:00:00,Metro,2023-11-20 18:00:00,0,Cerah,85,25,77
+Mimika _2023-11-20T00:00:00,Mimika,2023-11-20 00:00:00,3,Berawan,70,27,81
+Mimika _2023-11-20T06:00:00,Mimika,2023-11-20 06:00:00,60,Hujan Ringan,70,31,88
+Mimika _2023-11-20T12:00:00,Mimika,2023-11-20 12:00:00,60,Hujan Ringan,85,26,79
+Mimika _2023-11-20T18:00:00,Mimika,2023-11-20 18:00:00,3,Berawan,95,23,73
+Minahasa Selatan_2023-11-20T00:00:00,Minahasa Selatan,2023-11-20 00:00:00,1,Cerah Berawan,75,28,82
+Minahasa Selatan_2023-11-20T06:00:00,Minahasa Selatan,2023-11-20 06:00:00,61,Hujan Sedang,60,32,90
+Minahasa Selatan_2023-11-20T12:00:00,Minahasa Selatan,2023-11-20 12:00:00,3,Berawan,95,25,77
+Minahasa Selatan_2023-11-20T18:00:00,Minahasa Selatan,2023-11-20 18:00:00,3,Berawan,95,23,73
+Minahasa Tenggara_2023-11-20T00:00:00,Minahasa Tenggara,2023-11-20 00:00:00,1,Cerah Berawan,75,28,82
+Minahasa Tenggara_2023-11-20T06:00:00,Minahasa Tenggara,2023-11-20 06:00:00,1,Cerah Berawan,60,31,88
+Minahasa Tenggara_2023-11-20T12:00:00,Minahasa Tenggara,2023-11-20 12:00:00,3,Berawan,95,25,77
+Minahasa Tenggara_2023-11-20T18:00:00,Minahasa Tenggara,2023-11-20 18:00:00,0,Cerah,95,23,73
+Minahasa Utara_2023-11-20T00:00:00,Minahasa Utara,2023-11-20 00:00:00,3,Berawan,75,28,82
+Minahasa Utara_2023-11-20T06:00:00,Minahasa Utara,2023-11-20 06:00:00,60,Hujan Ringan,65,31,88
+Minahasa Utara_2023-11-20T12:00:00,Minahasa Utara,2023-11-20 12:00:00,1,Cerah Berawan,95,25,77
+Minahasa Utara_2023-11-20T18:00:00,Minahasa Utara,2023-11-20 18:00:00,1,Cerah Berawan,95,23,73
+Minahasa_2023-11-20T00:00:00,Minahasa,2023-11-20 00:00:00,1,Cerah Berawan,75,28,82
+Minahasa_2023-11-20T06:00:00,Minahasa,2023-11-20 06:00:00,60,Hujan Ringan,70,29,84
+Minahasa_2023-11-20T12:00:00,Minahasa,2023-11-20 12:00:00,1,Cerah Berawan,95,25,77
+Minahasa_2023-11-20T18:00:00,Minahasa,2023-11-20 18:00:00,1,Cerah Berawan,95,19,66
+Mojokerto_2023-11-20T00:00:00,Mojokerto,2023-11-20 00:00:00,0,,80,25,77
+Mojokerto_2023-11-20T06:00:00,Mojokerto,2023-11-20 06:00:00,0,,45,34,93
+Mojokerto_2023-11-20T12:00:00,Mojokerto,2023-11-20 12:00:00,0,,80,31,88
+Mojokerto_2023-11-20T18:00:00,Mojokerto,2023-11-20 18:00:00,1,Cerah Berawan,90,25,77
+Morowali_2023-11-20T00:00:00,Morowali,2023-11-20 00:00:00,3,Berawan,80,28,82
+Morowali_2023-11-20T06:00:00,Morowali,2023-11-20 06:00:00,1,Cerah Berawan,65,33,91
+Morowali_2023-11-20T12:00:00,Morowali,2023-11-20 12:00:00,3,Berawan,80,28,82
+Morowali_2023-11-20T18:00:00,Morowali,2023-11-20 18:00:00,1,Cerah Berawan,90,26,79
+Muaraenim_2023-11-20T00:00:00,Muaraenim,2023-11-20 00:00:00,1,Cerah Berawan,80,25,77
+Muaraenim_2023-11-20T06:00:00,Muaraenim,2023-11-20 06:00:00,1,Cerah Berawan,60,33,91
+Muaraenim_2023-11-20T12:00:00,Muaraenim,2023-11-20 12:00:00,3,Berawan,70,29,84
+Muaraenim_2023-11-20T18:00:00,Muaraenim,2023-11-20 18:00:00,1,Cerah Berawan,90,24,75
+Muaro Jambi_2023-11-20T00:00:00,Muaro Jambi,2023-11-20 00:00:00,3,Berawan,95,25,77
+Muaro Jambi_2023-11-20T06:00:00,Muaro Jambi,2023-11-20 06:00:00,3,Berawan,70,33,91
+Muaro Jambi_2023-11-20T12:00:00,Muaro Jambi,2023-11-20 12:00:00,60,Hujan Ringan,85,28,82
+Muaro Jambi_2023-11-20T18:00:00,Muaro Jambi,2023-11-20 18:00:00,60,Hujan Ringan,100,25,77
+Muko Muko_2023-11-20T00:00:00,Muko Muko,2023-11-20 00:00:00,3,Berawan,95,25,77
+Muko Muko_2023-11-20T06:00:00,Muko Muko,2023-11-20 06:00:00,1,Cerah Berawan,75,32,90
+Muko Muko_2023-11-20T12:00:00,Muko Muko,2023-11-20 12:00:00,1,Cerah Berawan,90,24,75
+Muko Muko_2023-11-20T18:00:00,Muko Muko,2023-11-20 18:00:00,1,Cerah Berawan,90,23,73
+Muna_2023-11-20T00:00:00,Muna,2023-11-20 00:00:00,1,Cerah Berawan,75,29,84
+Muna_2023-11-20T06:00:00,Muna,2023-11-20 06:00:00,3,Berawan,55,33,91
+Muna_2023-11-20T12:00:00,Muna,2023-11-20 12:00:00,1,Cerah Berawan,80,27,81
+Muna_2023-11-20T18:00:00,Muna,2023-11-20 18:00:00,1,Cerah Berawan,90,25,77
+Murung Raya_2023-11-20T00:00:00,Murung Raya,2023-11-20 00:00:00,3,Berawan,85,26,79
+Murung Raya_2023-11-20T06:00:00,Murung Raya,2023-11-20 06:00:00,3,Berawan,65,30,86
+Murung Raya_2023-11-20T12:00:00,Murung Raya,2023-11-20 12:00:00,3,Berawan,90,26,79
+Murung Raya_2023-11-20T18:00:00,Murung Raya,2023-11-20 18:00:00,61,Hujan Sedang,100,24,75
+Musi Banyuasin_2023-11-20T00:00:00,Musi Banyuasin,2023-11-20 00:00:00,1,Cerah Berawan,80,25,77
+Musi Banyuasin_2023-11-20T06:00:00,Musi Banyuasin,2023-11-20 06:00:00,3,Berawan,60,33,91
+Musi Banyuasin_2023-11-20T12:00:00,Musi Banyuasin,2023-11-20 12:00:00,61,Hujan Sedang,70,29,84
+Musi Banyuasin_2023-11-20T18:00:00,Musi Banyuasin,2023-11-20 18:00:00,1,Cerah Berawan,90,24,75
+Musi Rawas Utara_2023-11-20T00:00:00,Musi Rawas Utara,2023-11-20 00:00:00,1,Cerah Berawan,80,25,77
+Musi Rawas Utara_2023-11-20T06:00:00,Musi Rawas Utara,2023-11-20 06:00:00,3,Berawan,60,33,91
+Musi Rawas Utara_2023-11-20T12:00:00,Musi Rawas Utara,2023-11-20 12:00:00,1,Cerah Berawan,70,29,84
+Musi Rawas Utara_2023-11-20T18:00:00,Musi Rawas Utara,2023-11-20 18:00:00,60,Hujan Ringan,90,24,75
+Musi Rawas_2023-11-20T00:00:00,Musi Rawas,2023-11-20 00:00:00,1,Cerah Berawan,80,25,77
+Musi Rawas_2023-11-20T06:00:00,Musi Rawas,2023-11-20 06:00:00,3,Berawan,60,33,91
+Musi Rawas_2023-11-20T12:00:00,Musi Rawas,2023-11-20 12:00:00,1,Cerah Berawan,70,29,84
+Musi Rawas_2023-11-20T18:00:00,Musi Rawas,2023-11-20 18:00:00,1,Cerah Berawan,90,24,75
+Nabire_2023-11-20T00:00:00,Nabire,2023-11-20 00:00:00,3,Berawan,70,27,81
+Nabire_2023-11-20T06:00:00,Nabire,2023-11-20 06:00:00,1,Cerah Berawan,70,31,88
+Nabire_2023-11-20T12:00:00,Nabire,2023-11-20 12:00:00,3,Berawan,85,26,79
+Nabire_2023-11-20T18:00:00,Nabire,2023-11-20 18:00:00,1,Cerah Berawan,95,23,73
+Nagan Raya_2023-11-20T00:00:00,Nagan Raya,2023-11-20 00:00:00,3,Berawan,90,23,73
+Nagan Raya_2023-11-20T06:00:00,Nagan Raya,2023-11-20 06:00:00,95,Hujan Petir,65,32,90
+Nagan Raya_2023-11-20T12:00:00,Nagan Raya,2023-11-20 12:00:00,60,Hujan Ringan,90,24,75
+Nagan Raya_2023-11-20T18:00:00,Nagan Raya,2023-11-20 18:00:00,3,Berawan,95,23,73
+Nagekeo_2023-11-20T00:00:00,Nagekeo,2023-11-20 00:00:00,0,,70,29,84
+Nagekeo_2023-11-20T06:00:00,Nagekeo,2023-11-20 06:00:00,60,Hujan Ringan,50,31,88
+Nagekeo_2023-11-20T12:00:00,Nagekeo,2023-11-20 12:00:00,3,Berawan,80,27,81
+Nagekeo_2023-11-20T18:00:00,Nagekeo,2023-11-20 18:00:00,3,Berawan,95,23,73
+Natuna_2023-11-20T00:00:00,Natuna,2023-11-20 00:00:00,1,Cerah Berawan,90,25,77
+Natuna_2023-11-20T06:00:00,Natuna,2023-11-20 06:00:00,95,Hujan Petir,70,32,90
+Natuna_2023-11-20T12:00:00,Natuna,2023-11-20 12:00:00,60,Hujan Ringan,95,26,79
+Natuna_2023-11-20T18:00:00,Natuna,2023-11-20 18:00:00,3,Berawan,95,24,75
+Ndunga _2023-11-20T00:00:00,Ndunga,2023-11-20 00:00:00,3,Berawan,70,20,68
+Ndunga _2023-11-20T06:00:00,Ndunga,2023-11-20 06:00:00,3,Berawan,70,24,75
+Ndunga _2023-11-20T12:00:00,Ndunga,2023-11-20 12:00:00,3,Berawan,85,19,66
+Ndunga _2023-11-20T18:00:00,Ndunga,2023-11-20 18:00:00,3,Berawan,95,16,61
+Ngabang_2023-11-20T00:00:00,Ngabang,2023-11-20 00:00:00,1,Cerah Berawan,95,25,77
+Ngabang_2023-11-20T06:00:00,Ngabang,2023-11-20 06:00:00,3,Berawan,60,33,91
+Ngabang_2023-11-20T12:00:00,Ngabang,2023-11-20 12:00:00,3,Berawan,95,25,77
+Ngabang_2023-11-20T18:00:00,Ngabang,2023-11-20 18:00:00,3,Berawan,100,23,73
+Ngada_2023-11-20T00:00:00,Ngada,2023-11-20 00:00:00,0,,70,20,68
+Ngada_2023-11-20T06:00:00,Ngada,2023-11-20 06:00:00,60,Hujan Ringan,65,27,81
+Ngada_2023-11-20T12:00:00,Ngada,2023-11-20 12:00:00,3,Berawan,80,20,68
+Ngada_2023-11-20T18:00:00,Ngada,2023-11-20 18:00:00,60,Hujan Ringan,95,16,61
+Nganjuk_2023-11-20T00:00:00,Nganjuk,2023-11-20 00:00:00,0,,80,27,81
+Nganjuk_2023-11-20T06:00:00,Nganjuk,2023-11-20 06:00:00,0,,45,34,93
+Nganjuk_2023-11-20T12:00:00,Nganjuk,2023-11-20 12:00:00,0,,80,28,82
+Nganjuk_2023-11-20T18:00:00,Nganjuk,2023-11-20 18:00:00,3,Berawan,90,25,77
+Ngawi_2023-11-20T00:00:00,Ngawi,2023-11-20 00:00:00,0,,80,29,84
+Ngawi_2023-11-20T06:00:00,Ngawi,2023-11-20 06:00:00,0,,45,34,93
+Ngawi_2023-11-20T12:00:00,Ngawi,2023-11-20 12:00:00,0,,80,29,84
+Ngawi_2023-11-20T18:00:00,Ngawi,2023-11-20 18:00:00,3,Berawan,90,25,77
+Nias Barat_2023-11-20T00:00:00,Nias Barat,2023-11-20 00:00:00,1,Cerah Berawan,95,24,75
+Nias Barat_2023-11-20T06:00:00,Nias Barat,2023-11-20 06:00:00,61,Hujan Sedang,70,30,86
+Nias Barat_2023-11-20T12:00:00,Nias Barat,2023-11-20 12:00:00,3,Berawan,85,24,75
+Nias Barat_2023-11-20T18:00:00,Nias Barat,2023-11-20 18:00:00,3,Berawan,95,23,73
+Nias Selatan_2023-11-20T00:00:00,Nias Selatan,2023-11-20 00:00:00,1,Cerah Berawan,95,25,77
+Nias Selatan_2023-11-20T06:00:00,Nias Selatan,2023-11-20 06:00:00,61,Hujan Sedang,70,30,86
+Nias Selatan_2023-11-20T12:00:00,Nias Selatan,2023-11-20 12:00:00,3,Berawan,85,25,77
+Nias Selatan_2023-11-20T18:00:00,Nias Selatan,2023-11-20 18:00:00,3,Berawan,95,24,75
+Nias Utara_2023-11-20T00:00:00,Nias Utara,2023-11-20 00:00:00,1,Cerah Berawan,95,23,73
+Nias Utara_2023-11-20T06:00:00,Nias Utara,2023-11-20 06:00:00,61,Hujan Sedang,70,30,86
+Nias Utara_2023-11-20T12:00:00,Nias Utara,2023-11-20 12:00:00,3,Berawan,85,24,75
+Nias Utara_2023-11-20T18:00:00,Nias Utara,2023-11-20 18:00:00,3,Berawan,95,22,72
+Nias_2023-11-20T00:00:00,Nias,2023-11-20 00:00:00,1,Cerah Berawan,95,24,75
+Nias_2023-11-20T06:00:00,Nias,2023-11-20 06:00:00,63,Hujan Lebat,70,30,86
+Nias_2023-11-20T12:00:00,Nias,2023-11-20 12:00:00,3,Berawan,85,24,75
+Nias_2023-11-20T18:00:00,Nias,2023-11-20 18:00:00,3,Berawan,95,23,73
+Nunukan_2023-11-20T00:00:00,Nunukan,2023-11-20 00:00:00,1,Cerah Berawan,85,26,79
+Nunukan_2023-11-20T06:00:00,Nunukan,2023-11-20 06:00:00,1,Cerah Berawan,60,32,90
+Nunukan_2023-11-20T12:00:00,Nunukan,2023-11-20 12:00:00,1,Cerah Berawan,90,25,77
+Nunukan_2023-11-20T18:00:00,Nunukan,2023-11-20 18:00:00,3,Berawan,95,24,75
+Ogan Ilir_2023-11-20T00:00:00,Ogan Ilir,2023-11-20 00:00:00,60,Hujan Ringan,80,25,77
+Ogan Ilir_2023-11-20T06:00:00,Ogan Ilir,2023-11-20 06:00:00,1,Cerah Berawan,60,33,91
+Ogan Ilir_2023-11-20T12:00:00,Ogan Ilir,2023-11-20 12:00:00,1,Cerah Berawan,70,29,84
+Ogan Ilir_2023-11-20T18:00:00,Ogan Ilir,2023-11-20 18:00:00,3,Berawan,90,24,75
+Ogan Komering Ilir_2023-11-20T00:00:00,Ogan Komering Ilir,2023-11-20 00:00:00,3,Berawan,80,25,77
+Ogan Komering Ilir_2023-11-20T06:00:00,Ogan Komering Ilir,2023-11-20 06:00:00,1,Cerah Berawan,60,33,91
+Ogan Komering Ilir_2023-11-20T12:00:00,Ogan Komering Ilir,2023-11-20 12:00:00,1,Cerah Berawan,70,29,84
+Ogan Komering Ilir_2023-11-20T18:00:00,Ogan Komering Ilir,2023-11-20 18:00:00,60,Hujan Ringan,90,24,75
+Ogan Komering Ulu Selatan_2023-11-20T00:00:00,Ogan Komering Ulu Selatan,2023-11-20 00:00:00,1,Cerah Berawan,80,25,77
+Ogan Komering Ulu Selatan_2023-11-20T06:00:00,Ogan Komering Ulu Selatan,2023-11-20 06:00:00,1,Cerah Berawan,60,33,91
+Ogan Komering Ulu Selatan_2023-11-20T12:00:00,Ogan Komering Ulu Selatan,2023-11-20 12:00:00,1,Cerah Berawan,70,29,84
+Ogan Komering Ulu Selatan_2023-11-20T18:00:00,Ogan Komering Ulu Selatan,2023-11-20 18:00:00,1,Cerah Berawan,90,24,75
+Ogan Komering Ulu Timur_2023-11-20T00:00:00,Ogan Komering Ulu Timur,2023-11-20 00:00:00,3,Berawan,80,25,77
+Ogan Komering Ulu Timur_2023-11-20T06:00:00,Ogan Komering Ulu Timur,2023-11-20 06:00:00,1,Cerah Berawan,60,33,91
+Ogan Komering Ulu Timur_2023-11-20T12:00:00,Ogan Komering Ulu Timur,2023-11-20 12:00:00,1,Cerah Berawan,70,29,84
+Ogan Komering Ulu Timur_2023-11-20T18:00:00,Ogan Komering Ulu Timur,2023-11-20 18:00:00,1,Cerah Berawan,90,24,75
+Ogan Komering Ulu_2023-11-20T00:00:00,Ogan Komering Ulu,2023-11-20 00:00:00,3,Berawan,80,25,77
+Ogan Komering Ulu_2023-11-20T06:00:00,Ogan Komering Ulu,2023-11-20 06:00:00,1,Cerah Berawan,60,33,91
+Ogan Komering Ulu_2023-11-20T12:00:00,Ogan Komering Ulu,2023-11-20 12:00:00,0,Cerah,70,29,84
+Ogan Komering Ulu_2023-11-20T18:00:00,Ogan Komering Ulu,2023-11-20 18:00:00,1,Cerah Berawan,90,24,75
+Pacitan_2023-11-20T00:00:00,Pacitan,2023-11-20 00:00:00,1,Cerah Berawan,85,25,77
+Pacitan_2023-11-20T06:00:00,Pacitan,2023-11-20 06:00:00,1,Cerah Berawan,65,32,90
+Pacitan_2023-11-20T12:00:00,Pacitan,2023-11-20 12:00:00,1,Cerah Berawan,80,27,81
+Pacitan_2023-11-20T18:00:00,Pacitan,2023-11-20 18:00:00,3,Berawan,95,24,75
+Padang Pariaman_2023-11-20T00:00:00,Padang Pariaman,2023-11-20 00:00:00,1,Cerah Berawan,95,24,75
+Padang Pariaman_2023-11-20T06:00:00,Padang Pariaman,2023-11-20 06:00:00,60,Hujan Ringan,80,31,88
+Padang Pariaman_2023-11-20T12:00:00,Padang Pariaman,2023-11-20 12:00:00,1,Cerah Berawan,95,25,77
+Padang Pariaman_2023-11-20T18:00:00,Padang Pariaman,2023-11-20 18:00:00,1,Cerah Berawan,90,24,75
+Padang Sidempuan_2023-11-20T00:00:00,Padang Sidempuan,2023-11-20 00:00:00,1,Cerah Berawan,95,20,68
+Padang Sidempuan_2023-11-20T06:00:00,Padang Sidempuan,2023-11-20 06:00:00,61,Hujan Sedang,70,22,72
+Padang Sidempuan_2023-11-20T12:00:00,Padang Sidempuan,2023-11-20 12:00:00,61,Hujan Sedang,85,20,68
+Padang Sidempuan_2023-11-20T18:00:00,Padang Sidempuan,2023-11-20 18:00:00,3,Berawan,95,20,68
+Padang_2023-11-20T00:00:00,Padang,2023-11-20 00:00:00,1,Cerah Berawan,90,25,77
+Padang_2023-11-20T06:00:00,Padang,2023-11-20 06:00:00,3,Berawan,90,31,88
+Padang_2023-11-20T12:00:00,Padang,2023-11-20 12:00:00,1,Cerah Berawan,95,25,77
+Padang_2023-11-20T18:00:00,Padang,2023-11-20 18:00:00,1,Cerah Berawan,95,24,75
+Padanglawas_2023-11-20T00:00:00,Padanglawas,2023-11-20 00:00:00,1,Cerah Berawan,95,21,70
+Padanglawas_2023-11-20T06:00:00,Padanglawas,2023-11-20 06:00:00,63,Hujan Lebat,70,23,73
+Padanglawas_2023-11-20T12:00:00,Padanglawas,2023-11-20 12:00:00,3,Berawan,85,21,70
+Padanglawas_2023-11-20T18:00:00,Padanglawas,2023-11-20 18:00:00,3,Berawan,95,21,70
+Padangpanjang_2023-11-20T00:00:00,Padangpanjang,2023-11-20 00:00:00,1,Cerah Berawan,100,20,68
+Padangpanjang_2023-11-20T06:00:00,Padangpanjang,2023-11-20 06:00:00,60,Hujan Ringan,95,25,77
+Padangpanjang_2023-11-20T12:00:00,Padangpanjang,2023-11-20 12:00:00,45,Berkabut,100,20,68
+Padangpanjang_2023-11-20T18:00:00,Padangpanjang,2023-11-20 18:00:00,3,Berawan,95,20,68
+Pagar Alam_2023-11-20T00:00:00,Pagar Alam,2023-11-20 00:00:00,1,Cerah Berawan,85,24,75
+Pagar Alam_2023-11-20T06:00:00,Pagar Alam,2023-11-20 06:00:00,60,Hujan Ringan,65,32,90
+Pagar Alam_2023-11-20T12:00:00,Pagar Alam,2023-11-20 12:00:00,1,Cerah Berawan,75,28,82
+Pagar Alam_2023-11-20T18:00:00,Pagar Alam,2023-11-20 18:00:00,45,Berkabut,95,23,73
+Pahuwato_2023-11-20T00:00:00,Pahuwato,2023-11-20 00:00:00,1,Cerah Berawan,90,27,81
+Pahuwato_2023-11-20T06:00:00,Pahuwato,2023-11-20 06:00:00,1,Cerah Berawan,60,33,91
+Pahuwato_2023-11-20T12:00:00,Pahuwato,2023-11-20 12:00:00,1,Cerah Berawan,90,26,79
+Pahuwato_2023-11-20T18:00:00,Pahuwato,2023-11-20 18:00:00,1,Cerah Berawan,95,23,73
+Pak-Pak Bharat_2023-11-20T00:00:00,Pak-Pak Bharat,2023-11-20 00:00:00,1,Cerah Berawan,95,21,70
+Pak-Pak Bharat_2023-11-20T06:00:00,Pak-Pak Bharat,2023-11-20 06:00:00,61,Hujan Sedang,70,29,84
+Pak-Pak Bharat_2023-11-20T12:00:00,Pak-Pak Bharat,2023-11-20 12:00:00,61,Hujan Sedang,85,21,70
+Pak-Pak Bharat_2023-11-20T18:00:00,Pak-Pak Bharat,2023-11-20 18:00:00,3,Berawan,95,20,68
+Palangkaraya_2023-11-20T00:00:00,Palangkaraya,2023-11-20 00:00:00,3,Berawan,85,26,79
+Palangkaraya_2023-11-20T06:00:00,Palangkaraya,2023-11-20 06:00:00,3,Berawan,60,33,91
+Palangkaraya_2023-11-20T12:00:00,Palangkaraya,2023-11-20 12:00:00,60,Hujan Ringan,90,26,79
+Palangkaraya_2023-11-20T18:00:00,Palangkaraya,2023-11-20 18:00:00,3,Berawan,95,24,75
+Palembang_2023-11-20T00:00:00,Palembang,2023-11-20 00:00:00,60,Hujan Ringan,80,25,77
+Palembang_2023-11-20T06:00:00,Palembang,2023-11-20 06:00:00,1,Cerah Berawan,60,33,91
+Palembang_2023-11-20T12:00:00,Palembang,2023-11-20 12:00:00,1,Cerah Berawan,70,29,84
+Palembang_2023-11-20T18:00:00,Palembang,2023-11-20 18:00:00,1,Cerah Berawan,90,24,75
+Palopo_2023-11-20T00:00:00,Palopo,2023-11-20 00:00:00,1,Cerah Berawan,85,27,81
+Palopo_2023-11-20T06:00:00,Palopo,2023-11-20 06:00:00,60,Hujan Ringan,70,34,93
+Palopo_2023-11-20T12:00:00,Palopo,2023-11-20 12:00:00,3,Berawan,80,29,84
+Palopo_2023-11-20T18:00:00,Palopo,2023-11-20 18:00:00,3,Berawan,90,25,77
+Palu_2023-11-20T00:00:00,Palu,2023-11-20 00:00:00,1,Cerah Berawan,90,25,77
+Palu_2023-11-20T06:00:00,Palu,2023-11-20 06:00:00,95,Hujan Petir,65,33,91
+Palu_2023-11-20T12:00:00,Palu,2023-11-20 12:00:00,60,Hujan Ringan,95,23,73
+Palu_2023-11-20T18:00:00,Palu,2023-11-20 18:00:00,60,Hujan Ringan,95,21,70
+Pamekasan_2023-11-20T00:00:00,Pamekasan,2023-11-20 00:00:00,0,,80,29,84
+Pamekasan_2023-11-20T06:00:00,Pamekasan,2023-11-20 06:00:00,0,,45,34,93
+Pamekasan_2023-11-20T12:00:00,Pamekasan,2023-11-20 12:00:00,1,Cerah Berawan,75,29,84
+Pamekasan_2023-11-20T18:00:00,Pamekasan,2023-11-20 18:00:00,1,Cerah Berawan,85,25,77
+Pandeglang_2023-11-20T00:00:00,Pandeglang,2023-11-20 00:00:00,1,Cerah Berawan,85,26,79
+Pandeglang_2023-11-20T06:00:00,Pandeglang,2023-11-20 06:00:00,3,Berawan,60,33,91
+Pandeglang_2023-11-20T12:00:00,Pandeglang,2023-11-20 12:00:00,3,Berawan,75,28,82
+Pandeglang_2023-11-20T18:00:00,Pandeglang,2023-11-20 18:00:00,3,Berawan,95,25,77
+Pangandaran_2023-11-20T00:00:00,Pangandaran,2023-11-20 00:00:00,1,Cerah Berawan,85,25,77
+Pangandaran_2023-11-20T06:00:00,Pangandaran,2023-11-20 06:00:00,1,Cerah Berawan,55,32,90
+Pangandaran_2023-11-20T12:00:00,Pangandaran,2023-11-20 12:00:00,60,Hujan Ringan,80,25,77
+Pangandaran_2023-11-20T18:00:00,Pangandaran,2023-11-20 18:00:00,1,Cerah Berawan,90,22,72
+Pangkajene dan Kepulauan_2023-11-20T00:00:00,Pangkajene dan Kepulauan,2023-11-20 00:00:00,1,Cerah Berawan,80,27,81
+Pangkajene dan Kepulauan_2023-11-20T06:00:00,Pangkajene dan Kepulauan,2023-11-20 06:00:00,60,Hujan Ringan,70,34,93
+Pangkajene dan Kepulauan_2023-11-20T12:00:00,Pangkajene dan Kepulauan,2023-11-20 12:00:00,3,Berawan,80,29,84
+Pangkajene dan Kepulauan_2023-11-20T18:00:00,Pangkajene dan Kepulauan,2023-11-20 18:00:00,3,Berawan,90,25,77
+Pangkalpinang_2023-11-20T00:00:00,Pangkalpinang,2023-11-20 00:00:00,3,Berawan,95,26,79
+Pangkalpinang_2023-11-20T06:00:00,Pangkalpinang,2023-11-20 06:00:00,3,Berawan,60,33,91
+Pangkalpinang_2023-11-20T12:00:00,Pangkalpinang,2023-11-20 12:00:00,60,Hujan Ringan,80,26,79
+Pangkalpinang_2023-11-20T18:00:00,Pangkalpinang,2023-11-20 18:00:00,1,Cerah Berawan,90,25,77
+Paniai_2023-11-20T00:00:00,Paniai,2023-11-20 00:00:00,3,Berawan,70,20,68
+Paniai_2023-11-20T06:00:00,Paniai,2023-11-20 06:00:00,3,Berawan,70,24,75
+Paniai_2023-11-20T12:00:00,Paniai,2023-11-20 12:00:00,3,Berawan,85,19,66
+Paniai_2023-11-20T18:00:00,Paniai,2023-11-20 18:00:00,3,Berawan,95,16,61
+Pare Pare_2023-11-20T00:00:00,Pare Pare,2023-11-20 00:00:00,1,Cerah Berawan,85,26,79
+Pare Pare_2023-11-20T06:00:00,Pare Pare,2023-11-20 06:00:00,60,Hujan Ringan,70,33,91
+Pare Pare_2023-11-20T12:00:00,Pare Pare,2023-11-20 12:00:00,3,Berawan,80,28,82
+Pare Pare_2023-11-20T18:00:00,Pare Pare,2023-11-20 18:00:00,3,Berawan,90,24,75
+Pariaman_2023-11-20T00:00:00,Pariaman,2023-11-20 00:00:00,1,Cerah Berawan,95,25,77
+Pariaman_2023-11-20T06:00:00,Pariaman,2023-11-20 06:00:00,1,Cerah Berawan,85,31,88
+Pariaman_2023-11-20T12:00:00,Pariaman,2023-11-20 12:00:00,3,Berawan,90,26,79
+Pariaman_2023-11-20T18:00:00,Pariaman,2023-11-20 18:00:00,3,Berawan,90,25,77
+Parigi Moutong_2023-11-20T00:00:00,Parigi Moutong,2023-11-20 00:00:00,60,Hujan Ringan,90,26,79
+Parigi Moutong_2023-11-20T06:00:00,Parigi Moutong,2023-11-20 06:00:00,60,Hujan Ringan,65,33,91
+Parigi Moutong_2023-11-20T12:00:00,Parigi Moutong,2023-11-20 12:00:00,60,Hujan Ringan,85,25,77
+Parigi Moutong_2023-11-20T18:00:00,Parigi Moutong,2023-11-20 18:00:00,1,Cerah Berawan,90,25,77
+Pasaman Barat_2023-11-20T00:00:00,Pasaman Barat,2023-11-20 00:00:00,1,Cerah Berawan,95,23,73
+Pasaman Barat_2023-11-20T06:00:00,Pasaman Barat,2023-11-20 06:00:00,3,Berawan,90,30,86
+Pasaman Barat_2023-11-20T12:00:00,Pasaman Barat,2023-11-20 12:00:00,45,Berkabut,100,23,73
+Pasaman Barat_2023-11-20T18:00:00,Pasaman Barat,2023-11-20 18:00:00,3,Berawan,90,22,72
+Pasaman_2023-11-20T00:00:00,Pasaman,2023-11-20 00:00:00,1,Cerah Berawan,95,21,70
+Pasaman_2023-11-20T06:00:00,Pasaman,2023-11-20 06:00:00,3,Berawan,90,29,84
+Pasaman_2023-11-20T12:00:00,Pasaman,2023-11-20 12:00:00,60,Hujan Ringan,100,20,68
+Pasaman_2023-11-20T18:00:00,Pasaman,2023-11-20 18:00:00,3,Berawan,95,20,68
+Pasir_2023-11-20T00:00:00,Pasir,2023-11-20 00:00:00,3,Berawan,95,26,79
+Pasir_2023-11-20T06:00:00,Pasir,2023-11-20 06:00:00,1,Cerah Berawan,80,30,86
+Pasir_2023-11-20T12:00:00,Pasir,2023-11-20 12:00:00,60,Hujan Ringan,90,26,79
+Pasir_2023-11-20T18:00:00,Pasir,2023-11-20 18:00:00,1,Cerah Berawan,95,24,75
+Pasuruan_2023-11-20T00:00:00,Pasuruan,2023-11-20 00:00:00,0,,85,29,84
+Pasuruan_2023-11-20T06:00:00,Pasuruan,2023-11-20 06:00:00,0,,55,34,93
+Pasuruan_2023-11-20T12:00:00,Pasuruan,2023-11-20 12:00:00,1,Cerah Berawan,85,28,82
+Pasuruan_2023-11-20T18:00:00,Pasuruan,2023-11-20 18:00:00,1,Cerah Berawan,95,24,75
+Pati_2023-11-20T00:00:00,Pati,2023-11-20 00:00:00,1,Cerah Berawan,80,27,81
+Pati_2023-11-20T06:00:00,Pati,2023-11-20 06:00:00,3,Berawan,55,33,91
+Pati_2023-11-20T12:00:00,Pati,2023-11-20 12:00:00,60,Hujan Ringan,75,28,82
+Pati_2023-11-20T18:00:00,Pati,2023-11-20 18:00:00,3,Berawan,85,26,79
+Payakumbuh_2023-11-20T00:00:00,Payakumbuh,2023-11-20 00:00:00,3,Berawan,100,21,70
+Payakumbuh_2023-11-20T06:00:00,Payakumbuh,2023-11-20 06:00:00,1,Cerah Berawan,70,30,86
+Payakumbuh_2023-11-20T12:00:00,Payakumbuh,2023-11-20 12:00:00,3,Berawan,95,22,72
+Payakumbuh_2023-11-20T18:00:00,Payakumbuh,2023-11-20 18:00:00,3,Berawan,100,22,72
+Pegunungan Bintang _2023-11-20T00:00:00,Pegunungan Bintang,2023-11-20 00:00:00,4,Berawan Tebal,70,26,79
+Pegunungan Bintang _2023-11-20T06:00:00,Pegunungan Bintang,2023-11-20 06:00:00,3,Berawan,70,30,86
+Pegunungan Bintang _2023-11-20T12:00:00,Pegunungan Bintang,2023-11-20 12:00:00,3,Berawan,85,25,77
+Pegunungan Bintang _2023-11-20T18:00:00,Pegunungan Bintang,2023-11-20 18:00:00,3,Berawan,95,22,72
+Pekalongan_2023-11-20T00:00:00,Pekalongan,2023-11-20 00:00:00,3,Berawan,80,27,81
+Pekalongan_2023-11-20T06:00:00,Pekalongan,2023-11-20 06:00:00,3,Berawan,60,33,91
+Pekalongan_2023-11-20T12:00:00,Pekalongan,2023-11-20 12:00:00,3,Berawan,75,28,82
+Pekalongan_2023-11-20T18:00:00,Pekalongan,2023-11-20 18:00:00,3,Berawan,85,25,77
+Pekanbaru_2023-11-20T00:00:00,Pekanbaru,2023-11-20 00:00:00,3,Berawan,100,24,75
+Pekanbaru_2023-11-20T06:00:00,Pekanbaru,2023-11-20 06:00:00,3,Berawan,75,30,86
+Pekanbaru_2023-11-20T12:00:00,Pekanbaru,2023-11-20 12:00:00,1,Cerah Berawan,90,26,79
+Pekanbaru_2023-11-20T18:00:00,Pekanbaru,2023-11-20 18:00:00,60,Hujan Ringan,100,24,75
+Pelalawan_2023-11-20T00:00:00,Pelalawan,2023-11-20 00:00:00,3,Berawan,95,25,77
+Pelalawan_2023-11-20T06:00:00,Pelalawan,2023-11-20 06:00:00,3,Berawan,75,30,86
+Pelalawan_2023-11-20T12:00:00,Pelalawan,2023-11-20 12:00:00,60,Hujan Ringan,90,26,79
+Pelalawan_2023-11-20T18:00:00,Pelalawan,2023-11-20 18:00:00,60,Hujan Ringan,100,24,75
+Pemalang_2023-11-20T00:00:00,Pemalang,2023-11-20 00:00:00,3,Berawan,75,27,81
+Pemalang_2023-11-20T06:00:00,Pemalang,2023-11-20 06:00:00,3,Berawan,55,33,91
+Pemalang_2023-11-20T12:00:00,Pemalang,2023-11-20 12:00:00,3,Berawan,80,28,82
+Pemalang_2023-11-20T18:00:00,Pemalang,2023-11-20 18:00:00,3,Berawan,85,24,75
+Pematang Siantar_2023-11-20T00:00:00,Pematang Siantar,2023-11-20 00:00:00,1,Cerah Berawan,95,22,72
+Pematang Siantar_2023-11-20T06:00:00,Pematang Siantar,2023-11-20 06:00:00,60,Hujan Ringan,70,26,79
+Pematang Siantar_2023-11-20T12:00:00,Pematang Siantar,2023-11-20 12:00:00,61,Hujan Sedang,85,22,72
+Pematang Siantar_2023-11-20T18:00:00,Pematang Siantar,2023-11-20 18:00:00,3,Berawan,95,21,70
+Penajam Paser Utara_2023-11-20T00:00:00,Penajam Paser Utara,2023-11-20 00:00:00,3,Berawan,100,26,79
+Penajam Paser Utara_2023-11-20T06:00:00,Penajam Paser Utara,2023-11-20 06:00:00,1,Cerah Berawan,90,27,81
+Penajam Paser Utara_2023-11-20T12:00:00,Penajam Paser Utara,2023-11-20 12:00:00,60,Hujan Ringan,90,25,77
+Penajam Paser Utara_2023-11-20T18:00:00,Penajam Paser Utara,2023-11-20 18:00:00,60,Hujan Ringan,100,24,75
+Penukal Abab Lematang Ilir_2023-11-20T00:00:00,Penukal Abab Lematang Ilir,2023-11-20 00:00:00,1,Cerah Berawan,80,25,77
+Penukal Abab Lematang Ilir_2023-11-20T06:00:00,Penukal Abab Lematang Ilir,2023-11-20 06:00:00,60,Hujan Ringan,60,33,91
+Penukal Abab Lematang Ilir_2023-11-20T12:00:00,Penukal Abab Lematang Ilir,2023-11-20 12:00:00,60,Hujan Ringan,70,29,84
+Penukal Abab Lematang Ilir_2023-11-20T18:00:00,Penukal Abab Lematang Ilir,2023-11-20 18:00:00,1,Cerah Berawan,90,24,75
+Pesawaran_2023-11-20T00:00:00,Pesawaran,2023-11-20 00:00:00,1,Cerah Berawan,90,23,73
+Pesawaran_2023-11-20T06:00:00,Pesawaran,2023-11-20 06:00:00,1,Cerah Berawan,70,28,82
+Pesawaran_2023-11-20T12:00:00,Pesawaran,2023-11-20 12:00:00,1,Cerah Berawan,95,22,72
+Pesawaran_2023-11-20T18:00:00,Pesawaran,2023-11-20 18:00:00,45,Berkabut,100,21,70
+Pesisir Selatan_2023-11-20T00:00:00,Pesisir Selatan,2023-11-20 00:00:00,1,Cerah Berawan,95,23,73
+Pesisir Selatan_2023-11-20T06:00:00,Pesisir Selatan,2023-11-20 06:00:00,3,Berawan,90,30,86
+Pesisir Selatan_2023-11-20T12:00:00,Pesisir Selatan,2023-11-20 12:00:00,3,Berawan,95,24,75
+Pesisir Selatan_2023-11-20T18:00:00,Pesisir Selatan,2023-11-20 18:00:00,3,Berawan,85,22,72
+Pidie Jaya_2023-11-20T00:00:00,Pidie Jaya,2023-11-20 00:00:00,3,Berawan,90,24,75
+Pidie Jaya_2023-11-20T06:00:00,Pidie Jaya,2023-11-20 06:00:00,4,Berawan Tebal,65,31,88
+Pidie Jaya_2023-11-20T12:00:00,Pidie Jaya,2023-11-20 12:00:00,1,Cerah Berawan,90,26,79
+Pidie Jaya_2023-11-20T18:00:00,Pidie Jaya,2023-11-20 18:00:00,60,Hujan Ringan,95,24,75
+Pidie_2023-11-20T00:00:00,Pidie,2023-11-20 00:00:00,4,Berawan Tebal,90,25,77
+Pidie_2023-11-20T06:00:00,Pidie,2023-11-20 06:00:00,1,Cerah Berawan,65,31,88
+Pidie_2023-11-20T12:00:00,Pidie,2023-11-20 12:00:00,60,Hujan Ringan,90,26,79
+Pidie_2023-11-20T18:00:00,Pidie,2023-11-20 18:00:00,60,Hujan Ringan,95,25,77
+Pinrang_2023-11-20T00:00:00,Pinrang,2023-11-20 00:00:00,1,Cerah Berawan,85,26,79
+Pinrang_2023-11-20T06:00:00,Pinrang,2023-11-20 06:00:00,60,Hujan Ringan,70,33,91
+Pinrang_2023-11-20T12:00:00,Pinrang,2023-11-20 12:00:00,3,Berawan,80,28,82
+Pinrang_2023-11-20T18:00:00,Pinrang,2023-11-20 18:00:00,3,Berawan,90,24,75
+Polewali Mandar_2023-11-20T00:00:00,Polewali Mandar,2023-11-20 00:00:00,60,Hujan Ringan,70,27,81
+Polewali Mandar_2023-11-20T06:00:00,Polewali Mandar,2023-11-20 06:00:00,60,Hujan Ringan,70,30,86
+Polewali Mandar_2023-11-20T12:00:00,Polewali Mandar,2023-11-20 12:00:00,60,Hujan Ringan,85,27,81
+Polewali Mandar_2023-11-20T18:00:00,Polewali Mandar,2023-11-20 18:00:00,60,Hujan Ringan,85,25,77
+Ponorogo_2023-11-20T00:00:00,Ponorogo,2023-11-20 00:00:00,1,Cerah Berawan,85,27,81
+Ponorogo_2023-11-20T06:00:00,Ponorogo,2023-11-20 06:00:00,0,,50,34,93
+Ponorogo_2023-11-20T12:00:00,Ponorogo,2023-11-20 12:00:00,0,,85,28,82
+Ponorogo_2023-11-20T18:00:00,Ponorogo,2023-11-20 18:00:00,1,Cerah Berawan,95,25,77
+Pontianak_2023-11-20T00:00:00,Pontianak,2023-11-20 00:00:00,1,Cerah Berawan,90,26,79
+Pontianak_2023-11-20T06:00:00,Pontianak,2023-11-20 06:00:00,1,Cerah Berawan,60,33,91
+Pontianak_2023-11-20T12:00:00,Pontianak,2023-11-20 12:00:00,4,Berawan Tebal,80,27,81
+Pontianak_2023-11-20T18:00:00,Pontianak,2023-11-20 18:00:00,1,Cerah Berawan,100,23,73
+Poso_2023-11-20T00:00:00,Poso,2023-11-20 00:00:00,60,Hujan Ringan,75,29,84
+Poso_2023-11-20T06:00:00,Poso,2023-11-20 06:00:00,1,Cerah Berawan,65,33,91
+Poso_2023-11-20T12:00:00,Poso,2023-11-20 12:00:00,1,Cerah Berawan,80,27,81
+Poso_2023-11-20T18:00:00,Poso,2023-11-20 18:00:00,60,Hujan Ringan,80,27,81
+Prabumulih_2023-11-20T00:00:00,Prabumulih,2023-11-20 00:00:00,1,Cerah Berawan,80,25,77
+Prabumulih_2023-11-20T06:00:00,Prabumulih,2023-11-20 06:00:00,1,Cerah Berawan,60,33,91
+Prabumulih_2023-11-20T12:00:00,Prabumulih,2023-11-20 12:00:00,3,Berawan,70,29,84
+Prabumulih_2023-11-20T18:00:00,Prabumulih,2023-11-20 18:00:00,1,Cerah Berawan,90,24,75
+Pringsewu_2023-11-20T00:00:00,Pringsewu,2023-11-20 00:00:00,1,Cerah Berawan,85,24,75
+Pringsewu_2023-11-20T06:00:00,Pringsewu,2023-11-20 06:00:00,1,Cerah Berawan,55,30,86
+Pringsewu_2023-11-20T12:00:00,Pringsewu,2023-11-20 12:00:00,3,Berawan,85,24,75
+Pringsewu_2023-11-20T18:00:00,Pringsewu,2023-11-20 18:00:00,1,Cerah Berawan,90,23,73
+Probolinggo_2023-11-20T00:00:00,Probolinggo,2023-11-20 00:00:00,0,,85,27,81
+Probolinggo_2023-11-20T06:00:00,Probolinggo,2023-11-20 06:00:00,0,,55,33,91
+Probolinggo_2023-11-20T12:00:00,Probolinggo,2023-11-20 12:00:00,1,Cerah Berawan,80,27,81
+Probolinggo_2023-11-20T18:00:00,Probolinggo,2023-11-20 18:00:00,0,,90,24,75
+Pulang Pisau_2023-11-20T00:00:00,Pulang Pisau,2023-11-20 00:00:00,3,Berawan,85,26,79
+Pulang Pisau_2023-11-20T06:00:00,Pulang Pisau,2023-11-20 06:00:00,3,Berawan,60,33,91
+Pulang Pisau_2023-11-20T12:00:00,Pulang Pisau,2023-11-20 12:00:00,60,Hujan Ringan,90,26,79
+Pulang Pisau_2023-11-20T18:00:00,Pulang Pisau,2023-11-20 18:00:00,3,Berawan,95,24,75
+Pulau Morotai_2023-11-20T00:00:00,Pulau Morotai,2023-11-20 00:00:00,0,Cerah,75,28,82
+Pulau Morotai_2023-11-20T06:00:00,Pulau Morotai,2023-11-20 06:00:00,60,Hujan Ringan,70,31,88
+Pulau Morotai_2023-11-20T12:00:00,Pulau Morotai,2023-11-20 12:00:00,3,Berawan,90,25,77
+Pulau Morotai_2023-11-20T18:00:00,Pulau Morotai,2023-11-20 18:00:00,1,Cerah Berawan,95,24,75
+Pulau Taliabu_2023-11-20T00:00:00,Pulau Taliabu,2023-11-20 00:00:00,1,Cerah Berawan,80,28,82
+Pulau Taliabu_2023-11-20T06:00:00,Pulau Taliabu,2023-11-20 06:00:00,3,Berawan,65,33,91
+Pulau Taliabu_2023-11-20T12:00:00,Pulau Taliabu,2023-11-20 12:00:00,1,Cerah Berawan,80,28,82
+Pulau Taliabu_2023-11-20T18:00:00,Pulau Taliabu,2023-11-20 18:00:00,1,Cerah Berawan,90,26,79
+Puncak Jaya _2023-11-20T00:00:00,Puncak Jaya,2023-11-20 00:00:00,3,Berawan,70,20,68
+Puncak Jaya _2023-11-20T06:00:00,Puncak Jaya,2023-11-20 06:00:00,3,Berawan,70,24,75
+Puncak Jaya _2023-11-20T12:00:00,Puncak Jaya,2023-11-20 12:00:00,3,Berawan,85,19,66
+Puncak Jaya _2023-11-20T18:00:00,Puncak Jaya,2023-11-20 18:00:00,3,Berawan,95,16,61
+Puncak _2023-11-20T00:00:00,Puncak,2023-11-20 00:00:00,3,Berawan,70,20,68
+Puncak _2023-11-20T06:00:00,Puncak,2023-11-20 06:00:00,3,Berawan,70,24,75
+Puncak _2023-11-20T12:00:00,Puncak,2023-11-20 12:00:00,3,Berawan,85,19,66
+Puncak _2023-11-20T18:00:00,Puncak,2023-11-20 18:00:00,3,Berawan,95,16,61
+Purbalingga_2023-11-20T00:00:00,Purbalingga,2023-11-20 00:00:00,3,Berawan,85,26,79
+Purbalingga_2023-11-20T06:00:00,Purbalingga,2023-11-20 06:00:00,3,Berawan,65,30,86
+Purbalingga_2023-11-20T12:00:00,Purbalingga,2023-11-20 12:00:00,4,Berawan Tebal,80,27,81
+Purbalingga_2023-11-20T18:00:00,Purbalingga,2023-11-20 18:00:00,3,Berawan,90,22,72
+Purwakarta_2023-11-20T00:00:00,Purwakarta,2023-11-20 00:00:00,1,Cerah Berawan,80,25,77
+Purwakarta_2023-11-20T06:00:00,Purwakarta,2023-11-20 06:00:00,60,Hujan Ringan,55,31,88
+Purwakarta_2023-11-20T12:00:00,Purwakarta,2023-11-20 12:00:00,60,Hujan Ringan,80,25,77
+Purwakarta_2023-11-20T18:00:00,Purwakarta,2023-11-20 18:00:00,1,Cerah Berawan,90,23,73
+Purworejo_2023-11-20T00:00:00,Purworejo,2023-11-20 00:00:00,3,Berawan,80,27,81
+Purworejo_2023-11-20T06:00:00,Purworejo,2023-11-20 06:00:00,3,Berawan,60,33,91
+Purworejo_2023-11-20T12:00:00,Purworejo,2023-11-20 12:00:00,3,Berawan,75,28,82
+Purworejo_2023-11-20T18:00:00,Purworejo,2023-11-20 18:00:00,3,Berawan,85,23,73
+Raja Ampat_2023-11-20T00:00:00,Raja Ampat,2023-11-20 00:00:00,3,Berawan,80,28,82
+Raja Ampat_2023-11-20T06:00:00,Raja Ampat,2023-11-20 06:00:00,1,Cerah Berawan,65,32,90
+Raja Ampat_2023-11-20T12:00:00,Raja Ampat,2023-11-20 12:00:00,1,Cerah Berawan,95,26,79
+Raja Ampat_2023-11-20T18:00:00,Raja Ampat,2023-11-20 18:00:00,3,Berawan,95,24,75
+Rejang Lebong_2023-11-20T00:00:00,Rejang Lebong,2023-11-20 00:00:00,45,Berkabut,100,20,68
+Rejang Lebong_2023-11-20T06:00:00,Rejang Lebong,2023-11-20 06:00:00,3,Berawan,75,31,88
+Rejang Lebong_2023-11-20T12:00:00,Rejang Lebong,2023-11-20 12:00:00,45,Berkabut,100,19,66
+Rejang Lebong_2023-11-20T18:00:00,Rejang Lebong,2023-11-20 18:00:00,3,Berawan,95,17,63
+Rembang_2023-11-20T00:00:00,Rembang,2023-11-20 00:00:00,1,Cerah Berawan,80,28,82
+Rembang_2023-11-20T06:00:00,Rembang,2023-11-20 06:00:00,3,Berawan,55,33,91
+Rembang_2023-11-20T12:00:00,Rembang,2023-11-20 12:00:00,3,Berawan,75,28,82
+Rembang_2023-11-20T18:00:00,Rembang,2023-11-20 18:00:00,3,Berawan,85,26,79
+Rokan Hilir_2023-11-20T00:00:00,Rokan Hilir,2023-11-20 00:00:00,3,Berawan,95,25,77
+Rokan Hilir_2023-11-20T06:00:00,Rokan Hilir,2023-11-20 06:00:00,3,Berawan,70,31,88
+Rokan Hilir_2023-11-20T12:00:00,Rokan Hilir,2023-11-20 12:00:00,60,Hujan Ringan,85,27,81
+Rokan Hilir_2023-11-20T18:00:00,Rokan Hilir,2023-11-20 18:00:00,3,Berawan,95,24,75
+Rokan Hulu_2023-11-20T00:00:00,Rokan Hulu,2023-11-20 00:00:00,3,Berawan,100,24,75
+Rokan Hulu_2023-11-20T06:00:00,Rokan Hulu,2023-11-20 06:00:00,3,Berawan,75,29,84
+Rokan Hulu_2023-11-20T12:00:00,Rokan Hulu,2023-11-20 12:00:00,60,Hujan Ringan,95,26,79
+Rokan Hulu_2023-11-20T18:00:00,Rokan Hulu,2023-11-20 18:00:00,60,Hujan Ringan,100,24,75
+Rote Ndao_2023-11-20T00:00:00,Rote Ndao,2023-11-20 00:00:00,0,,65,29,84
+Rote Ndao_2023-11-20T06:00:00,Rote Ndao,2023-11-20 06:00:00,1,Cerah Berawan,55,33,91
+Rote Ndao_2023-11-20T12:00:00,Rote Ndao,2023-11-20 12:00:00,0,,80,27,81
+Rote Ndao_2023-11-20T18:00:00,Rote Ndao,2023-11-20 18:00:00,0,,95,24,75
+Sabang_2023-11-20T00:00:00,Sabang,2023-11-20 00:00:00,60,Hujan Ringan,90,26,79
+Sabang_2023-11-20T06:00:00,Sabang,2023-11-20 06:00:00,1,Cerah Berawan,65,31,88
+Sabang_2023-11-20T12:00:00,Sabang,2023-11-20 12:00:00,1,Cerah Berawan,90,27,81
+Sabang_2023-11-20T18:00:00,Sabang,2023-11-20 18:00:00,60,Hujan Ringan,95,25,77
+Sabu Raijua_2023-11-20T00:00:00,Sabu Raijua,2023-11-20 00:00:00,1,Cerah Berawan,65,29,84
+Sabu Raijua_2023-11-20T06:00:00,Sabu Raijua,2023-11-20 06:00:00,1,Cerah Berawan,55,34,93
+Sabu Raijua_2023-11-20T12:00:00,Sabu Raijua,2023-11-20 12:00:00,0,,80,27,81
+Sabu Raijua_2023-11-20T18:00:00,Sabu Raijua,2023-11-20 18:00:00,1,Cerah Berawan,95,25,77
+Salatiga_2023-11-20T00:00:00,Salatiga,2023-11-20 00:00:00,3,Berawan,80,27,81
+Salatiga_2023-11-20T06:00:00,Salatiga,2023-11-20 06:00:00,3,Berawan,60,33,91
+Salatiga_2023-11-20T12:00:00,Salatiga,2023-11-20 12:00:00,3,Berawan,75,28,82
+Salatiga_2023-11-20T18:00:00,Salatiga,2023-11-20 18:00:00,3,Berawan,85,25,77
+Samarinda_2023-11-20T00:00:00,Samarinda,2023-11-20 00:00:00,60,Hujan Ringan,95,26,79
+Samarinda_2023-11-20T06:00:00,Samarinda,2023-11-20 06:00:00,60,Hujan Ringan,95,26,79
+Samarinda_2023-11-20T12:00:00,Samarinda,2023-11-20 12:00:00,60,Hujan Ringan,95,25,77
+Samarinda_2023-11-20T18:00:00,Samarinda,2023-11-20 18:00:00,60,Hujan Ringan,100,25,77
+Sambas_2023-11-20T00:00:00,Sambas,2023-11-20 00:00:00,1,Cerah Berawan,100,25,77
+Sambas_2023-11-20T06:00:00,Sambas,2023-11-20 06:00:00,60,Hujan Ringan,65,32,90
+Sambas_2023-11-20T12:00:00,Sambas,2023-11-20 12:00:00,1,Cerah Berawan,90,26,79
+Sambas_2023-11-20T18:00:00,Sambas,2023-11-20 18:00:00,1,Cerah Berawan,100,24,75
+Samosir_2023-11-20T00:00:00,Samosir,2023-11-20 00:00:00,1,Cerah Berawan,95,16,61
+Samosir_2023-11-20T06:00:00,Samosir,2023-11-20 06:00:00,61,Hujan Sedang,70,18,64
+Samosir_2023-11-20T12:00:00,Samosir,2023-11-20 12:00:00,61,Hujan Sedang,85,17,63
+Samosir_2023-11-20T18:00:00,Samosir,2023-11-20 18:00:00,3,Berawan,95,16,61
+Sampang_2023-11-20T00:00:00,Sampang,2023-11-20 00:00:00,0,,80,30,86
+Sampang_2023-11-20T06:00:00,Sampang,2023-11-20 06:00:00,0,,55,34,93
+Sampang_2023-11-20T12:00:00,Sampang,2023-11-20 12:00:00,0,,75,30,86
+Sampang_2023-11-20T18:00:00,Sampang,2023-11-20 18:00:00,3,Berawan,85,26,79
+Sanggau_2023-11-20T00:00:00,Sanggau,2023-11-20 00:00:00,1,Cerah Berawan,90,26,79
+Sanggau_2023-11-20T06:00:00,Sanggau,2023-11-20 06:00:00,60,Hujan Ringan,60,33,91
+Sanggau_2023-11-20T12:00:00,Sanggau,2023-11-20 12:00:00,3,Berawan,95,25,77
+Sanggau_2023-11-20T18:00:00,Sanggau,2023-11-20 18:00:00,3,Berawan,100,23,73
+Sangihe_2023-11-20T00:00:00,Sangihe,2023-11-20 00:00:00,3,Berawan,75,28,82
+Sangihe_2023-11-20T06:00:00,Sangihe,2023-11-20 06:00:00,1,Cerah Berawan,70,31,88
+Sangihe_2023-11-20T12:00:00,Sangihe,2023-11-20 12:00:00,60,Hujan Ringan,95,25,77
+Sangihe_2023-11-20T18:00:00,Sangihe,2023-11-20 18:00:00,1,Cerah Berawan,95,23,73
+Sarmi_2023-11-20T00:00:00,Sarmi,2023-11-20 00:00:00,3,Berawan,70,27,81
+Sarmi_2023-11-20T06:00:00,Sarmi,2023-11-20 06:00:00,1,Cerah Berawan,70,31,88
+Sarmi_2023-11-20T12:00:00,Sarmi,2023-11-20 12:00:00,3,Berawan,85,26,79
+Sarmi_2023-11-20T18:00:00,Sarmi,2023-11-20 18:00:00,1,Cerah Berawan,95,23,73
+Sarolangun_2023-11-20T00:00:00,Sarolangun,2023-11-20 00:00:00,3,Berawan,100,24,75
+Sarolangun_2023-11-20T06:00:00,Sarolangun,2023-11-20 06:00:00,60,Hujan Ringan,70,32,90
+Sarolangun_2023-11-20T12:00:00,Sarolangun,2023-11-20 12:00:00,60,Hujan Ringan,90,26,79
+Sarolangun_2023-11-20T18:00:00,Sarolangun,2023-11-20 18:00:00,60,Hujan Ringan,100,24,75
+Sawahlunto_2023-11-20T00:00:00,Sawahlunto,2023-11-20 00:00:00,1,Cerah Berawan,100,23,73
+Sawahlunto_2023-11-20T06:00:00,Sawahlunto,2023-11-20 06:00:00,1,Cerah Berawan,70,30,86
+Sawahlunto_2023-11-20T12:00:00,Sawahlunto,2023-11-20 12:00:00,3,Berawan,90,25,77
+Sawahlunto_2023-11-20T18:00:00,Sawahlunto,2023-11-20 18:00:00,45,Berkabut,100,23,73
+Sekadau_2023-11-20T00:00:00,Sekadau,2023-11-20 00:00:00,3,Berawan,95,25,77
+Sekadau_2023-11-20T06:00:00,Sekadau,2023-11-20 06:00:00,1,Cerah Berawan,60,33,91
+Sekadau_2023-11-20T12:00:00,Sekadau,2023-11-20 12:00:00,60,Hujan Ringan,90,26,79
+Sekadau_2023-11-20T18:00:00,Sekadau,2023-11-20 18:00:00,45,Berkabut,100,23,73
+Seluma_2023-11-20T00:00:00,Seluma,2023-11-20 00:00:00,1,Cerah Berawan,90,25,77
+Seluma_2023-11-20T06:00:00,Seluma,2023-11-20 06:00:00,1,Cerah Berawan,75,32,90
+Seluma_2023-11-20T12:00:00,Seluma,2023-11-20 12:00:00,1,Cerah Berawan,90,25,77
+Seluma_2023-11-20T18:00:00,Seluma,2023-11-20 18:00:00,3,Berawan,90,23,73
+Semarang_2023-11-20T00:00:00,Semarang,2023-11-20 00:00:00,1,Cerah Berawan,80,27,81
+Semarang_2023-11-20T06:00:00,Semarang,2023-11-20 06:00:00,3,Berawan,60,33,91
+Semarang_2023-11-20T12:00:00,Semarang,2023-11-20 12:00:00,60,Hujan Ringan,75,28,82
+Semarang_2023-11-20T18:00:00,Semarang,2023-11-20 18:00:00,3,Berawan,85,26,79
+Seram Bagian Barat_2023-11-20T00:00:00,Seram Bagian Barat,2023-11-20 00:00:00,1,Cerah Berawan,80,29,84
+Seram Bagian Barat_2023-11-20T06:00:00,Seram Bagian Barat,2023-11-20 06:00:00,60,Hujan Ringan,70,32,90
+Seram Bagian Barat_2023-11-20T12:00:00,Seram Bagian Barat,2023-11-20 12:00:00,3,Berawan,80,28,82
+Seram Bagian Barat_2023-11-20T18:00:00,Seram Bagian Barat,2023-11-20 18:00:00,1,Cerah Berawan,95,25,77
+Seram Bagian Timur_2023-11-20T00:00:00,Seram Bagian Timur,2023-11-20 00:00:00,3,Berawan,80,29,84
+Seram Bagian Timur_2023-11-20T06:00:00,Seram Bagian Timur,2023-11-20 06:00:00,3,Berawan,70,33,91
+Seram Bagian Timur_2023-11-20T12:00:00,Seram Bagian Timur,2023-11-20 12:00:00,3,Berawan,80,28,82
+Seram Bagian Timur_2023-11-20T18:00:00,Seram Bagian Timur,2023-11-20 18:00:00,3,Berawan,95,26,79
+Serang_2023-11-20T00:00:00,Serang,2023-11-20 00:00:00,1,Cerah Berawan,80,27,81
+Serang_2023-11-20T06:00:00,Serang,2023-11-20 06:00:00,3,Berawan,60,33,91
+Serang_2023-11-20T12:00:00,Serang,2023-11-20 12:00:00,3,Berawan,75,28,82
+Serang_2023-11-20T18:00:00,Serang,2023-11-20 18:00:00,3,Berawan,90,26,79
+Serdang Bedagai_2023-11-20T00:00:00,Serdang Bedagai,2023-11-20 00:00:00,1,Cerah Berawan,95,23,73
+Serdang Bedagai_2023-11-20T06:00:00,Serdang Bedagai,2023-11-20 06:00:00,61,Hujan Sedang,70,32,90
+Serdang Bedagai_2023-11-20T12:00:00,Serdang Bedagai,2023-11-20 12:00:00,3,Berawan,85,24,75
+Serdang Bedagai_2023-11-20T18:00:00,Serdang Bedagai,2023-11-20 18:00:00,3,Berawan,95,23,73
+Seruyan_2023-11-20T00:00:00,Seruyan,2023-11-20 00:00:00,3,Berawan,85,26,79
+Seruyan_2023-11-20T06:00:00,Seruyan,2023-11-20 06:00:00,3,Berawan,65,30,86
+Seruyan_2023-11-20T12:00:00,Seruyan,2023-11-20 12:00:00,3,Berawan,90,27,81
+Seruyan_2023-11-20T18:00:00,Seruyan,2023-11-20 18:00:00,3,Berawan,95,26,79
+Siak_2023-11-20T00:00:00,Siak,2023-11-20 00:00:00,3,Berawan,100,25,77
+Siak_2023-11-20T06:00:00,Siak,2023-11-20 06:00:00,3,Berawan,80,28,82
+Siak_2023-11-20T12:00:00,Siak,2023-11-20 12:00:00,1,Cerah Berawan,90,25,77
+Siak_2023-11-20T18:00:00,Siak,2023-11-20 18:00:00,60,Hujan Ringan,100,24,75
+Sibolga_2023-11-20T00:00:00,Sibolga,2023-11-20 00:00:00,1,Cerah Berawan,95,24,75
+Sibolga_2023-11-20T06:00:00,Sibolga,2023-11-20 06:00:00,61,Hujan Sedang,70,30,86
+Sibolga_2023-11-20T12:00:00,Sibolga,2023-11-20 12:00:00,3,Berawan,85,24,75
+Sibolga_2023-11-20T18:00:00,Sibolga,2023-11-20 18:00:00,3,Berawan,95,24,75
+Sidenreng Rappang_2023-11-20T00:00:00,Sidenreng Rappang,2023-11-20 00:00:00,1,Cerah Berawan,85,26,79
+Sidenreng Rappang_2023-11-20T06:00:00,Sidenreng Rappang,2023-11-20 06:00:00,60,Hujan Ringan,70,33,91
+Sidenreng Rappang_2023-11-20T12:00:00,Sidenreng Rappang,2023-11-20 12:00:00,3,Berawan,80,28,82
+Sidenreng Rappang_2023-11-20T18:00:00,Sidenreng Rappang,2023-11-20 18:00:00,3,Berawan,90,24,75
+Sidoarjo_2023-11-20T00:00:00,Sidoarjo,2023-11-20 00:00:00,0,,80,29,84
+Sidoarjo_2023-11-20T06:00:00,Sidoarjo,2023-11-20 06:00:00,0,,45,35,95
+Sidoarjo_2023-11-20T12:00:00,Sidoarjo,2023-11-20 12:00:00,0,,80,31,88
+Sidoarjo_2023-11-20T18:00:00,Sidoarjo,2023-11-20 18:00:00,1,Cerah Berawan,90,26,79
+Sigi Biromaru_2023-11-20T00:00:00,Sigi Biromaru,2023-11-20 00:00:00,1,Cerah Berawan,90,25,77
+Sigi Biromaru_2023-11-20T06:00:00,Sigi Biromaru,2023-11-20 06:00:00,95,Hujan Petir,65,33,91
+Sigi Biromaru_2023-11-20T12:00:00,Sigi Biromaru,2023-11-20 12:00:00,60,Hujan Ringan,95,23,73
+Sigi Biromaru_2023-11-20T18:00:00,Sigi Biromaru,2023-11-20 18:00:00,60,Hujan Ringan,95,21,70
+Sijunjung_2023-11-20T00:00:00,Sijunjung,2023-11-20 00:00:00,3,Berawan,100,23,73
+Sijunjung_2023-11-20T06:00:00,Sijunjung,2023-11-20 06:00:00,1,Cerah Berawan,70,30,86
+Sijunjung_2023-11-20T12:00:00,Sijunjung,2023-11-20 12:00:00,60,Hujan Ringan,100,24,75
+Sijunjung_2023-11-20T18:00:00,Sijunjung,2023-11-20 18:00:00,3,Berawan,100,23,73
+Sikka_2023-11-20T00:00:00,Sikka,2023-11-20 00:00:00,1,Cerah Berawan,70,29,84
+Sikka_2023-11-20T06:00:00,Sikka,2023-11-20 06:00:00,3,Berawan,50,32,90
+Sikka_2023-11-20T12:00:00,Sikka,2023-11-20 12:00:00,3,Berawan,80,27,81
+Sikka_2023-11-20T18:00:00,Sikka,2023-11-20 18:00:00,3,Berawan,95,23,73
+Simalungun_2023-11-20T00:00:00,Simalungun,2023-11-20 00:00:00,1,Cerah Berawan,95,20,68
+Simalungun_2023-11-20T06:00:00,Simalungun,2023-11-20 06:00:00,60,Hujan Ringan,70,23,73
+Simalungun_2023-11-20T12:00:00,Simalungun,2023-11-20 12:00:00,61,Hujan Sedang,85,21,70
+Simalungun_2023-11-20T18:00:00,Simalungun,2023-11-20 18:00:00,3,Berawan,95,20,68
+Simeulue_2023-11-20T00:00:00,Simeulue,2023-11-20 00:00:00,3,Berawan,90,25,77
+Simeulue_2023-11-20T06:00:00,Simeulue,2023-11-20 06:00:00,1,Cerah Berawan,65,31,88
+Simeulue_2023-11-20T12:00:00,Simeulue,2023-11-20 12:00:00,95,Hujan Petir,90,26,79
+Simeulue_2023-11-20T18:00:00,Simeulue,2023-11-20 18:00:00,60,Hujan Ringan,95,25,77
+Singkawang_2023-11-20T00:00:00,Singkawang,2023-11-20 00:00:00,1,Cerah Berawan,100,25,77
+Singkawang_2023-11-20T06:00:00,Singkawang,2023-11-20 06:00:00,3,Berawan,60,33,91
+Singkawang_2023-11-20T12:00:00,Singkawang,2023-11-20 12:00:00,4,Berawan Tebal,85,26,79
+Singkawang_2023-11-20T18:00:00,Singkawang,2023-11-20 18:00:00,60,Hujan Ringan,100,23,73
+Sinjai_2023-11-20T00:00:00,Sinjai,2023-11-20 00:00:00,1,Cerah Berawan,80,27,81
+Sinjai_2023-11-20T06:00:00,Sinjai,2023-11-20 06:00:00,3,Berawan,65,34,93
+Sinjai_2023-11-20T12:00:00,Sinjai,2023-11-20 12:00:00,3,Berawan,75,29,84
+Sinjai_2023-11-20T18:00:00,Sinjai,2023-11-20 18:00:00,3,Berawan,85,25,77
+Sintang_2023-11-20T00:00:00,Sintang,2023-11-20 00:00:00,3,Berawan,100,25,77
+Sintang_2023-11-20T06:00:00,Sintang,2023-11-20 06:00:00,1,Cerah Berawan,60,33,91
+Sintang_2023-11-20T12:00:00,Sintang,2023-11-20 12:00:00,63,Hujan Lebat,90,26,79
+Sintang_2023-11-20T18:00:00,Sintang,2023-11-20 18:00:00,60,Hujan Ringan,100,23,73
+Sitaro_2023-11-20T00:00:00,Sitaro,2023-11-20 00:00:00,60,Hujan Ringan,75,28,82
+Sitaro_2023-11-20T06:00:00,Sitaro,2023-11-20 06:00:00,1,Cerah Berawan,70,31,88
+Sitaro_2023-11-20T12:00:00,Sitaro,2023-11-20 12:00:00,3,Berawan,95,25,77
+Sitaro_2023-11-20T18:00:00,Sitaro,2023-11-20 18:00:00,1,Cerah Berawan,95,23,73
+Situbondo_2023-11-20T00:00:00,Situbondo,2023-11-20 00:00:00,0,,80,28,82
+Situbondo_2023-11-20T06:00:00,Situbondo,2023-11-20 06:00:00,0,,55,33,91
+Situbondo_2023-11-20T12:00:00,Situbondo,2023-11-20 12:00:00,1,Cerah Berawan,75,28,82
+Situbondo_2023-11-20T18:00:00,Situbondo,2023-11-20 18:00:00,0,,85,24,75
+Sleman_2023-11-20T00:00:00,Sleman,2023-11-20 00:00:00,3,Berawan,90,24,75
+Sleman_2023-11-20T06:00:00,Sleman,2023-11-20 06:00:00,60,Hujan Ringan,65,31,88
+Sleman_2023-11-20T12:00:00,Sleman,2023-11-20 12:00:00,3,Berawan,90,24,75
+Sleman_2023-11-20T18:00:00,Sleman,2023-11-20 18:00:00,3,Berawan,95,23,73
+Solok Selatan_2023-11-20T00:00:00,Solok Selatan,2023-11-20 00:00:00,1,Cerah Berawan,95,22,72
+Solok Selatan_2023-11-20T06:00:00,Solok Selatan,2023-11-20 06:00:00,1,Cerah Berawan,65,29,84
+Solok Selatan_2023-11-20T12:00:00,Solok Selatan,2023-11-20 12:00:00,3,Berawan,95,24,75
+Solok Selatan_2023-11-20T18:00:00,Solok Selatan,2023-11-20 18:00:00,3,Berawan,100,22,72
+Solok_2023-11-20T00:00:00,Solok,2023-11-20 00:00:00,1,Cerah Berawan,95,21,70
+Solok_2023-11-20T06:00:00,Solok,2023-11-20 06:00:00,1,Cerah Berawan,75,28,82
+Solok_2023-11-20T12:00:00,Solok,2023-11-20 12:00:00,3,Berawan,95,23,73
+Solok_2023-11-20T18:00:00,Solok,2023-11-20 18:00:00,3,Berawan,90,21,70
+Soppeng_2023-11-20T00:00:00,Soppeng,2023-11-20 00:00:00,1,Cerah Berawan,80,25,77
+Soppeng_2023-11-20T06:00:00,Soppeng,2023-11-20 06:00:00,60,Hujan Ringan,65,32,90
+Soppeng_2023-11-20T12:00:00,Soppeng,2023-11-20 12:00:00,3,Berawan,75,27,81
+Soppeng_2023-11-20T18:00:00,Soppeng,2023-11-20 18:00:00,3,Berawan,85,23,73
+Sorong Selatan_2023-11-20T00:00:00,Sorong Selatan,2023-11-20 00:00:00,3,Berawan,80,28,82
+Sorong Selatan_2023-11-20T06:00:00,Sorong Selatan,2023-11-20 06:00:00,60,Hujan Ringan,65,32,90
+Sorong Selatan_2023-11-20T12:00:00,Sorong Selatan,2023-11-20 12:00:00,60,Hujan Ringan,95,26,79
+Sorong Selatan_2023-11-20T18:00:00,Sorong Selatan,2023-11-20 18:00:00,3,Berawan,95,24,75
+Sorong_2023-11-20T00:00:00,Sorong,2023-11-20 00:00:00,3,Berawan,80,28,82
+Sorong_2023-11-20T06:00:00,Sorong,2023-11-20 06:00:00,60,Hujan Ringan,65,32,90
+Sorong_2023-11-20T12:00:00,Sorong,2023-11-20 12:00:00,3,Berawan,95,26,79
+Sorong_2023-11-20T18:00:00,Sorong,2023-11-20 18:00:00,3,Berawan,95,24,75
+Sragen_2023-11-20T00:00:00,Sragen,2023-11-20 00:00:00,3,Berawan,80,27,81
+Sragen_2023-11-20T06:00:00,Sragen,2023-11-20 06:00:00,3,Berawan,60,33,91
+Sragen_2023-11-20T12:00:00,Sragen,2023-11-20 12:00:00,3,Berawan,75,28,82
+Sragen_2023-11-20T18:00:00,Sragen,2023-11-20 18:00:00,3,Berawan,85,25,77
+Subang_2023-11-20T00:00:00,Subang,2023-11-20 00:00:00,1,Cerah Berawan,80,25,77
+Subang_2023-11-20T06:00:00,Subang,2023-11-20 06:00:00,60,Hujan Ringan,55,35,95
+Subang_2023-11-20T12:00:00,Subang,2023-11-20 12:00:00,60,Hujan Ringan,80,25,77
+Subang_2023-11-20T18:00:00,Subang,2023-11-20 18:00:00,1,Cerah Berawan,90,23,73
+Subulussalam_2023-11-20T00:00:00,Subulussalam,2023-11-20 00:00:00,3,Berawan,90,23,73
+Subulussalam_2023-11-20T06:00:00,Subulussalam,2023-11-20 06:00:00,60,Hujan Ringan,65,31,88
+Subulussalam_2023-11-20T12:00:00,Subulussalam,2023-11-20 12:00:00,60,Hujan Ringan,90,24,75
+Subulussalam_2023-11-20T18:00:00,Subulussalam,2023-11-20 18:00:00,3,Berawan,95,23,73
+Sukabumi_2023-11-20T00:00:00,Sukabumi,2023-11-20 00:00:00,1,Cerah Berawan,85,25,77
+Sukabumi_2023-11-20T06:00:00,Sukabumi,2023-11-20 06:00:00,1,Cerah Berawan,55,32,90
+Sukabumi_2023-11-20T12:00:00,Sukabumi,2023-11-20 12:00:00,60,Hujan Ringan,80,25,77
+Sukabumi_2023-11-20T18:00:00,Sukabumi,2023-11-20 18:00:00,3,Berawan,90,22,72
+Sukamara_2023-11-20T00:00:00,Sukamara,2023-11-20 00:00:00,3,Berawan,85,26,79
+Sukamara_2023-11-20T06:00:00,Sukamara,2023-11-20 06:00:00,60,Hujan Ringan,60,32,90
+Sukamara_2023-11-20T12:00:00,Sukamara,2023-11-20 12:00:00,3,Berawan,90,26,79
+Sukamara_2023-11-20T18:00:00,Sukamara,2023-11-20 18:00:00,3,Berawan,95,24,75
+Sukoharjo_2023-11-20T00:00:00,Sukoharjo,2023-11-20 00:00:00,3,Berawan,80,27,81
+Sukoharjo_2023-11-20T06:00:00,Sukoharjo,2023-11-20 06:00:00,3,Berawan,60,33,91
+Sukoharjo_2023-11-20T12:00:00,Sukoharjo,2023-11-20 12:00:00,3,Berawan,75,28,82
+Sukoharjo_2023-11-20T18:00:00,Sukoharjo,2023-11-20 18:00:00,3,Berawan,85,24,75
+Sumba Barat Daya_2023-11-20T00:00:00,Sumba Barat Daya,2023-11-20 00:00:00,0,,65,29,84
+Sumba Barat Daya_2023-11-20T06:00:00,Sumba Barat Daya,2023-11-20 06:00:00,1,Cerah Berawan,50,34,93
+Sumba Barat Daya_2023-11-20T12:00:00,Sumba Barat Daya,2023-11-20 12:00:00,3,Berawan,80,27,81
+Sumba Barat Daya_2023-11-20T18:00:00,Sumba Barat Daya,2023-11-20 18:00:00,3,Berawan,90,25,77
+Sumba Barat_2023-11-20T00:00:00,Sumba Barat,2023-11-20 00:00:00,0,,65,29,84
+Sumba Barat_2023-11-20T06:00:00,Sumba Barat,2023-11-20 06:00:00,1,Cerah Berawan,50,34,93
+Sumba Barat_2023-11-20T12:00:00,Sumba Barat,2023-11-20 12:00:00,1,Cerah Berawan,80,27,81
+Sumba Barat_2023-11-20T18:00:00,Sumba Barat,2023-11-20 18:00:00,3,Berawan,90,25,77
+Sumba Tengah_2023-11-20T00:00:00,Sumba Tengah,2023-11-20 00:00:00,0,,65,29,84
+Sumba Tengah_2023-11-20T06:00:00,Sumba Tengah,2023-11-20 06:00:00,1,Cerah Berawan,50,34,93
+Sumba Tengah_2023-11-20T12:00:00,Sumba Tengah,2023-11-20 12:00:00,3,Berawan,80,27,81
+Sumba Tengah_2023-11-20T18:00:00,Sumba Tengah,2023-11-20 18:00:00,3,Berawan,90,25,77
+Sumba Timur_2023-11-20T00:00:00,Sumba Timur,2023-11-20 00:00:00,1,Cerah Berawan,65,29,84
+Sumba Timur_2023-11-20T06:00:00,Sumba Timur,2023-11-20 06:00:00,1,Cerah Berawan,50,34,93
+Sumba Timur_2023-11-20T12:00:00,Sumba Timur,2023-11-20 12:00:00,0,,80,27,81
+Sumba Timur_2023-11-20T18:00:00,Sumba Timur,2023-11-20 18:00:00,3,Berawan,90,25,77
+Sumbawa Barat_2023-11-20T00:00:00,Sumbawa Barat,2023-11-20 00:00:00,60,Hujan Ringan,75,28,82
+Sumbawa Barat_2023-11-20T06:00:00,Sumbawa Barat,2023-11-20 06:00:00,60,Hujan Ringan,50,33,91
+Sumbawa Barat_2023-11-20T12:00:00,Sumbawa Barat,2023-11-20 12:00:00,3,Berawan,80,26,79
+Sumbawa Barat_2023-11-20T18:00:00,Sumbawa Barat,2023-11-20 18:00:00,1,Cerah Berawan,95,24,75
+Sumbawa_2023-11-20T00:00:00,Sumbawa,2023-11-20 00:00:00,3,Berawan,75,29,84
+Sumbawa_2023-11-20T06:00:00,Sumbawa,2023-11-20 06:00:00,60,Hujan Ringan,55,35,95
+Sumbawa_2023-11-20T12:00:00,Sumbawa,2023-11-20 12:00:00,3,Berawan,70,28,82
+Sumbawa_2023-11-20T18:00:00,Sumbawa,2023-11-20 18:00:00,1,Cerah Berawan,95,25,77
+Sumedang_2023-11-20T00:00:00,Sumedang,2023-11-20 00:00:00,1,Cerah Berawan,80,25,77
+Sumedang_2023-11-20T06:00:00,Sumedang,2023-11-20 06:00:00,60,Hujan Ringan,55,31,88
+Sumedang_2023-11-20T12:00:00,Sumedang,2023-11-20 12:00:00,1,Cerah Berawan,80,25,77
+Sumedang_2023-11-20T18:00:00,Sumedang,2023-11-20 18:00:00,3,Berawan,90,23,73
+Sumenep_2023-11-20T00:00:00,Sumenep,2023-11-20 00:00:00,0,,85,30,86
+Sumenep_2023-11-20T06:00:00,Sumenep,2023-11-20 06:00:00,0,,55,34,93
+Sumenep_2023-11-20T12:00:00,Sumenep,2023-11-20 12:00:00,0,,80,29,84
+Sumenep_2023-11-20T18:00:00,Sumenep,2023-11-20 18:00:00,1,Cerah Berawan,90,26,79
+Sungai Penuh_2023-11-20T00:00:00,Sungai Penuh,2023-11-20 00:00:00,3,Berawan,100,19,66
+Sungai Penuh_2023-11-20T06:00:00,Sungai Penuh,2023-11-20 06:00:00,95,Hujan Petir,80,28,82
+Sungai Penuh_2023-11-20T12:00:00,Sungai Penuh,2023-11-20 12:00:00,3,Berawan,100,19,66
+Sungai Penuh_2023-11-20T18:00:00,Sungai Penuh,2023-11-20 18:00:00,45,Berkabut,95,18,64
+Supiori _2023-11-20T00:00:00,Supiori,2023-11-20 00:00:00,3,Berawan,70,27,81
+Supiori _2023-11-20T06:00:00,Supiori,2023-11-20 06:00:00,1,Cerah Berawan,70,31,88
+Supiori _2023-11-20T12:00:00,Supiori,2023-11-20 12:00:00,1,Cerah Berawan,85,26,79
+Supiori _2023-11-20T18:00:00,Supiori,2023-11-20 18:00:00,60,Hujan Ringan,95,23,73
+Surabaya_2023-11-20T00:00:00,Surabaya,2023-11-20 00:00:00,0,,80,29,84
+Surabaya_2023-11-20T06:00:00,Surabaya,2023-11-20 06:00:00,0,,45,35,95
+Surabaya_2023-11-20T12:00:00,Surabaya,2023-11-20 12:00:00,0,,75,30,86
+Surabaya_2023-11-20T18:00:00,Surabaya,2023-11-20 18:00:00,1,Cerah Berawan,85,26,79
+Surakarta_2023-11-20T00:00:00,Surakarta,2023-11-20 00:00:00,3,Berawan,80,27,81
+Surakarta_2023-11-20T06:00:00,Surakarta,2023-11-20 06:00:00,3,Berawan,60,33,91
+Surakarta_2023-11-20T12:00:00,Surakarta,2023-11-20 12:00:00,3,Berawan,75,28,82
+Surakarta_2023-11-20T18:00:00,Surakarta,2023-11-20 18:00:00,3,Berawan,85,25,77
+Tabalong_2023-11-20T00:00:00,Tabalong,2023-11-20 00:00:00,3,Berawan,90,27,81
+Tabalong_2023-11-20T06:00:00,Tabalong,2023-11-20 06:00:00,60,Hujan Ringan,60,33,91
+Tabalong_2023-11-20T12:00:00,Tabalong,2023-11-20 12:00:00,60,Hujan Ringan,85,26,79
+Tabalong_2023-11-20T18:00:00,Tabalong,2023-11-20 18:00:00,3,Berawan,95,24,75
+Tabanan_2023-11-20T00:00:00,Tabanan,2023-11-20 00:00:00,3,Berawan,85,28,82
+Tabanan_2023-11-20T06:00:00,Tabanan,2023-11-20 06:00:00,3,Berawan,65,32,90
+Tabanan_2023-11-20T12:00:00,Tabanan,2023-11-20 12:00:00,1,Cerah Berawan,80,28,82
+Tabanan_2023-11-20T18:00:00,Tabanan,2023-11-20 18:00:00,1,Cerah Berawan,80,26,79
+Takalar_2023-11-20T00:00:00,Takalar,2023-11-20 00:00:00,1,Cerah Berawan,80,27,81
+Takalar_2023-11-20T06:00:00,Takalar,2023-11-20 06:00:00,60,Hujan Ringan,70,34,93
+Takalar_2023-11-20T12:00:00,Takalar,2023-11-20 12:00:00,3,Berawan,80,29,84
+Takalar_2023-11-20T18:00:00,Takalar,2023-11-20 18:00:00,3,Berawan,90,25,77
+Talaud_2023-11-20T00:00:00,Talaud,2023-11-20 00:00:00,3,Berawan,75,28,82
+Talaud_2023-11-20T06:00:00,Talaud,2023-11-20 06:00:00,60,Hujan Ringan,70,31,88
+Talaud_2023-11-20T12:00:00,Talaud,2023-11-20 12:00:00,60,Hujan Ringan,95,25,77
+Talaud_2023-11-20T18:00:00,Talaud,2023-11-20 18:00:00,60,Hujan Ringan,95,23,73
+Tana Tidung_2023-11-20T00:00:00,Tana Tidung,2023-11-20 00:00:00,1,Cerah Berawan,90,25,77
+Tana Tidung_2023-11-20T06:00:00,Tana Tidung,2023-11-20 06:00:00,1,Cerah Berawan,60,33,91
+Tana Tidung_2023-11-20T12:00:00,Tana Tidung,2023-11-20 12:00:00,95,Hujan Petir,95,25,77
+Tana Tidung_2023-11-20T18:00:00,Tana Tidung,2023-11-20 18:00:00,3,Berawan,95,24,75
+Tana Toraja_2023-11-20T00:00:00,Tana Toraja,2023-11-20 00:00:00,3,Berawan,85,22,72
+Tana Toraja_2023-11-20T06:00:00,Tana Toraja,2023-11-20 06:00:00,60,Hujan Ringan,70,30,86
+Tana Toraja_2023-11-20T12:00:00,Tana Toraja,2023-11-20 12:00:00,3,Berawan,80,24,75
+Tana Toraja_2023-11-20T18:00:00,Tana Toraja,2023-11-20 18:00:00,3,Berawan,90,20,68
+Tanah Bambu_2023-11-20T00:00:00,Tanah Bambu,2023-11-20 00:00:00,60,Hujan Ringan,90,27,81
+Tanah Bambu_2023-11-20T06:00:00,Tanah Bambu,2023-11-20 06:00:00,60,Hujan Ringan,60,33,91
+Tanah Bambu_2023-11-20T12:00:00,Tanah Bambu,2023-11-20 12:00:00,3,Berawan,85,26,79
+Tanah Bambu_2023-11-20T18:00:00,Tanah Bambu,2023-11-20 18:00:00,1,Cerah Berawan,95,24,75
+Tanah Datar_2023-11-20T00:00:00,Tanah Datar,2023-11-20 00:00:00,45,Berkabut,100,22,72
+Tanah Datar_2023-11-20T06:00:00,Tanah Datar,2023-11-20 06:00:00,1,Cerah Berawan,65,30,86
+Tanah Datar_2023-11-20T12:00:00,Tanah Datar,2023-11-20 12:00:00,3,Berawan,90,24,75
+Tanah Datar_2023-11-20T18:00:00,Tanah Datar,2023-11-20 18:00:00,3,Berawan,95,22,72
+Tanah Laut_2023-11-20T00:00:00,Tanah Laut,2023-11-20 00:00:00,60,Hujan Ringan,90,27,81
+Tanah Laut_2023-11-20T06:00:00,Tanah Laut,2023-11-20 06:00:00,60,Hujan Ringan,60,33,91
+Tanah Laut_2023-11-20T12:00:00,Tanah Laut,2023-11-20 12:00:00,3,Berawan,85,26,79
+Tanah Laut_2023-11-20T18:00:00,Tanah Laut,2023-11-20 18:00:00,3,Berawan,95,24,75
+Tangerang Selatan_2023-11-20T00:00:00,Tangerang Selatan,2023-11-20 00:00:00,1,Cerah Berawan,80,27,81
+Tangerang Selatan_2023-11-20T06:00:00,Tangerang Selatan,2023-11-20 06:00:00,3,Berawan,60,33,91
+Tangerang Selatan_2023-11-20T12:00:00,Tangerang Selatan,2023-11-20 12:00:00,3,Berawan,80,27,81
+Tangerang Selatan_2023-11-20T18:00:00,Tangerang Selatan,2023-11-20 18:00:00,60,Hujan Ringan,95,24,75
+Tangerang_2023-11-20T00:00:00,Tangerang,2023-11-20 00:00:00,1,Cerah Berawan,80,27,81
+Tangerang_2023-11-20T06:00:00,Tangerang,2023-11-20 06:00:00,3,Berawan,60,33,91
+Tangerang_2023-11-20T12:00:00,Tangerang,2023-11-20 12:00:00,3,Berawan,80,27,81
+Tangerang_2023-11-20T18:00:00,Tangerang,2023-11-20 18:00:00,60,Hujan Ringan,95,24,75
+Tanggamus_2023-11-20T00:00:00,Tanggamus,2023-11-20 00:00:00,3,Berawan,95,24,75
+Tanggamus_2023-11-20T06:00:00,Tanggamus,2023-11-20 06:00:00,1,Cerah Berawan,75,26,79
+Tanggamus_2023-11-20T12:00:00,Tanggamus,2023-11-20 12:00:00,3,Berawan,90,24,75
+Tanggamus_2023-11-20T18:00:00,Tanggamus,2023-11-20 18:00:00,60,Hujan Ringan,95,24,75
+Tanjung Balai_2023-11-20T00:00:00,Tanjung Balai,2023-11-20 00:00:00,1,Cerah Berawan,95,24,75
+Tanjung Balai_2023-11-20T06:00:00,Tanjung Balai,2023-11-20 06:00:00,1,Cerah Berawan,70,32,90
+Tanjung Balai_2023-11-20T12:00:00,Tanjung Balai,2023-11-20 12:00:00,3,Berawan,85,26,79
+Tanjung Balai_2023-11-20T18:00:00,Tanjung Balai,2023-11-20 18:00:00,3,Berawan,95,23,73
+Tanjung Jabung Barat_2023-11-20T00:00:00,Tanjung Jabung Barat,2023-11-20 00:00:00,3,Berawan,100,25,77
+Tanjung Jabung Barat_2023-11-20T06:00:00,Tanjung Jabung Barat,2023-11-20 06:00:00,3,Berawan,75,33,91
+Tanjung Jabung Barat_2023-11-20T12:00:00,Tanjung Jabung Barat,2023-11-20 12:00:00,95,Hujan Petir,95,28,82
+Tanjung Jabung Barat_2023-11-20T18:00:00,Tanjung Jabung Barat,2023-11-20 18:00:00,95,Hujan Petir,100,24,75
+Tanjung Jabung Timur_2023-11-20T00:00:00,Tanjung Jabung Timur,2023-11-20 00:00:00,3,Berawan,100,25,77
+Tanjung Jabung Timur_2023-11-20T06:00:00,Tanjung Jabung Timur,2023-11-20 06:00:00,3,Berawan,75,33,91
+Tanjung Jabung Timur_2023-11-20T12:00:00,Tanjung Jabung Timur,2023-11-20 12:00:00,60,Hujan Ringan,90,28,82
+Tanjung Jabung Timur_2023-11-20T18:00:00,Tanjung Jabung Timur,2023-11-20 18:00:00,95,Hujan Petir,100,24,75
+Tanjung Pinang_2023-11-20T00:00:00,Tanjung Pinang,2023-11-20 00:00:00,1,Cerah Berawan,90,25,77
+Tanjung Pinang_2023-11-20T06:00:00,Tanjung Pinang,2023-11-20 06:00:00,61,Hujan Sedang,65,32,90
+Tanjung Pinang_2023-11-20T12:00:00,Tanjung Pinang,2023-11-20 12:00:00,95,Hujan Petir,90,26,79
+Tanjung Pinang_2023-11-20T18:00:00,Tanjung Pinang,2023-11-20 18:00:00,60,Hujan Ringan,95,24,75
+Tapanuli Selatan_2023-11-20T00:00:00,Tapanuli Selatan,2023-11-20 00:00:00,1,Cerah Berawan,95,19,66
+Tapanuli Selatan_2023-11-20T06:00:00,Tapanuli Selatan,2023-11-20 06:00:00,61,Hujan Sedang,70,31,88
+Tapanuli Selatan_2023-11-20T12:00:00,Tapanuli Selatan,2023-11-20 12:00:00,61,Hujan Sedang,85,25,77
+Tapanuli Selatan_2023-11-20T18:00:00,Tapanuli Selatan,2023-11-20 18:00:00,3,Berawan,95,20,68
+Tapanuli Tengah_2023-11-20T00:00:00,Tapanuli Tengah,2023-11-20 00:00:00,1,Cerah Berawan,95,31,88
+Tapanuli Tengah_2023-11-20T06:00:00,Tapanuli Tengah,2023-11-20 06:00:00,61,Hujan Sedang,70,30,86
+Tapanuli Tengah_2023-11-20T12:00:00,Tapanuli Tengah,2023-11-20 12:00:00,3,Berawan,85,26,79
+Tapanuli Tengah_2023-11-20T18:00:00,Tapanuli Tengah,2023-11-20 18:00:00,3,Berawan,95,21,70
+Tapanuli Utara_2023-11-20T00:00:00,Tapanuli Utara,2023-11-20 00:00:00,1,Cerah Berawan,95,19,66
+Tapanuli Utara_2023-11-20T06:00:00,Tapanuli Utara,2023-11-20 06:00:00,60,Hujan Ringan,70,21,70
+Tapanuli Utara_2023-11-20T12:00:00,Tapanuli Utara,2023-11-20 12:00:00,61,Hujan Sedang,85,19,66
+Tapanuli Utara_2023-11-20T18:00:00,Tapanuli Utara,2023-11-20 18:00:00,3,Berawan,95,19,66
+Tapin_2023-11-20T00:00:00,Tapin,2023-11-20 00:00:00,3,Berawan,90,27,81
+Tapin_2023-11-20T06:00:00,Tapin,2023-11-20 06:00:00,95,Hujan Petir,60,33,91
+Tapin_2023-11-20T12:00:00,Tapin,2023-11-20 12:00:00,3,Berawan,85,26,79
+Tapin_2023-11-20T18:00:00,Tapin,2023-11-20 18:00:00,1,Cerah Berawan,95,24,75
+Tarakan_2023-11-20T00:00:00,Tarakan,2023-11-20 00:00:00,1,Cerah Berawan,85,27,81
+Tarakan_2023-11-20T06:00:00,Tarakan,2023-11-20 06:00:00,1,Cerah Berawan,75,33,91
+Tarakan_2023-11-20T12:00:00,Tarakan,2023-11-20 12:00:00,1,Cerah Berawan,95,25,77
+Tarakan_2023-11-20T18:00:00,Tarakan,2023-11-20 18:00:00,3,Berawan,90,24,75
+Tasikmalaya_2023-11-20T00:00:00,Tasikmalaya,2023-11-20 00:00:00,1,Cerah Berawan,85,25,77
+Tasikmalaya_2023-11-20T06:00:00,Tasikmalaya,2023-11-20 06:00:00,60,Hujan Ringan,55,32,90
+Tasikmalaya_2023-11-20T12:00:00,Tasikmalaya,2023-11-20 12:00:00,60,Hujan Ringan,80,25,77
+Tasikmalaya_2023-11-20T18:00:00,Tasikmalaya,2023-11-20 18:00:00,60,Hujan Ringan,90,22,72
+Tebing Tinggi_2023-11-20T00:00:00,Tebing Tinggi,2023-11-20 00:00:00,1,Cerah Berawan,95,23,73
+Tebing Tinggi_2023-11-20T06:00:00,Tebing Tinggi,2023-11-20 06:00:00,61,Hujan Sedang,70,32,90
+Tebing Tinggi_2023-11-20T12:00:00,Tebing Tinggi,2023-11-20 12:00:00,3,Berawan,85,24,75
+Tebing Tinggi_2023-11-20T18:00:00,Tebing Tinggi,2023-11-20 18:00:00,3,Berawan,95,23,73
+Tebo_2023-11-20T00:00:00,Tebo,2023-11-20 00:00:00,3,Berawan,100,24,75
+Tebo_2023-11-20T06:00:00,Tebo,2023-11-20 06:00:00,3,Berawan,65,32,90
+Tebo_2023-11-20T12:00:00,Tebo,2023-11-20 12:00:00,95,Hujan Petir,100,25,77
+Tebo_2023-11-20T18:00:00,Tebo,2023-11-20 18:00:00,60,Hujan Ringan,100,23,73
+Tegal_2023-11-20T00:00:00,Tegal,2023-11-20 00:00:00,3,Berawan,80,27,81
+Tegal_2023-11-20T06:00:00,Tegal,2023-11-20 06:00:00,3,Berawan,55,33,91
+Tegal_2023-11-20T12:00:00,Tegal,2023-11-20 12:00:00,3,Berawan,80,27,81
+Tegal_2023-11-20T18:00:00,Tegal,2023-11-20 18:00:00,3,Berawan,85,24,75
+Teluk Bintuni_2023-11-20T00:00:00,Teluk Bintuni,2023-11-20 00:00:00,3,Berawan,80,28,82
+Teluk Bintuni_2023-11-20T06:00:00,Teluk Bintuni,2023-11-20 06:00:00,1,Cerah Berawan,65,32,90
+Teluk Bintuni_2023-11-20T12:00:00,Teluk Bintuni,2023-11-20 12:00:00,1,Cerah Berawan,95,26,79
+Teluk Bintuni_2023-11-20T18:00:00,Teluk Bintuni,2023-11-20 18:00:00,3,Berawan,95,24,75
+Teluk Wondama_2023-11-20T00:00:00,Teluk Wondama,2023-11-20 00:00:00,3,Berawan,80,28,82
+Teluk Wondama_2023-11-20T06:00:00,Teluk Wondama,2023-11-20 06:00:00,60,Hujan Ringan,65,32,90
+Teluk Wondama_2023-11-20T12:00:00,Teluk Wondama,2023-11-20 12:00:00,3,Berawan,95,26,79
+Teluk Wondama_2023-11-20T18:00:00,Teluk Wondama,2023-11-20 18:00:00,3,Berawan,95,24,75
+Temanggung_2023-11-20T00:00:00,Temanggung,2023-11-20 00:00:00,3,Berawan,85,26,79
+Temanggung_2023-11-20T06:00:00,Temanggung,2023-11-20 06:00:00,3,Berawan,60,31,88
+Temanggung_2023-11-20T12:00:00,Temanggung,2023-11-20 12:00:00,3,Berawan,80,27,81
+Temanggung_2023-11-20T18:00:00,Temanggung,2023-11-20 18:00:00,3,Berawan,85,24,75
+Ternate_2023-11-20T00:00:00,Ternate,2023-11-20 00:00:00,3,Berawan,75,28,82
+Ternate_2023-11-20T06:00:00,Ternate,2023-11-20 06:00:00,3,Berawan,65,32,90
+Ternate_2023-11-20T12:00:00,Ternate,2023-11-20 12:00:00,1,Cerah Berawan,80,27,81
+Ternate_2023-11-20T18:00:00,Ternate,2023-11-20 18:00:00,1,Cerah Berawan,95,25,77
+Tidore Kepulauan_2023-11-20T00:00:00,Tidore Kepulauan,2023-11-20 00:00:00,1,Cerah Berawan,75,28,82
+Tidore Kepulauan_2023-11-20T06:00:00,Tidore Kepulauan,2023-11-20 06:00:00,3,Berawan,65,32,90
+Tidore Kepulauan_2023-11-20T12:00:00,Tidore Kepulauan,2023-11-20 12:00:00,1,Cerah Berawan,80,27,81
+Tidore Kepulauan_2023-11-20T18:00:00,Tidore Kepulauan,2023-11-20 18:00:00,1,Cerah Berawan,95,25,77
+Timor Tengah Selatan_2023-11-20T00:00:00,Timor Tengah Selatan,2023-11-20 00:00:00,1,Cerah Berawan,65,25,77
+Timor Tengah Selatan_2023-11-20T06:00:00,Timor Tengah Selatan,2023-11-20 06:00:00,1,Cerah Berawan,60,30,86
+Timor Tengah Selatan_2023-11-20T12:00:00,Timor Tengah Selatan,2023-11-20 12:00:00,0,,80,23,73
+Timor Tengah Selatan_2023-11-20T18:00:00,Timor Tengah Selatan,2023-11-20 18:00:00,0,,95,23,73
+Timor Tengah Utara_2023-11-20T00:00:00,Timor Tengah Utara,2023-11-20 00:00:00,1,Cerah Berawan,65,29,84
+Timor Tengah Utara_2023-11-20T06:00:00,Timor Tengah Utara,2023-11-20 06:00:00,1,Cerah Berawan,55,34,93
+Timor Tengah Utara_2023-11-20T12:00:00,Timor Tengah Utara,2023-11-20 12:00:00,0,,80,27,81
+Timor Tengah Utara_2023-11-20T18:00:00,Timor Tengah Utara,2023-11-20 18:00:00,0,,95,25,77
+Toba Samosir_2023-11-20T00:00:00,Toba Samosir,2023-11-20 00:00:00,1,Cerah Berawan,95,18,64
+Toba Samosir_2023-11-20T06:00:00,Toba Samosir,2023-11-20 06:00:00,60,Hujan Ringan,70,22,72
+Toba Samosir_2023-11-20T12:00:00,Toba Samosir,2023-11-20 12:00:00,61,Hujan Sedang,85,19,66
+Toba Samosir_2023-11-20T18:00:00,Toba Samosir,2023-11-20 18:00:00,3,Berawan,95,18,64
+Tojo Una-Una_2023-11-20T00:00:00,Tojo Una-Una,2023-11-20 00:00:00,60,Hujan Ringan,90,26,79
+Tojo Una-Una_2023-11-20T06:00:00,Tojo Una-Una,2023-11-20 06:00:00,95,Hujan Petir,65,33,91
+Tojo Una-Una_2023-11-20T12:00:00,Tojo Una-Una,2023-11-20 12:00:00,60,Hujan Ringan,95,25,77
+Tojo Una-Una_2023-11-20T18:00:00,Tojo Una-Una,2023-11-20 18:00:00,60,Hujan Ringan,95,24,75
+Toli-Toli_2023-11-20T00:00:00,Toli-Toli,2023-11-20 00:00:00,1,Cerah Berawan,85,26,79
+Toli-Toli_2023-11-20T06:00:00,Toli-Toli,2023-11-20 06:00:00,60,Hujan Ringan,65,33,91
+Toli-Toli_2023-11-20T12:00:00,Toli-Toli,2023-11-20 12:00:00,1,Cerah Berawan,90,23,73
+Toli-Toli_2023-11-20T18:00:00,Toli-Toli,2023-11-20 18:00:00,1,Cerah Berawan,95,22,72
+Tolikara _2023-11-20T00:00:00,Tolikara,2023-11-20 00:00:00,3,Berawan,70,20,68
+Tolikara _2023-11-20T06:00:00,Tolikara,2023-11-20 06:00:00,3,Berawan,70,24,75
+Tolikara _2023-11-20T12:00:00,Tolikara,2023-11-20 12:00:00,3,Berawan,85,19,66
+Tolikara _2023-11-20T18:00:00,Tolikara,2023-11-20 18:00:00,3,Berawan,95,16,61
+Tomohon_2023-11-20T00:00:00,Tomohon,2023-11-20 00:00:00,3,Berawan,75,28,82
+Tomohon_2023-11-20T06:00:00,Tomohon,2023-11-20 06:00:00,60,Hujan Ringan,70,29,84
+Tomohon_2023-11-20T12:00:00,Tomohon,2023-11-20 12:00:00,60,Hujan Ringan,95,25,77
+Tomohon_2023-11-20T18:00:00,Tomohon,2023-11-20 18:00:00,3,Berawan,95,19,66
+Toraja Utara_2023-11-20T00:00:00,Toraja Utara,2023-11-20 00:00:00,3,Berawan,85,22,72
+Toraja Utara_2023-11-20T06:00:00,Toraja Utara,2023-11-20 06:00:00,61,Hujan Sedang,70,30,86
+Toraja Utara_2023-11-20T12:00:00,Toraja Utara,2023-11-20 12:00:00,3,Berawan,80,24,75
+Toraja Utara_2023-11-20T18:00:00,Toraja Utara,2023-11-20 18:00:00,3,Berawan,90,20,68
+Trenggalek_2023-11-20T00:00:00,Trenggalek,2023-11-20 00:00:00,1,Cerah Berawan,80,23,73
+Trenggalek_2023-11-20T06:00:00,Trenggalek,2023-11-20 06:00:00,1,Cerah Berawan,60,32,90
+Trenggalek_2023-11-20T12:00:00,Trenggalek,2023-11-20 12:00:00,1,Cerah Berawan,80,24,75
+Trenggalek_2023-11-20T18:00:00,Trenggalek,2023-11-20 18:00:00,3,Berawan,90,22,72
+Tuban_2023-11-20T00:00:00,Tuban,2023-11-20 00:00:00,0,,80,28,82
+Tuban_2023-11-20T06:00:00,Tuban,2023-11-20 06:00:00,0,,55,32,90
+Tuban_2023-11-20T12:00:00,Tuban,2023-11-20 12:00:00,1,Cerah Berawan,80,29,84
+Tuban_2023-11-20T18:00:00,Tuban,2023-11-20 18:00:00,3,Berawan,90,25,77
+Tulang Bawang Barat_2023-11-20T00:00:00,Tulang Bawang Barat,2023-11-20 00:00:00,3,Berawan,100,25,77
+Tulang Bawang Barat_2023-11-20T06:00:00,Tulang Bawang Barat,2023-11-20 06:00:00,1,Cerah Berawan,55,32,90
+Tulang Bawang Barat_2023-11-20T12:00:00,Tulang Bawang Barat,2023-11-20 12:00:00,1,Cerah Berawan,70,28,82
+Tulang Bawang Barat_2023-11-20T18:00:00,Tulang Bawang Barat,2023-11-20 18:00:00,60,Hujan Ringan,80,25,77
+Tulang Bawang_2023-11-20T00:00:00,Tulang Bawang,2023-11-20 00:00:00,0,Cerah,85,26,79
+Tulang Bawang_2023-11-20T06:00:00,Tulang Bawang,2023-11-20 06:00:00,1,Cerah Berawan,45,34,93
+Tulang Bawang_2023-11-20T12:00:00,Tulang Bawang,2023-11-20 12:00:00,1,Cerah Berawan,70,29,84
+Tulang Bawang_2023-11-20T18:00:00,Tulang Bawang,2023-11-20 18:00:00,1,Cerah Berawan,85,25,77
+Tulungagung_2023-11-20T00:00:00,Tulungagung,2023-11-20 00:00:00,1,Cerah Berawan,80,26,79
+Tulungagung_2023-11-20T06:00:00,Tulungagung,2023-11-20 06:00:00,1,Cerah Berawan,60,31,88
+Tulungagung_2023-11-20T12:00:00,Tulungagung,2023-11-20 12:00:00,1,Cerah Berawan,80,26,79
+Tulungagung_2023-11-20T18:00:00,Tulungagung,2023-11-20 18:00:00,3,Berawan,90,23,73
+Wajo_2023-11-20T00:00:00,Wajo,2023-11-20 00:00:00,1,Cerah Berawan,80,26,79
+Wajo_2023-11-20T06:00:00,Wajo,2023-11-20 06:00:00,60,Hujan Ringan,65,33,91
+Wajo_2023-11-20T12:00:00,Wajo,2023-11-20 12:00:00,3,Berawan,75,28,82
+Wajo_2023-11-20T18:00:00,Wajo,2023-11-20 18:00:00,3,Berawan,85,24,75
+Wakatobi_2023-11-20T00:00:00,Wakatobi,2023-11-20 00:00:00,3,Berawan,75,29,84
+Wakatobi_2023-11-20T06:00:00,Wakatobi,2023-11-20 06:00:00,0,Cerah,55,33,91
+Wakatobi_2023-11-20T12:00:00,Wakatobi,2023-11-20 12:00:00,1,Cerah Berawan,80,27,81
+Wakatobi_2023-11-20T18:00:00,Wakatobi,2023-11-20 18:00:00,1,Cerah Berawan,90,25,77
+Waropen_2023-11-20T00:00:00,Waropen,2023-11-20 00:00:00,3,Berawan,70,27,81
+Waropen_2023-11-20T06:00:00,Waropen,2023-11-20 06:00:00,60,Hujan Ringan,70,31,88
+Waropen_2023-11-20T12:00:00,Waropen,2023-11-20 12:00:00,60,Hujan Ringan,85,26,79
+Waropen_2023-11-20T18:00:00,Waropen,2023-11-20 18:00:00,1,Cerah Berawan,95,23,73
+Way Kanan_2023-11-20T00:00:00,Way Kanan,2023-11-20 00:00:00,3,Berawan,90,24,75
+Way Kanan_2023-11-20T06:00:00,Way Kanan,2023-11-20 06:00:00,0,Cerah,60,32,90
+Way Kanan_2023-11-20T12:00:00,Way Kanan,2023-11-20 12:00:00,1,Cerah Berawan,65,28,82
+Way Kanan_2023-11-20T18:00:00,Way Kanan,2023-11-20 18:00:00,3,Berawan,85,24,75
+Wonogiri_2023-11-20T00:00:00,Wonogiri,2023-11-20 00:00:00,3,Berawan,80,27,81
+Wonogiri_2023-11-20T06:00:00,Wonogiri,2023-11-20 06:00:00,3,Berawan,60,33,91
+Wonogiri_2023-11-20T12:00:00,Wonogiri,2023-11-20 12:00:00,3,Berawan,75,28,82
+Wonogiri_2023-11-20T18:00:00,Wonogiri,2023-11-20 18:00:00,3,Berawan,85,25,77
+Wonosobo_2023-11-20T00:00:00,Wonosobo,2023-11-20 00:00:00,3,Berawan,85,26,79
+Wonosobo_2023-11-20T06:00:00,Wonosobo,2023-11-20 06:00:00,3,Berawan,65,30,86
+Wonosobo_2023-11-20T12:00:00,Wonosobo,2023-11-20 12:00:00,3,Berawan,80,27,81
+Wonosobo_2023-11-20T18:00:00,Wonosobo,2023-11-20 18:00:00,3,Berawan,90,23,73
+Yahukimo _2023-11-20T00:00:00,Yahukimo,2023-11-20 00:00:00,4,Berawan Tebal,70,22,72
+Yahukimo _2023-11-20T06:00:00,Yahukimo,2023-11-20 06:00:00,3,Berawan,70,26,79
+Yahukimo _2023-11-20T12:00:00,Yahukimo,2023-11-20 12:00:00,3,Berawan,85,21,70
+Yahukimo _2023-11-20T18:00:00,Yahukimo,2023-11-20 18:00:00,3,Berawan,95,18,64
+Yalimo_2023-11-20T00:00:00,Yalimo,2023-11-20 00:00:00,3,Berawan,70,22,72
+Yalimo_2023-11-20T06:00:00,Yalimo,2023-11-20 06:00:00,3,Berawan,70,26,79
+Yalimo_2023-11-20T12:00:00,Yalimo,2023-11-20 12:00:00,3,Berawan,85,21,70
+Yalimo_2023-11-20T18:00:00,Yalimo,2023-11-20 18:00:00,1,Cerah Berawan,95,18,64
+Yogyakarta_2023-11-20T00:00:00,Yogyakarta,2023-11-20 00:00:00,3,Berawan,75,26,79
+Yogyakarta_2023-11-20T06:00:00,Yogyakarta,2023-11-20 06:00:00,3,Berawan,50,33,91
+Yogyakarta_2023-11-20T12:00:00,Yogyakarta,2023-11-20 12:00:00,3,Berawan,75,28,82
+Yogyakarta_2023-11-20T18:00:00,Yogyakarta,2023-11-20 18:00:00,3,Berawan,95,26,79
