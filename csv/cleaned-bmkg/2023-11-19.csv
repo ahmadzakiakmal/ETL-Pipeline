@@ -1,0 +1,41 @@
+id,kota,jamCuaca,kodeCuaca,cuaca,humidity,tempC,tempF
+Aceh Barat Daya_2023-11-19T00:00:00,Aceh Barat Daya,2023-11-19 00:00:00,3,Berawan,90,24,75
+Aceh Barat Daya_2023-11-19T06:00:00,Aceh Barat Daya,2023-11-19 06:00:00,95,Hujan Petir,85,27,81
+Aceh Barat Daya_2023-11-19T12:00:00,Aceh Barat Daya,2023-11-19 12:00:00,60,Hujan Ringan,95,24,75
+Aceh Barat Daya_2023-11-19T18:00:00,Aceh Barat Daya,2023-11-19 18:00:00,45,Berkabut,100,23,73
+Aceh Besar_2023-11-19T00:00:00,Aceh Besar,2023-11-19 00:00:00,1,Cerah Berawan,90,22,72
+Aceh Besar_2023-11-19T06:00:00,Aceh Besar,2023-11-19 06:00:00,1,Cerah Berawan,75,28,82
+Aceh Besar_2023-11-19T12:00:00,Aceh Besar,2023-11-19 12:00:00,3,Berawan,95,23,73
+Aceh Besar_2023-11-19T18:00:00,Aceh Besar,2023-11-19 18:00:00,1,Cerah Berawan,95,22,72
+Aceh Jaya_2023-11-19T00:00:00,Aceh Jaya,2023-11-19 00:00:00,3,Berawan,95,24,75
+Aceh Jaya_2023-11-19T06:00:00,Aceh Jaya,2023-11-19 06:00:00,60,Hujan Ringan,85,28,82
+Aceh Jaya_2023-11-19T12:00:00,Aceh Jaya,2023-11-19 12:00:00,60,Hujan Ringan,90,26,79
+Aceh Jaya_2023-11-19T18:00:00,Aceh Jaya,2023-11-19 18:00:00,3,Berawan,95,25,77
+Aceh Tamiang_2023-11-19T00:00:00,Aceh Tamiang,2023-11-19 00:00:00,60,Hujan Ringan,100,24,75
+Aceh Tamiang_2023-11-19T06:00:00,Aceh Tamiang,2023-11-19 06:00:00,1,Cerah Berawan,75,30,86
+Aceh Tamiang_2023-11-19T12:00:00,Aceh Tamiang,2023-11-19 12:00:00,1,Cerah Berawan,90,26,79
+Aceh Tamiang_2023-11-19T18:00:00,Aceh Tamiang,2023-11-19 18:00:00,3,Berawan,95,24,75
+Aceh Tenggara_2023-11-19T00:00:00,Aceh Tenggara,2023-11-19 00:00:00,1,Cerah Berawan,70,23,73
+Aceh Tenggara_2023-11-19T06:00:00,Aceh Tenggara,2023-11-19 06:00:00,60,Hujan Ringan,65,28,82
+Aceh Tenggara_2023-11-19T12:00:00,Aceh Tenggara,2023-11-19 12:00:00,1,Cerah Berawan,95,22,72
+Aceh Tenggara_2023-11-19T18:00:00,Aceh Tenggara,2023-11-19 18:00:00,1,Cerah Berawan,75,22,72
+Aceh Timur_2023-11-19T00:00:00,Aceh Timur,2023-11-19 00:00:00,3,Berawan,95,24,75
+Aceh Timur_2023-11-19T06:00:00,Aceh Timur,2023-11-19 06:00:00,1,Cerah Berawan,80,29,84
+Aceh Timur_2023-11-19T12:00:00,Aceh Timur,2023-11-19 12:00:00,1,Cerah Berawan,75,29,84
+Aceh Timur_2023-11-19T18:00:00,Aceh Timur,2023-11-19 18:00:00,95,Hujan Petir,95,25,77
+Banda Aceh_2023-11-19T00:00:00,Banda Aceh,2023-11-19 00:00:00,60,Hujan Ringan,95,23,73
+Banda Aceh_2023-11-19T06:00:00,Banda Aceh,2023-11-19 06:00:00,3,Berawan,80,30,86
+Banda Aceh_2023-11-19T12:00:00,Banda Aceh,2023-11-19 12:00:00,3,Berawan,95,26,79
+Banda Aceh_2023-11-19T18:00:00,Banda Aceh,2023-11-19 18:00:00,1,Cerah Berawan,95,24,75
+Bireuen_2023-11-19T00:00:00,Bireuen,2023-11-19 00:00:00,1,Cerah Berawan,95,24,75
+Bireuen_2023-11-19T06:00:00,Bireuen,2023-11-19 06:00:00,0,Cerah,80,29,84
+Bireuen_2023-11-19T12:00:00,Bireuen,2023-11-19 12:00:00,1,Cerah Berawan,85,27,81
+Bireuen_2023-11-19T18:00:00,Bireuen,2023-11-19 18:00:00,60,Hujan Ringan,90,26,79
+Gayo Lues_2023-11-19T00:00:00,Gayo Lues,2023-11-19 00:00:00,1,Cerah Berawan,85,18,64
+Gayo Lues_2023-11-19T06:00:00,Gayo Lues,2023-11-19 06:00:00,60,Hujan Ringan,65,26,79
+Gayo Lues_2023-11-19T12:00:00,Gayo Lues,2023-11-19 12:00:00,60,Hujan Ringan,90,20,68
+Gayo Lues_2023-11-19T18:00:00,Gayo Lues,2023-11-19 18:00:00,1,Cerah Berawan,90,16,61
+Langsa_2023-11-19T00:00:00,Langsa,2023-11-19 00:00:00,3,Berawan,95,23,73
+Langsa_2023-11-19T06:00:00,Langsa,2023-11-19 06:00:00,1,Cerah Berawan,75,31,88
+Langsa_2023-11-19T12:00:00,Langsa,2023-11-19 12:00:00,1,Cerah Berawan,85,27,81
+Langsa_2023-11-19T18:00:00,Langsa,2023-11-19 18:00:00,95,Hujan Petir,100,24,75
