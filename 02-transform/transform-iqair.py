@@ -25,7 +25,7 @@ def clean_csv(file_paths):
         file_name = os.path.splitext(os.path.basename(file_path))[0]
 
         # Menentukan direktori untuk menyimpan file CSV yang sudah dibersihkan
-        cleaned_dir = '../ETL-Pipeline/csv/cleaned-iqair/'
+        cleaned_dir = '../csv/cleaned-iqair/'
         os.makedirs(cleaned_dir, exist_ok=True)  # Membuat direktori jika belum ada
 
         # Menyimpan DataFrame yang sudah dibersihkan ke dalam file CSV baru
@@ -60,10 +60,11 @@ def merge_cleaned_files(directory, date):
 
 
 # Daftar file yang perlu dibersihkan
-input_directory = 'csv/raw-iqair/'
+input_directory = '../csv/raw-iqair/'
 file_paths = []
-# date = datetime.now().strftime('%Y-%m-%d')
-date = "2023-11-20"
+date = datetime.now().strftime('%Y-%m-%d')
+print(date)
+# date = "2023-11-22"
 
 print("File yang perlu dibersihkan:")
 for i in range(0,4):
@@ -80,7 +81,7 @@ for i in range(0,4):
 clean_csv(file_paths)
 
 # Directory tempat file cleaned_{file_name}.csv disimpan
-output_directory = 'csv/cleaned-iqair/'
+output_directory = '../csv/cleaned-iqair/'
 
 # Memanggil fungsi untuk menggabungkan file-file yang telah dibersihkan
 merge_cleaned_files(output_directory, date)
