@@ -49,7 +49,7 @@ def merge_cleaned_files(directory, date):
         merged_df = merged_df.sort_values(by='id')
 
         # Menyimpan DataFrame yang sudah digabungkan, diurutkan, dan tanpa data ganda ke dalam file CSV baru
-        merged_dir = '../ETL-Pipeline/csv/iqair/'
+        merged_dir = '../csv/iqair/'
         os.makedirs(merged_dir, exist_ok=True)  # Membuat direktori jika belum ada
 
         merged_file_path = os.path.join(merged_dir, f'{date}.csv')
@@ -62,9 +62,9 @@ def merge_cleaned_files(directory, date):
 # Daftar file yang perlu dibersihkan
 input_directory = '../csv/raw-iqair/'
 file_paths = []
-date = datetime.now().strftime('%Y-%m-%d')
+# date = datetime.now().strftime('%Y-%m-%d')
+date = "2023-11-24"
 print(date)
-# date = "2023-11-22"
 
 print("File yang perlu dibersihkan:")
 for i in range(0,4):
