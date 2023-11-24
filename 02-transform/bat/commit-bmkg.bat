@@ -26,7 +26,7 @@ if 1%hour% LSS 110 set hour=0%hour%
 set formattedDateTime=%year%-%month%-%day%
 
 :: Construct the commit message
-set commit_message=feat: cleaned BMKG Data %formattedDateTime%
+set commit_message=[Auto] Cleaned BMKG Data %formattedDateTime%
 echo %commit_message%
 
 git add *

@@ -1,8 +1,6 @@
 @echo off
 cd /d "F:\Repositories\ETL-Pipeline\csv\raw-iqair"
 git add *
-cd /d "F:\Repositories\ETL-Pipeline\csv\iqair"
-git add *
 
 :: Extract the date and time and remove any trailing spaces
 for /f "tokens=*" %%a in ('echo %DATE%') do set mydate=%%a
