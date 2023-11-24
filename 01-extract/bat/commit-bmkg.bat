@@ -29,6 +29,6 @@ set formattedDateTime=%year%-%month%-%day%
 set commit_message=[Auto] BMKG Data %formattedDateTime%
 echo %commit_message%
 
-@REM git add *
-@REM git commit -m "%commit_message%"
-@REM git push origin main
+git add *
+git commit -m "%commit_message%"
+git push origin main
