@@ -1,5 +1,5 @@
 @echo off
-cd /d "F:\Repositories\ETL-Pipeline\csv\cleaned-bmkg"
+cd /d "F:\Repositories\ETL-Pipeline\csv\cleaned-iqair"
 
 :: Extract the date and time and remove any trailing spaces
 for /f "tokens=*" %%a in ('echo %DATE%') do set mydate=%%a
@@ -26,7 +26,7 @@ if 1%hour% LSS 110 set hour=0%hour%
 set formattedDateTime=%year%-%month%-%day%
 
 :: Construct the commit message
-set commit_message=feat: cleaned BMKG Data %formattedDateTime%
+set commit_message=feat: Cleaned IQAir Data %formattedDateTime%
 echo %commit_message%
 
 git add *
