@@ -1,5 +1,8 @@
 @echo off
-cd /d "F:\Repositories\ETL-Pipeline\csv\raw-bmkg"
+cd /d "F:\Repositories\ETL-Pipeline\csv\raw-iqair"
+git add *
+cd /d "F:\Repositories\ETL-Pipeline\csv\iqair"
+git add *
 
 :: Extract the date and time and remove any trailing spaces
 for /f "tokens=*" %%a in ('echo %DATE%') do set mydate=%%a
@@ -23,12 +26,11 @@ if "%hour:~0,1%"==" " set hour=0%hour:~1%
 if 1%hour% LSS 110 set hour=0%hour%
 
 :: Combine to form YYYY-MM-DD-HH
-set formattedDateTime=%year%-%month%-%day%
+set formattedDateTime=%year%-%month%-%day%-%hour%
 
 :: Construct the commit message
-set commit_message=feat: BMKG Data %formattedDateTime%
+set commit_message=[Auto] IQAir Data %formattedDateTime%
 echo %commit_message%
 
-git add *
 git commit -m "%commit_message%"
 git push origin main
