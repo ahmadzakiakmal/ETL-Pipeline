@@ -1,8 +1,8 @@
 import pandas as pd
 from datetime import datetime
 
-# date = datetime.today().strftime('%Y-%m-%d')
-date = "2023-11-21"
+date = datetime.today().strftime('%Y-%m-%d')
+# date = "2023-11-23"
 # Path file CSV
 file_path = f"../csv/raw-bmkg/{date}.csv"
 
