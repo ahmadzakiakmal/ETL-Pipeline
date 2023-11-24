@@ -26,7 +26,7 @@ df.sort_values(by=["id"], inplace=True)
 cleaned_df = df.drop_duplicates(subset=['id'])
 
 # Menyimpan DataFrame yang sudah bersih ke dalam file CSV baru
-cleaned_file_path = f"../csv/cleaned-bmkg/{date}.csv"
+cleaned_file_path = f"../csv/bmkg/{date}.csv"
 cleaned_df.to_csv(cleaned_file_path, index=False)
 duplicated2 = cleaned_df[cleaned_df.duplicated(["id"])]
 print("duplicates2:",len(duplicated2))
