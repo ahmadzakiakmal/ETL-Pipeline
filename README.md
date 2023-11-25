@@ -54,11 +54,11 @@ Load data into PostgreSQL database.
 ├─ README.md
 ├─ csv
 │  ├─ bmkg
-│  │  ├─ [CSVs of raw BMKG data]
+│  │  ├─ [CSVs of final BMKG data]
 │  ├─ cleaned-iqair
 │  │  ├─ [CSVs of cleaned IQAir data]
 │  ├─ iqair
-│  │  ├─ [CSVs of raw IQAir data]
+│  │  ├─ [CSVs of final IQAir data]
 │  ├─ raw-bmkg
 │  │  ├─ [CSVs of raw BMKG data]
 │  └─ raw-iqair
