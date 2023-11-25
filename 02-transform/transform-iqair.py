@@ -62,8 +62,8 @@ def merge_cleaned_files(directory, date):
 # Daftar file yang perlu dibersihkan
 input_directory = '../csv/raw-iqair/'
 file_paths = []
-# date = datetime.now().strftime('%Y-%m-%d')
-date = "2023-11-24"
+date = datetime.now().strftime('%Y-%m-%d')
+# date = "2023-11-24"
 print(date)
 
 print("File yang perlu dibersihkan:")
