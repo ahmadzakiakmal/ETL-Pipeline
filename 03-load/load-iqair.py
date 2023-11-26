@@ -3,41 +3,73 @@ import csv
 import os
 from dotenv import load_dotenv
 from datetime import datetime
+from psycopg2 import extras
 
 # db credentials
 load_dotenv()
-db_host = os.environ.get("DB_HOST")
-db_name = os.environ.get("DB_NAME")
-db_user = os.environ.get("DB_USER")
-db_password = os.environ.get("DB_PASSWORD")
+db_host = os.environ.get("localhost")
+db_name = os.environ.get("weather_rekdat")
+db_user = os.environ.get("")
+db_password = os.environ.get("")
 
 date = datetime.now().strftime("%Y-%m-%d")
-file_names = []
-for i in range(0,4):
-    file_names.append(f"csv/raw-iqair/{date}-{i*6}.csv")
-    
-conn = psycopg2.connect(
-    host=db_host,
-    database=db_name,
-    user=db_user,
-    password=db_password,
-    port=5432,
-)
 
-# try connection
-connected = False
+# Coba koneksi
 try:
+    conn = psycopg2.connect(
+        host="localhost",
+        database="weather_rekdat",
+        user="postgres",
+        password="1816",
+        port=5432,
+    )
     cur = conn.cursor()
     print("Connected to database.")
     connected = True
-except:
-    print("Failed to connect to database.")
+except psycopg2.Error as e:
+    print(f"Failed to connect to database: {e}")
 
-# for file_name in file_names:
-#     with open(file_name, "r") as csv_file:
-#         cur = conn.cursor()
-#         cur.copy_from(csv_file, "iqair", sep=",")
-#         conn.commit()
-#         cur.close()
-#         print(f"Successfully copied {file_name} to iqair table.")
+# Lanjutkan dengan kode untuk memuat file jika koneksi berhasil
+if connected:
+    available_dates = [
+        "2023-11-20",
+        "2023-11-21",
+        "2023-11-22",
+        "2023-11-23",
+        "2023-11-24",
+        "2023-11-25"
+    ]
+    
+    for available_date in available_dates:
+        file_path = f"/Users/erikuncoro/Documents/Project_Rekdat/ETL-Pipeline/csv/iqair/{available_date}.csv"
+        
+        #id,kota,iqa,wind_dir(deg),wind_spd(km/h),pressure(mbar),accessed
+        if os.path.exists(file_path):
+            # Memuat file hanya jika file ada
+            with open(file_path, 'r', newline='') as csv_file:
+                reader = csv.DictReader(csv_file)
+                data_to_insert = [{
+                    'id': row['id'],
+                    'kota': row['kota'],
+                    'iqa': int(row['iqa']),
+                    'wind_dir_deg': int(row['wind_dir(deg)']),
+                    'wind_spd_km_h': float(row['wind_spd(km/h)']),
+                    'pressure_mbar': int(row['pressure(mbar)']),
+                    'accessed': row['accessed'],
+                } for row in reader]
 
+                cur = conn.cursor()
+                try:
+                    placeholders = ', '.join(['%s'] * len(data_to_insert[0]))
+                    columns = ', '.join(data_to_insert[0].keys())
+                    query = f"INSERT INTO iqair ({columns}) VALUES ({placeholders})"
+                    cur.executemany(query, [tuple(data.values()) for data in data_to_insert])
+                    conn.commit()
+                    print(f"Successfully copied {available_date}.csv to iqair table.")
+                except psycopg2.Error as e:
+                    conn.rollback()
+                    print(f"Error copying {available_date}.csv to iqair table: {e}")
+                finally:
+                    cur.close()
+        else:
+            print(f"No file found for {available_date}.csv")
