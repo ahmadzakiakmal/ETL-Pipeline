@@ -1,5 +1,5 @@
 @echo off
-cd /d "F:\Repositories\ETL-Pipeline\csv\cleaned-bmkg"
+cd /d "F:\Repositories\ETL-Pipeline\csv\bmkg"
 
 :: Extract the date and time and remove any trailing spaces
 for /f "tokens=*" %%a in ('echo %DATE%') do set mydate=%%a
