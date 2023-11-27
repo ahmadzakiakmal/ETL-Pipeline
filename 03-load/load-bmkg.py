@@ -12,15 +12,16 @@ db_name = os.environ.get("weather_rekdat")
 db_user = os.environ.get("")
 db_password = os.environ.get("")
 
-date = datetime.now().strftime("%Y-%m-%d")
+# date = datetime.now().strftime("%Y-%m-%d")
+date = "2023-11-26"
 
 # Coba koneksi
 try:
     conn = psycopg2.connect(
-        host="localhost",
-        database="weather_rekdat",
+        host=os.environ.get("DB_HOST"),
+        database=os.environ.get("DB_NAME"),
         user="postgres",
-        password="1816",
+        password=os.environ.get("DB_PASSWORD"),
         port=5432,
     )
     cur = conn.cursor()
@@ -31,45 +32,56 @@ except psycopg2.Error as e:
 
 # Lanjutkan dengan kode untuk memuat file jika koneksi berhasil
 if connected:
-    available_dates = [
-        "2023-11-19",
-        "2023-11-20",
-        "2023-11-21",
-        "2023-11-22",
-        "2023-11-23",
-        "2023-11-24"
-    ]
-    
-    for available_date in available_dates:
-        file_path = f"/Users/erikuncoro/Documents/Project_Rekdat/ETL-Pipeline/csv/bmkg/{available_date}.csv"
-        
-        if os.path.exists(file_path):
-            # Memuat file hanya jika file ada
-            with open(file_path, 'r', newline='') as csv_file:
-                reader = csv.DictReader(csv_file)
-                data_to_insert = [{
-                    'id': row['id'],
-                    'kota': row['kota'],
-                    'jamCuaca': row['jamCuaca'],
-                    'kodeCuaca': int(row['kodeCuaca']),
-                    'cuaca': row['cuaca'],
-                    'humidity': int(row['humidity']),
-                    'tempC': float(row['tempC']),
-                    'tempF': float(row['tempF'])
-                } for row in reader]
+    file_path = f"../csv/bmkg/{date}.csv"
+    # get start time
+    start_time = datetime.now()
 
-                cur = conn.cursor()
-                try:
-                    placeholders = ', '.join(['%s'] * len(data_to_insert[0]))
-                    columns = ', '.join(data_to_insert[0].keys())
-                    query = f"INSERT INTO bmkg ({columns}) VALUES ({placeholders})"
-                    cur.executemany(query, [tuple(data.values()) for data in data_to_insert])
-                    conn.commit()
-                    print(f"Successfully copied {available_date}.csv to weather table.")
-                except psycopg2.Error as e:
-                    conn.rollback()
-                    print(f"Error copying {available_date}.csv to weather table: {e}")
-                finally:
-                    cur.close()
-        else:
-            print(f"No file found for {available_date}.csv")
+    if os.path.exists(file_path):
+        print(f"Copying {date}.csv to weather table...")
+        # Memuat file hanya jika file ada
+        with open(file_path, "r", newline="") as csv_file:
+            reader = csv.DictReader(csv_file)
+            data_to_insert = [
+                {
+                    "id": row["id"],
+                    "kota": row["kota"],
+                    "jamCuaca": row["jamCuaca"],
+                    "kodeCuaca": int(row["kodeCuaca"]),
+                    "cuaca": row["cuaca"],
+                    "humidity": int(row["humidity"]),
+                    "tempC": float(row["tempC"]),
+                    "tempF": float(row["tempF"]),
+                }
+                for row in reader
+            ]
+
+            cur = conn.cursor()
+            status = "ERROR"
+            try:
+                placeholders = ", ".join(["%s"] * len(data_to_insert[0]))
+                columns = ", ".join(data_to_insert[0].keys())
+                query = f"INSERT INTO bmkg ({columns}) VALUES ({placeholders})"
+                cur.executemany(
+                    query, [tuple(data.values()) for data in data_to_insert]
+                )
+                conn.commit()
+                print(f"Successfully copied {date}.csv to weather table.")
+                # get end time
+                end_time = datetime.now()
+                # get time difference
+                time_diff = end_time - start_time
+                print(f"Time taken to copy {date}.csv to weather table: {time_diff}")
+                status = "SUCCESS"
+            except psycopg2.Error as e:
+                conn.rollback()
+                print(f"Error copying {date}.csv to weather table: {e}")
+            finally:
+                cur.close()
+                # # make a log.txt file and log loading event
+                date_time = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+                with open("../logs/log.txt", "a") as log_file:
+                    log_file.write(
+                        f"{date_time} - Loading BMKG Data {date}.csv - [{status}]\n"
+                    )
+    else:
+        print(f"No file found for {date}.csv")
