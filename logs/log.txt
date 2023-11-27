@@ -1,2 +1,0 @@
-2023-11-27 17:59:20 - Loading BMKG Data 2023-11-26.csv - [ERROR]
-2023-11-27 18:10:45 - Loading BMKG Data 2023-11-26.csv - [SUCCESS]
