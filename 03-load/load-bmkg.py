@@ -12,8 +12,8 @@ db_name = os.environ.get("weather_rekdat")
 db_user = os.environ.get("")
 db_password = os.environ.get("")
 
-# date = datetime.now().strftime("%Y-%m-%d")
-date = "2023-11-26"
+date = datetime.now().strftime("%Y-%m-%d")
+# date = "2023-11-26"
 
 # Coba koneksi
 try:
@@ -33,11 +33,9 @@ except psycopg2.Error as e:
 # Lanjutkan dengan kode untuk memuat file jika koneksi berhasil
 if connected:
     file_path = f"../csv/bmkg/{date}.csv"
-    # get start time
-    start_time = datetime.now()
 
     if os.path.exists(file_path):
-        print(f"Copying {date}.csv to weather table...")
+        print(f"Copying {date}.csv to bmkg table...")
         # Memuat file hanya jika file ada
         with open(file_path, "r", newline="") as csv_file:
             reader = csv.DictReader(csv_file)
@@ -65,21 +63,16 @@ if connected:
                     query, [tuple(data.values()) for data in data_to_insert]
                 )
                 conn.commit()
-                print(f"Successfully copied {date}.csv to weather table.")
-                # get end time
-                end_time = datetime.now()
-                # get time difference
-                time_diff = end_time - start_time
-                print(f"Time taken to copy {date}.csv to weather table: {time_diff}")
+                print(f"Successfully copied {date}.csv to bmkg table.")
                 status = "SUCCESS"
             except psycopg2.Error as e:
                 conn.rollback()
-                print(f"Error copying {date}.csv to weather table: {e}")
+                print(f"Error copying {date}.csv to bmkg table: {e}")
             finally:
                 cur.close()
                 # # make a log.txt file and log loading event
                 date_time = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-                with open("../logs/log.txt", "a") as log_file:
+                with open("../logs/bmkg.txt", "a") as log_file:
                     log_file.write(
                         f"{date_time} - Loading BMKG Data {date}.csv - [{status}]\n"
                     )
