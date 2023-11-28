@@ -43,7 +43,9 @@ def merge_cleaned_files(directory, date):
         merged_df = pd.concat(dfs, ignore_index=True)
 
         # Menghapus data yang ganda
-        merged_df.drop_duplicates(inplace=True)
+        duplicates = merged_df[merged_df.duplicated(["id"])]
+        merged_df.drop_duplicates(["id"], inplace=True)
+        print("Dropped", len(duplicates), "duplicate rows.")
 
         # Mengurutkan berdasarkan kolom 'kota'
         merged_df = merged_df.sort_values(by='id')
@@ -63,7 +65,7 @@ def merge_cleaned_files(directory, date):
 input_directory = '../csv/raw-iqair/'
 file_paths = []
 date = datetime.now().strftime('%Y-%m-%d')
-# date = "2023-11-24"
+# date = "2023-11-27"
 print(date)
 
 print("File yang perlu dibersihkan:")
