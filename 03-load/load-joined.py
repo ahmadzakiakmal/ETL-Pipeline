@@ -2,25 +2,28 @@ import csv
 import os
 from dotenv import load_dotenv
 from psycopg2 import connect
+from datetime import datetime
 
 load_dotenv()
 
-db_host = os.environ.get("localhost")
-db_name = os.environ.get("weather_rekdat")
-db_user = os.environ.get("")
-db_password = os.environ.get("")
+db_host = os.environ.get("DB_HOST")
+db_name = os.environ.get("DB_NAME")
+db_user = os.environ.get("DB_USER")
+db_password = os.environ.get("DB_PASSWORD")
+status = "ERROR"
 
 try:
     conn = connect(
-        host='localhost',
-        database='weather_rekdat',
-        user='postgres',
-        password='1816',
+        host=db_host,
+        database=db_name,
+        user=db_user,
+        password=db_password,
         port=5432
     )
     print("Connected to the database.")
 
     def merge_data(conn, bmkg_file, iqair_file):
+        print("Merging data...")
         bmkg_data = {}
         iqair_data = {}
 
@@ -49,6 +52,7 @@ try:
                     'accessed': row['accessed'],
                 }
 
+        print("Inserting data into join_table...")
         cur = conn.cursor()
         for id, bmkg_info in bmkg_data.items():
             if id in iqair_data:
@@ -76,40 +80,44 @@ try:
                 conn.commit()
 
     if conn:
-        # available dates for bmkg
-        bmkg_available_dates = [
-            "2023-11-19",
-            "2023-11-20",
-            "2023-11-21",
-            "2023-11-22",
-            "2023-11-23",
-            "2023-11-24"
-        ]
+        # # available dates for bmkg
+        # bmkg_available_dates = [
+        #     "2023-11-19",
+        #     "2023-11-20",
+        #     "2023-11-21",
+        #     "2023-11-22",
+        #     "2023-11-23",
+        #     "2023-11-24",
+        #     "2023-11-25"
+        # ]
 
-        # available dates for iqair
-        iqair_available_dates = [
-            "2023-11-20",
-            "2023-11-21",
-            "2023-11-22",
-            "2023-11-23",
-            "2023-11-24",
-            "2023-11-25"
-        ]
+        # # available dates for iqair
+        # iqair_available_dates = [
+        #     "2023-11-20",
+        #     "2023-11-21",
+        #     "2023-11-22",
+        #     "2023-11-23",
+        #     "2023-11-24",
+        #     "2023-11-25"
+        # ]
 
         # Change the available_date to select the desired date
-        available_date = "2023-11-20"
+        date = "2023-11-29"
 
-        if available_date in bmkg_available_dates and available_date in iqair_available_dates:
-            bmkg_csv_file = f"/Users/erikuncoro/Documents/Project_Rekdat/ETL-Pipeline/csv/bmkg/{available_date}.csv"
-            iqair_csv_file = f"/Users/erikuncoro/Documents/Project_Rekdat/ETL-Pipeline/csv/iqair/{available_date}.csv"
+        
+        bmkg_csv_file = f"../csv/bmkg/{date}.csv"
+        iqair_csv_file = f"../csv/iqair/{date}.csv"
 
-            merge_data(conn, bmkg_csv_file, iqair_csv_file)
-            print(f"Data for {available_date} has been merged and inserted into join_table.")
-        else:
-            print(f"No data available for {available_date} in both bmkg and iqair.")
+        merge_data(conn, bmkg_csv_file, iqair_csv_file)
+        print(f"Data for {date} has been merged and inserted into join_table.")
+        status = "SUCCESS"
+            # print(f"No data available for {available_date} in both bmkg and iqair.")
 
 except Exception as e:
     print(f"Error: {e}")
 finally:
     if conn:
         conn.close()
+    # log into log file
+    with open("../logs/join.txt", "a") as log_file:
+        log_file.write(f"{datetime.now()} - Loading IQAIR Data {date}.csv - [{status}]\n")
