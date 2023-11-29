@@ -11,7 +11,8 @@ End-to-end data ETL pipeline for **weather data from BMKG** and **air quality da
 
 # ETL Process Overview
 
-![image](https://github.com/ahmadzaki2975/ETL-Pipeline/assets/87590846/878a8d3a-fb8b-4219-b7c2-5d866a46b7b1)
+![image](https://github.com/ahmadzaki2975/ETL-Pipeline/assets/87590846/b106cfc5-4741-4ba5-b3f2-7def9a893282)
+
 
 ## Extraction
 1. extract data from BMKG's API using `scrape-bmkg.py`, schedule once daily.
