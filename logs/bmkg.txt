@@ -5,3 +5,4 @@
 
 2023-11-28 11:18:00 - Loading BMKG Data 2023-11-28.csv - [SUCCESS]
 2023-11-29 11:18:04 - Loading BMKG Data 2023-11-29.csv - [SUCCESS]
+2023-11-30 11:18:02 - Loading BMKG Data 2023-11-30.csv - [SUCCESS]
